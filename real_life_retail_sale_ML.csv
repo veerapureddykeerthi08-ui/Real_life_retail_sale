@@ -1,0 +1,1201 @@
+Order_ID,Order_Date,Customer_ID,Customer_Segment,Region,City,Sales_Channel,Category,Product,Quantity,Unit_Price_INR,Discount_Percent,Sales_INR,Cost_INR,Profit_INR,Payment_Method,Shipping_Days,Order_Status
+ORD-100559,01-01-2023,CUST-1097,Consumer,West,Pune,Mobile App,Electronics,Laptop,1,50685.09,0,50685.09,34697.9,15987.19,Debit Card,6,Delivered
+ORD-100743,01-01-2023,CUST-1342,Consumer,West,Pune,Store,Beauty,Hair Dryer,1,1710.03,0.05,1624.53,1226.97,397.56,UPI,1,Cancelled
+ORD-100146,02-01-2023,CUST-1130,Consumer,East,Patna,Store,Home & Kitchen,Mixer Grinder,2,3288.26,0.2,5261.22,4778.77,482.45,Credit Card,3,Delivered
+ORD-100189,02-01-2023,CUST-1154,Small Business,East,Kolkata,Online,Home & Kitchen,Storage Box,1,423.89,0,423.89,296.45,127.44,UPI,3,Shipped
+ORD-101178,03-01-2023,CUST-1058,Consumer,North,Delhi,Online,Clothing,Kurta,1,983.58,0.2,786.86,634.04,152.82,Cash,6,Cancelled
+ORD-101138,03-01-2023,CUST-1234,Consumer,West,Pune,Store,Beauty,Face Wash,2,211.64,0.1,380.95,235.94,145.01,UPI,3,Shipped
+ORD-100723,04-01-2023,CUST-1070,Consumer,South,Chennai,Mobile App,Electronics,Wireless Earbuds,2,1710.88,0,3421.76,2432.25,989.51,Credit Card,3,Delivered
+ORD-100990,04-01-2023,CUST-1040,Consumer,East,Patna,Mobile App,Beauty,Moisturizer,1,376.52,0,376.52,291.98,84.54,Credit Card,6,Shipped
+ORD-100308,05-01-2023,CUST-1215,Small Business,West,Ahmedabad,Mobile App,Clothing,Jeans,4,1458.86,0,5835.44,4152.23,1683.21,Credit Card,3,Cancelled
+ORD-100773,05-01-2023,CUST-1095,Small Business,West,Pune,Online,Clothing,Sneakers,1,2548.05,0.05,2420.65,1976.25,444.4,Debit Card,1,Delivered
+ORD-100720,06-01-2023,CUST-1037,Consumer,South,Hyderabad,Store,Electronics,Wireless Earbuds,1,1873.81,0,1873.81,1373.35,500.46,Credit Card,4,Delivered
+ORD-100955,07-01-2023,CUST-1228,Consumer,South,Hyderabad,Store,Clothing,Kurta,4,1098.38,0.2,3514.82,3094.43,420.39,UPI,5,Processing
+ORD-100656,08-01-2023,CUST-1136,Small Business,Central,Bhopal,Store,Clothing,Kurta,2,982.38,0.1,1768.28,1274.63,493.66,UPI,2,Delivered
+ORD-100195,09-01-2023,CUST-1010,Corporate,North,Delhi,Online,Beauty,Moisturizer,1,370.56,0.15,314.98,229.59,85.39,Debit Card,6,Processing
+ORD-100528,10-01-2023,CUST-1325,Consumer,North,Chandigarh,Store,Beauty,Moisturizer,1,324.47,0.05,308.25,214.53,93.71,Cash,3,Delivered
+ORD-100752,10-01-2023,CUST-1078,Consumer,East,Kolkata,Store,Clothing,Jeans,2,1644.7,0.15,2795.99,2521.83,274.16,Credit Card,2,Delivered
+ORD-100830,11-01-2023,CUST-1073,Consumer,West,Pune,Online,Beauty,Perfume,1,1274.16,0,1274.16,705.87,568.29,Debit Card,7,Delivered
+ORD-101155,11-01-2023,CUST-1251,Consumer,West,Pune,Online,Beauty,Face Wash,2,182.16,0.15,309.67,277.91,31.76,Debit Card,1,Delivered
+ORD-101027,11-01-2023,CUST-1166,Small Business,South,Kochi,Mobile App,Beauty,Perfume,5,1371.65,0.15,5829.51,4886.52,943,Cash,2,Delivered
+ORD-100381,12-01-2023,CUST-1298,Consumer,South,Chennai,Store,Clothing,Kurta,5,936.65,0,4683.25,2682.09,2001.16,Cash,2,Shipped
+ORD-101066,12-01-2023,CUST-1073,Corporate,South,Chennai,Store,Beauty,Face Wash,1,194.76,0,194.76,129.86,64.9,Credit Card,6,Shipped
+ORD-100756,13-01-2023,CUST-1108,Consumer,South,Hyderabad,Online,Home & Kitchen,Storage Box,1,378.06,0.1,340.25,287.84,52.42,Debit Card,4,Delivered
+ORD-100039,14-01-2023,CUST-1068,Small Business,North,Jaipur,Mobile App,Home & Kitchen,Mixer Grinder,5,3387.61,0.15,14397.34,10258.61,4138.73,Debit Card,2,Cancelled
+ORD-100820,15-01-2023,CUST-1103,Consumer,West,Mumbai,Online,Beauty,Moisturizer,2,320.44,0,640.88,387.8,253.08,UPI,5,Delivered
+ORD-100075,15-01-2023,CUST-1285,Consumer,East,Patna,Online,Sports,Dumbbells,4,1549.36,0.1,5577.7,3999.45,1578.25,Debit Card,4,Delivered
+ORD-101112,16-01-2023,CUST-1326,Consumer,West,Mumbai,Mobile App,Sports,Running Shoes,2,3346.47,0.2,5354.35,4952.43,401.92,UPI,5,Delivered
+ORD-100242,17-01-2023,CUST-1159,Consumer,South,Kochi,Online,Clothing,Kurta,1,925.14,0,925.14,672.47,252.67,Credit Card,5,Shipped
+ORD-100261,18-01-2023,CUST-1038,Consumer,West,Pune,Store,Sports,Cricket Bat,3,2371.12,0.1,6402.02,5427.07,974.96,Debit Card,3,Delivered
+ORD-100916,18-01-2023,CUST-1241,Consumer,South,Bengaluru,Store,Electronics,Laptop,2,52628.92,0.15,89469.16,74219.56,15249.6,Net Banking,3,Delivered
+ORD-100282,20-01-2023,CUST-1249,Consumer,North,Delhi,Online,Clothing,T-Shirt,1,453.99,0.1,408.59,335.26,73.33,UPI,3,Delivered
+ORD-100033,21-01-2023,CUST-1307,Consumer,West,Ahmedabad,Mobile App,Electronics,Wireless Earbuds,1,1620.49,0.05,1539.47,1132.21,407.25,Cash,6,Delivered
+ORD-100017,22-01-2023,CUST-1327,Consumer,South,Kochi,Online,Clothing,Kurta,1,1090.4,0,1090.4,849.97,240.43,UPI,7,Delivered
+ORD-100358,23-01-2023,CUST-1103,Small Business,South,Bengaluru,Store,Electronics,Smartwatch,3,4549.16,0.15,11600.36,10413.36,1187,UPI,2,Delivered
+ORD-100834,23-01-2023,CUST-1212,Corporate,Central,Indore,Mobile App,Electronics,Smartphone,1,19251.23,0.15,16363.55,11903.58,4459.96,Debit Card,7,Processing
+ORD-100689,25-01-2023,CUST-1023,Consumer,South,Hyderabad,Online,Home & Kitchen,Mixer Grinder,5,3269.56,0.05,15530.41,11416.52,4113.89,UPI,2,Shipped
+ORD-100886,25-01-2023,CUST-1025,Consumer,East,Guwahati,Online,Home & Kitchen,Cookware Set,4,2533.68,0,10134.72,6798.01,3336.71,UPI,1,Delivered
+ORD-101052,25-01-2023,CUST-1119,Consumer,Central,Raipur,Store,Electronics,Laptop,1,57036.2,0.15,48480.77,41720.33,6760.44,UPI,2,Delivered
+ORD-101007,27-01-2023,CUST-1038,Corporate,Central,Raipur,Store,Home & Kitchen,Cookware Set,1,2384.24,0.1,2145.82,1480.69,665.12,UPI,2,Delivered
+ORD-100230,27-01-2023,CUST-1223,Consumer,West,Pune,Store,Clothing,Jeans,4,1507.27,0.05,5727.63,3389.25,2338.38,Debit Card,2,Delivered
+ORD-100665,28-01-2023,CUST-1184,Corporate,North,Chandigarh,Online,Beauty,Perfume,5,1346.55,0.1,6059.48,3726.57,2332.9,Debit Card,5,Delivered
+ORD-100681,28-01-2023,CUST-1048,Consumer,East,Kolkata,Store,Electronics,Laptop,1,56245.89,0.05,53433.6,43566.66,9866.93,Credit Card,6,Delivered
+ORD-101123,29-01-2023,CUST-1119,Consumer,West,Surat,Online,Electronics,Laptop,4,52419.4,0.1,188709.84,132571.96,56137.88,UPI,3,Delivered
+ORD-100456,29-01-2023,CUST-1067,Consumer,West,Ahmedabad,Store,Sports,Running Shoes,2,3463.5,0.2,5541.6,3927.05,1614.55,Credit Card,6,Delivered
+ORD-100993,29-01-2023,CUST-1214,Corporate,South,Bengaluru,Mobile App,Home & Kitchen,Storage Box,2,436.02,0.2,697.63,632.5,65.13,Cash,1,Delivered
+ORD-101025,29-01-2023,CUST-1018,Consumer,North,Lucknow,Online,Beauty,Hair Dryer,1,1766.2,0.05,1677.89,1047.1,630.79,UPI,4,Delivered
+ORD-100910,01-02-2023,CUST-1242,Corporate,South,Bengaluru,Mobile App,Clothing,Jeans,1,1359.26,0.2,1087.41,898.36,189.05,UPI,7,Delivered
+ORD-100696,03-02-2023,CUST-1170,Corporate,East,Guwahati,Store,Clothing,Kurta,1,981.96,0,981.96,677.06,304.9,UPI,1,Delivered
+ORD-100566,03-02-2023,CUST-1089,Consumer,West,Mumbai,Store,Home & Kitchen,Storage Box,2,427.18,0.05,811.64,571.98,239.66,Debit Card,4,Delivered
+ORD-101002,03-02-2023,CUST-1137,Consumer,North,Delhi,Online,Electronics,Smartwatch,1,4828.04,0.1,4345.24,2655.69,1689.55,Credit Card,4,Delivered
+ORD-100048,04-02-2023,CUST-1024,Consumer,South,Bengaluru,Mobile App,Clothing,Kurta,2,980.9,0.15,1667.53,1456.13,211.4,Credit Card,4,Delivered
+ORD-100384,04-02-2023,CUST-1166,Consumer,Central,Bhopal,Online,Clothing,Jeans,1,1502.46,0.15,1277.09,1138.78,138.31,Net Banking,3,Processing
+ORD-100280,05-02-2023,CUST-1021,Consumer,North,Chandigarh,Store,Clothing,Kurta,1,1086.44,0.05,1032.12,709.03,323.09,UPI,2,Delivered
+ORD-101199,06-02-2023,CUST-1068,Consumer,Central,Raipur,Store,Electronics,Wireless Earbuds,1,1668,0.1,1501.2,1199.23,301.97,Credit Card,1,Delivered
+ORD-100409,06-02-2023,CUST-1327,Small Business,North,Delhi,Store,Home & Kitchen,Storage Box,2,365.68,0.15,621.66,413.99,207.67,Credit Card,3,Delivered
+ORD-100226,07-02-2023,CUST-1304,Consumer,South,Hyderabad,Online,Home & Kitchen,Storage Box,1,362.23,0.2,289.78,219.42,70.37,Debit Card,3,Delivered
+ORD-101195,07-02-2023,CUST-1321,Consumer,North,Lucknow,Online,Home & Kitchen,Cookware Set,1,2586.88,0.15,2198.85,1642.75,556.1,UPI,1,Cancelled
+ORD-101107,08-02-2023,CUST-1208,Small Business,South,Chennai,Store,Electronics,Wireless Earbuds,3,1677.73,0.1,4529.87,3171.73,1358.14,UPI,5,Delivered
+ORD-100467,08-02-2023,CUST-1018,Consumer,South,Kochi,Online,Beauty,Face Wash,5,191.65,0,958.25,550.62,407.63,UPI,2,Delivered
+ORD-101191,09-02-2023,CUST-1032,Consumer,West,Surat,Online,Beauty,Perfume,1,1252.33,0,1252.33,922.97,329.36,Net Banking,2,Delivered
+ORD-100087,10-02-2023,CUST-1300,Corporate,Central,Bhopal,Store,Clothing,Sneakers,2,2341.75,0.1,4215.15,3503.95,711.2,Credit Card,6,Delivered
+ORD-100513,10-02-2023,CUST-1047,Corporate,East,Kolkata,Mobile App,Home & Kitchen,Cookware Set,3,2426.15,0,7278.45,4786.2,2492.25,UPI,6,Delivered
+ORD-101000,10-02-2023,CUST-1097,Consumer,North,Delhi,Online,Sports,Dumbbells,1,1730.52,0,1730.52,1211.86,518.66,Cash,3,Delivered
+ORD-100999,11-02-2023,CUST-1029,Consumer,North,Delhi,Mobile App,Home & Kitchen,Cookware Set,2,2574.41,0,5148.82,2849.72,2299.1,Cash,1,Delivered
+ORD-101051,11-02-2023,CUST-1150,Consumer,West,Surat,Mobile App,Clothing,T-Shirt,2,513.03,0.05,974.76,634.85,339.9,Debit Card,3,Delivered
+ORD-100617,12-02-2023,CUST-1289,Consumer,East,Bhubaneswar,Mobile App,Beauty,Moisturizer,3,319.14,0.1,861.68,644.18,217.5,Credit Card,4,Delivered
+ORD-101075,16-02-2023,CUST-1182,Consumer,Central,Bhopal,Mobile App,Clothing,Jeans,1,1478.82,0,1478.82,984.28,494.54,Debit Card,3,Shipped
+ORD-100645,16-02-2023,CUST-1274,Corporate,South,Kochi,Store,Home & Kitchen,Cookware Set,1,2246.59,0.1,2021.93,1346.96,674.97,Cash,1,Cancelled
+ORD-100494,16-02-2023,CUST-1281,Consumer,South,Hyderabad,Online,Clothing,Sneakers,2,2645.89,0.2,4233.42,3737.09,496.33,UPI,4,Shipped
+ORD-100821,16-02-2023,CUST-1138,Small Business,West,Surat,Store,Electronics,Smartwatch,1,4094.36,0.1,3684.92,3035.61,649.32,Net Banking,3,Cancelled
+ORD-100313,16-02-2023,CUST-1313,Small Business,West,Surat,Store,Electronics,Wireless Earbuds,1,1853.37,0,1853.37,1391.23,462.14,UPI,4,Delivered
+ORD-100652,17-02-2023,CUST-1105,Consumer,South,Chennai,Online,Home & Kitchen,Cookware Set,3,2225.23,0,6675.69,5170.31,1505.38,Credit Card,6,Shipped
+ORD-100292,20-02-2023,CUST-1337,Consumer,West,Ahmedabad,Online,Electronics,Laptop,4,50781.47,0.1,182813.29,131815.05,50998.24,Net Banking,1,Processing
+ORD-100855,20-02-2023,CUST-1031,Consumer,West,Pune,Mobile App,Electronics,Smartwatch,1,4640.53,0.15,3944.45,2821.98,1122.47,Debit Card,7,Delivered
+ORD-100560,20-02-2023,CUST-1231,Consumer,West,Surat,Store,Beauty,Perfume,1,1217.09,0.05,1156.24,718.29,437.95,UPI,3,Processing
+ORD-100614,22-02-2023,CUST-1254,Consumer,East,Bhubaneswar,Online,Electronics,Smartwatch,2,4931.04,0,9862.08,6235.02,3627.06,UPI,1,Delivered
+ORD-101168,23-02-2023,CUST-1178,Corporate,North,Jaipur,Store,Sports,Cricket Bat,3,2302.1,0.05,6560.98,4705.88,1855.11,UPI,5,Shipped
+ORD-100200,23-02-2023,CUST-1292,Consumer,East,Patna,Store,Beauty,Perfume,2,1248.68,0.05,2372.49,1414.28,958.21,Debit Card,4,Shipped
+ORD-100932,24-02-2023,CUST-1220,Consumer,East,Bhubaneswar,Mobile App,Clothing,Sneakers,1,2744.44,0.05,2607.22,2058.48,548.74,UPI,2,Delivered
+ORD-101033,24-02-2023,CUST-1170,Consumer,North,Chandigarh,Online,Clothing,Kurta,2,967.1,0.05,1837.49,1252.63,584.86,Cash,5,Delivered
+ORD-100927,24-02-2023,CUST-1195,Consumer,West,Pune,Online,Clothing,Kurta,2,1010.72,0.15,1718.22,1574.86,143.36,Credit Card,2,Delivered
+ORD-100661,25-02-2023,CUST-1225,Small Business,North,Chandigarh,Online,Home & Kitchen,Cookware Set,1,2221.92,0.1,1999.73,1545.56,454.17,UPI,1,Delivered
+ORD-100485,27-02-2023,CUST-1138,Corporate,Central,Bhopal,Online,Home & Kitchen,Mixer Grinder,2,3021.59,0.1,5438.86,4397.11,1041.75,UPI,5,Delivered
+ORD-100981,28-02-2023,CUST-1254,Corporate,West,Pune,Store,Home & Kitchen,Storage Box,1,406.9,0,406.9,269.7,137.2,Credit Card,2,Delivered
+ORD-100629,02-03-2023,CUST-1332,Consumer,North,Jaipur,Online,Electronics,Laptop,1,54242.61,0.15,46106.22,34151.4,11954.82,Credit Card,7,Delivered
+ORD-101151,02-03-2023,CUST-1054,Consumer,South,Chennai,Mobile App,Beauty,Moisturizer,4,318.63,0,1274.52,721.07,553.45,Cash,4,Delivered
+ORD-101049,02-03-2023,CUST-1177,Consumer,West,Mumbai,Online,Home & Kitchen,Mixer Grinder,4,3177.2,0.1,11437.92,7962.52,3475.4,Debit Card,1,Delivered
+ORD-100414,03-03-2023,CUST-1198,Consumer,South,Chennai,Store,Clothing,T-Shirt,1,497.55,0.1,447.8,327.59,120.2,Credit Card,3,Delivered
+ORD-101176,03-03-2023,CUST-1188,Corporate,Central,Indore,Online,Sports,Yoga Mat,2,779.67,0.15,1325.44,947.1,378.34,Net Banking,2,Delivered
+ORD-100890,04-03-2023,CUST-1145,Consumer,West,Surat,Mobile App,Home & Kitchen,Mixer Grinder,2,3157.35,0.05,5998.97,4888.71,1110.26,Credit Card,6,Delivered
+ORD-100540,04-03-2023,CUST-1144,Small Business,North,Lucknow,Store,Clothing,Sneakers,2,2305.13,0.05,4379.75,3043.52,1336.22,Net Banking,2,Delivered
+ORD-100076,06-03-2023,CUST-1246,Consumer,Central,Bhopal,Online,Clothing,T-Shirt,1,449.3,0.1,404.37,322.8,81.57,UPI,2,Processing
+ORD-100690,08-03-2023,CUST-1023,Consumer,North,Jaipur,Store,Home & Kitchen,Mixer Grinder,1,3064.75,0.2,2451.8,2267.62,184.18,UPI,3,Delivered
+ORD-100612,10-03-2023,CUST-1007,Consumer,South,Chennai,Online,Electronics,Wireless Earbuds,1,1962.19,0.2,1569.75,1325.37,244.38,Credit Card,3,Delivered
+ORD-101038,10-03-2023,CUST-1184,Consumer,West,Surat,Online,Beauty,Face Wash,2,216.83,0.1,390.29,313.48,76.81,UPI,4,Delivered
+ORD-100829,10-03-2023,CUST-1319,Consumer,West,Mumbai,Online,Beauty,Moisturizer,2,320.77,0.05,609.46,497.93,111.53,Debit Card,2,Delivered
+ORD-101045,14-03-2023,CUST-1103,Consumer,Central,Bhopal,Mobile App,Electronics,Laptop,2,48263.23,0,96526.46,63789.24,32737.22,UPI,2,Cancelled
+ORD-100996,16-03-2023,CUST-1087,Consumer,West,Pune,Store,Sports,Dumbbells,1,1647.6,0.1,1482.84,1205.71,277.13,Net Banking,1,Shipped
+ORD-100722,16-03-2023,CUST-1157,Corporate,West,Mumbai,Online,Clothing,Kurta,2,916.09,0,1832.18,1011.41,820.77,Cash,5,Delivered
+ORD-100587,16-03-2023,CUST-1288,Consumer,North,Jaipur,Online,Sports,Yoga Mat,1,831.09,0.15,706.43,528.85,177.57,Credit Card,6,Delivered
+ORD-100875,16-03-2023,CUST-1072,Consumer,North,Lucknow,Online,Beauty,Moisturizer,1,332.5,0,332.5,241.38,91.12,UPI,4,Delivered
+ORD-100423,17-03-2023,CUST-1257,Consumer,North,Delhi,Mobile App,Sports,Yoga Mat,4,853.73,0.1,3073.43,1939.46,1133.96,UPI,1,Delivered
+ORD-100775,19-03-2023,CUST-1263,Consumer,West,Mumbai,Store,Clothing,Jeans,3,1378.93,0.15,3516.27,2917.9,598.37,UPI,3,Delivered
+ORD-100666,19-03-2023,CUST-1046,Consumer,North,Jaipur,Store,Electronics,Smartwatch,2,4464.29,0,8928.58,4940.44,3988.14,UPI,5,Delivered
+ORD-100490,21-03-2023,CUST-1271,Small Business,Central,Raipur,Mobile App,Clothing,Jeans,1,1448.4,0.05,1375.98,981.56,394.42,UPI,4,Delivered
+ORD-100604,22-03-2023,CUST-1049,Consumer,South,Bengaluru,Store,Electronics,Wireless Earbuds,2,1691.58,0.1,3044.84,1983.2,1061.65,UPI,1,Delivered
+ORD-100962,23-03-2023,CUST-1291,Consumer,West,Ahmedabad,Store,Electronics,Smartphone,2,16266.36,0,32532.72,20722.55,11810.17,Cash,2,Delivered
+ORD-100557,24-03-2023,CUST-1220,Consumer,South,Bengaluru,Store,Clothing,Kurta,1,1082.97,0.05,1028.82,843.36,185.46,UPI,1,Shipped
+ORD-100684,27-03-2023,CUST-1346,Consumer,South,Kochi,Store,Electronics,Smartphone,5,17839.7,0.15,75818.73,69063.35,6755.37,Credit Card,3,Delivered
+ORD-100931,28-03-2023,CUST-1261,Consumer,West,Mumbai,Online,Clothing,Sneakers,5,2366.52,0,11832.6,6911.48,4921.12,UPI,3,Delivered
+ORD-100007,29-03-2023,CUST-1344,Consumer,East,Kolkata,Mobile App,Beauty,Hair Dryer,5,1881.53,0.1,8466.89,5478.33,2988.55,Credit Card,2,Delivered
+ORD-100780,30-03-2023,CUST-1316,Corporate,South,Bengaluru,Online,Clothing,Jeans,1,1606.2,0,1606.2,963.01,643.19,Debit Card,5,Delivered
+ORD-100508,31-03-2023,CUST-1298,Consumer,West,Surat,Store,Electronics,Laptop,3,50225.53,0.1,135608.93,112235.71,23373.22,Net Banking,6,Delivered
+ORD-100744,31-03-2023,CUST-1335,Consumer,East,Guwahati,Mobile App,Sports,Running Shoes,4,3439.14,0.05,13068.73,9822.14,3246.6,Debit Card,3,Delivered
+ORD-100387,31-03-2023,CUST-1287,Consumer,North,Chandigarh,Online,Electronics,Laptop,1,48668.37,0.1,43801.53,37490.96,6310.57,Cash,3,Delivered
+ORD-100465,01-04-2023,CUST-1007,Consumer,West,Surat,Online,Beauty,Face Wash,2,197.23,0,394.46,296.72,97.74,Net Banking,2,Delivered
+ORD-100044,02-04-2023,CUST-1017,Corporate,South,Hyderabad,Online,Clothing,Kurta,1,1049.8,0.15,892.33,807,85.33,Credit Card,2,Delivered
+ORD-100627,03-04-2023,CUST-1276,Consumer,East,Guwahati,Mobile App,Sports,Dumbbells,2,1591.48,0.05,3023.81,2278.93,744.88,Credit Card,3,Delivered
+ORD-100347,04-04-2023,CUST-1016,Consumer,South,Bengaluru,Mobile App,Beauty,Hair Dryer,1,2034.57,0.1,1831.11,1531.95,299.16,UPI,4,Delivered
+ORD-100825,05-04-2023,CUST-1346,Consumer,East,Patna,Mobile App,Sports,Cricket Bat,2,2284.42,0.1,4111.96,3450.56,661.4,Credit Card,2,Shipped
+ORD-100621,05-04-2023,CUST-1284,Consumer,North,Delhi,Mobile App,Beauty,Moisturizer,1,331.12,0,331.12,247.55,83.57,Cash,2,Delivered
+ORD-100567,05-04-2023,CUST-1100,Consumer,North,Delhi,Store,Electronics,Wireless Earbuds,2,1838.78,0.05,3493.68,2247.07,1246.61,UPI,4,Delivered
+ORD-100407,06-04-2023,CUST-1058,Consumer,South,Hyderabad,Store,Sports,Running Shoes,1,3627.73,0.2,2902.18,2154.79,747.39,Net Banking,1,Delivered
+ORD-100118,06-04-2023,CUST-1238,Consumer,North,Chandigarh,Online,Sports,Running Shoes,2,3327.39,0.05,6322.04,4326.93,1995.11,UPI,3,Delivered
+ORD-100944,06-04-2023,CUST-1050,Consumer,East,Kolkata,Store,Electronics,Laptop,1,52558.53,0.2,42046.82,37659.24,4387.59,Credit Card,3,Delivered
+ORD-101032,08-04-2023,CUST-1204,Consumer,South,Chennai,Store,Beauty,Hair Dryer,1,1892.49,0,1892.49,1255.1,637.39,UPI,6,Delivered
+ORD-100593,08-04-2023,CUST-1036,Consumer,West,Surat,Store,Electronics,Smartphone,4,18048.17,0.15,61363.78,53252.12,8111.66,Credit Card,5,Delivered
+ORD-100098,09-04-2023,CUST-1322,Small Business,West,Mumbai,Store,Home & Kitchen,Cookware Set,2,2394.48,0.05,4549.51,2803.21,1746.3,Credit Card,5,Delivered
+ORD-100206,09-04-2023,CUST-1018,Consumer,North,Delhi,Store,Electronics,Smartphone,1,17037.49,0.15,14481.87,10446.31,4035.56,Debit Card,3,Shipped
+ORD-100247,09-04-2023,CUST-1150,Consumer,West,Mumbai,Online,Electronics,Laptop,1,52866.4,0.15,44936.44,30921.6,14014.84,Credit Card,3,Delivered
+ORD-101057,12-04-2023,CUST-1250,Consumer,West,Mumbai,Store,Electronics,Smartwatch,1,4911.31,0.15,4174.61,3151.15,1023.46,UPI,1,Delivered
+ORD-100589,13-04-2023,CUST-1155,Corporate,South,Chennai,Online,Electronics,Smartwatch,4,4458.69,0.1,16051.28,11315.26,4736.02,Debit Card,4,Delivered
+ORD-100203,14-04-2023,CUST-1085,Consumer,South,Hyderabad,Store,Electronics,Smartwatch,3,4656.19,0,13968.57,8572.23,5396.34,UPI,5,Shipped
+ORD-100795,14-04-2023,CUST-1339,Consumer,West,Ahmedabad,Online,Sports,Dumbbells,1,1551.81,0.05,1474.22,859.4,614.82,UPI,2,Shipped
+ORD-100544,15-04-2023,CUST-1165,Small Business,North,Delhi,Mobile App,Clothing,Kurta,1,969,0.1,872.1,707.77,164.33,Debit Card,2,Delivered
+ORD-100650,17-04-2023,CUST-1111,Small Business,East,Bhubaneswar,Store,Home & Kitchen,Storage Box,1,393.21,0,393.21,298.9,94.31,UPI,3,Shipped
+ORD-101055,18-04-2023,CUST-1224,Consumer,North,Chandigarh,Store,Beauty,Perfume,3,1331.42,0.05,3794.55,2457.78,1336.77,Credit Card,2,Delivered
+ORD-100692,19-04-2023,CUST-1122,Corporate,East,Patna,Mobile App,Sports,Dumbbells,1,1530.93,0.1,1377.84,1002.56,375.28,Net Banking,5,Delivered
+ORD-100438,19-04-2023,CUST-1161,Corporate,South,Hyderabad,Online,Sports,Dumbbells,4,1617.37,0.15,5499.06,4799.83,699.23,Cash,4,Delivered
+ORD-100693,21-04-2023,CUST-1109,Small Business,Central,Raipur,Online,Beauty,Perfume,2,1414.62,0,2829.24,1556.75,1272.49,UPI,7,Delivered
+ORD-100618,21-04-2023,CUST-1286,Consumer,South,Chennai,Online,Sports,Cricket Bat,1,2274.76,0.05,2161.02,1427.56,733.46,UPI,2,Delivered
+ORD-100695,21-04-2023,CUST-1346,Consumer,North,Jaipur,Online,Beauty,Moisturizer,1,357.6,0.15,303.96,252.83,51.13,Credit Card,4,Delivered
+ORD-100740,23-04-2023,CUST-1313,Consumer,South,Chennai,Store,Home & Kitchen,Bedsheet,1,975.72,0.1,878.15,594.36,283.79,UPI,4,Delivered
+ORD-100145,23-04-2023,CUST-1137,Consumer,North,Jaipur,Mobile App,Electronics,Laptop,2,50548.93,0.1,90988.07,61896.97,29091.1,Net Banking,1,Shipped
+ORD-100923,24-04-2023,CUST-1017,Consumer,Central,Raipur,Online,Home & Kitchen,Cookware Set,2,2503.61,0.15,4256.14,3056.64,1199.49,UPI,3,Delivered
+ORD-100393,25-04-2023,CUST-1084,Consumer,West,Mumbai,Online,Clothing,Jeans,2,1463.84,0.15,2488.53,1816.04,672.49,Cash,5,Delivered
+ORD-100326,27-04-2023,CUST-1015,Consumer,West,Mumbai,Mobile App,Home & Kitchen,Bedsheet,1,820.41,0,820.41,457.35,363.06,UPI,4,Delivered
+ORD-100870,27-04-2023,CUST-1041,Consumer,Central,Nagpur,Store,Clothing,T-Shirt,2,450.36,0,900.72,623.03,277.69,Credit Card,3,Delivered
+ORD-100573,28-04-2023,CUST-1310,Consumer,North,Lucknow,Store,Home & Kitchen,Mixer Grinder,1,3082.43,0.2,2465.94,1877.42,588.52,Net Banking,4,Delivered
+ORD-100725,28-04-2023,CUST-1080,Consumer,West,Surat,Store,Beauty,Hair Dryer,2,1962.23,0,3924.46,2526.72,1397.74,UPI,2,Delivered
+ORD-100322,30-04-2023,CUST-1347,Consumer,West,Mumbai,Mobile App,Clothing,Sneakers,1,2495.52,0,2495.52,1485.02,1010.5,Credit Card,4,Delivered
+ORD-100004,02-05-2023,CUST-1030,Consumer,Central,Indore,Mobile App,Electronics,Wireless Earbuds,2,1774.78,0.1,3194.6,2177.08,1017.53,Cash,5,Shipped
+ORD-100156,03-05-2023,CUST-1278,Consumer,South,Hyderabad,Mobile App,Home & Kitchen,Storage Box,4,424.82,0.15,1444.39,1150.78,293.61,UPI,3,Delivered
+ORD-100685,06-05-2023,CUST-1263,Small Business,Central,Bhopal,Mobile App,Clothing,Jeans,3,1479.66,0,4438.98,3244.1,1194.88,Net Banking,5,Shipped
+ORD-100616,06-05-2023,CUST-1066,Consumer,North,Jaipur,Store,Electronics,Smartphone,3,16552.82,0.1,44692.61,31171.98,13520.63,UPI,4,Delivered
+ORD-100851,07-05-2023,CUST-1261,Corporate,West,Mumbai,Store,Clothing,Kurta,2,1081,0.05,2053.9,1440.27,613.63,Debit Card,3,Delivered
+ORD-100260,08-05-2023,CUST-1103,Consumer,South,Hyderabad,Online,Clothing,Sneakers,1,2361.25,0.1,2125.12,1440.35,684.77,Net Banking,2,Delivered
+ORD-100982,08-05-2023,CUST-1079,Consumer,South,Kochi,Online,Clothing,Kurta,5,1065.24,0.1,4793.58,3832.85,960.73,Credit Card,7,Delivered
+ORD-100998,08-05-2023,CUST-1234,Consumer,West,Ahmedabad,Mobile App,Home & Kitchen,Cookware Set,2,2327.09,0.1,4188.76,2576.55,1612.21,Cash,4,Delivered
+ORD-100824,10-05-2023,CUST-1015,Small Business,West,Mumbai,Online,Clothing,Kurta,1,934.11,0.15,793.99,717.17,76.82,Net Banking,4,Delivered
+ORD-101020,10-05-2023,CUST-1151,Consumer,North,Lucknow,Online,Home & Kitchen,Cookware Set,2,2193.46,0.15,3728.88,3197.61,531.27,UPI,5,Delivered
+ORD-101054,11-05-2023,CUST-1228,Small Business,West,Ahmedabad,Online,Electronics,Smartphone,2,16596.84,0.15,28214.63,19539.91,8674.72,Cash,1,Delivered
+ORD-101100,11-05-2023,CUST-1078,Consumer,Central,Raipur,Mobile App,Clothing,T-Shirt,2,489.61,0.2,783.38,643.27,140.11,Cash,1,Delivered
+ORD-100009,11-05-2023,CUST-1278,Consumer,East,Kolkata,Online,Home & Kitchen,Storage Box,2,366.14,0.1,659.05,428.28,230.77,Credit Card,3,Delivered
+ORD-100777,12-05-2023,CUST-1037,Consumer,East,Guwahati,Online,Sports,Dumbbells,5,1642.12,0.15,6979.01,5320.74,1658.27,UPI,6,Processing
+ORD-100605,13-05-2023,CUST-1025,Corporate,East,Guwahati,Online,Clothing,Jeans,3,1351.54,0,4054.62,2804.59,1250.03,Cash,3,Delivered
+ORD-100484,14-05-2023,CUST-1304,Corporate,South,Hyderabad,Online,Electronics,Smartphone,1,17443.24,0.2,13954.59,10002.81,3951.78,Debit Card,3,Delivered
+ORD-100089,15-05-2023,CUST-1326,Corporate,West,Surat,Mobile App,Clothing,Kurta,2,951.97,0.1,1713.55,1404.03,309.51,Debit Card,3,Delivered
+ORD-101085,17-05-2023,CUST-1055,Consumer,South,Hyderabad,Store,Home & Kitchen,Cookware Set,2,2191.63,0.1,3944.93,3078.78,866.16,UPI,3,Delivered
+ORD-100608,18-05-2023,CUST-1031,Consumer,South,Hyderabad,Store,Electronics,Laptop,1,47554.49,0.1,42799.04,35180.54,7618.5,Credit Card,4,Delivered
+ORD-100747,19-05-2023,CUST-1246,Consumer,North,Jaipur,Mobile App,Home & Kitchen,Bedsheet,1,956.39,0.2,765.11,598.5,166.61,Credit Card,3,Delivered
+ORD-100741,20-05-2023,CUST-1178,Consumer,South,Chennai,Store,Sports,Cricket Bat,3,2586.91,0.2,6208.58,4432.79,1775.79,Cash,4,Delivered
+ORD-100841,21-05-2023,CUST-1177,Consumer,West,Mumbai,Mobile App,Beauty,Face Wash,2,211.77,0,423.54,321.22,102.32,Cash,2,Processing
+ORD-100788,23-05-2023,CUST-1271,Small Business,North,Delhi,Mobile App,Clothing,T-Shirt,1,535.9,0.05,509.1,394.38,114.72,Credit Card,3,Delivered
+ORD-100165,24-05-2023,CUST-1320,Corporate,North,Lucknow,Mobile App,Clothing,T-Shirt,1,487.75,0.1,438.98,317.85,121.12,Debit Card,3,Processing
+ORD-100429,24-05-2023,CUST-1168,Consumer,South,Hyderabad,Store,Sports,Dumbbells,2,1514,0.05,2876.6,2121.41,755.19,Credit Card,5,Delivered
+ORD-100184,24-05-2023,CUST-1134,Consumer,South,Kochi,Store,Home & Kitchen,Cookware Set,1,2557.2,0.05,2429.34,1684.67,744.67,Credit Card,4,Delivered
+ORD-100688,25-05-2023,CUST-1226,Corporate,South,Bengaluru,Store,Sports,Running Shoes,2,3131.41,0.1,5636.54,4610.37,1026.17,Debit Card,3,Delivered
+ORD-100791,25-05-2023,CUST-1162,Corporate,South,Bengaluru,Mobile App,Home & Kitchen,Mixer Grinder,2,3044.9,0.15,5176.33,3530.42,1645.91,Debit Card,6,Processing
+ORD-101141,26-05-2023,CUST-1146,Consumer,South,Hyderabad,Online,Home & Kitchen,Storage Box,2,382.93,0,765.86,493.28,272.58,UPI,3,Delivered
+ORD-100536,26-05-2023,CUST-1129,Consumer,West,Ahmedabad,Mobile App,Clothing,Jeans,2,1424.01,0.1,2563.22,2141.21,422.01,Credit Card,3,Cancelled
+ORD-100959,27-05-2023,CUST-1144,Consumer,North,Chandigarh,Mobile App,Electronics,Smartwatch,4,4815.41,0,19261.64,10725.84,8535.8,UPI,2,Delivered
+ORD-100173,27-05-2023,CUST-1215,Corporate,West,Mumbai,Online,Sports,Cricket Bat,2,2359.3,0.1,4246.74,3215.58,1031.16,Cash,5,Delivered
+ORD-100899,28-05-2023,CUST-1097,Consumer,South,Hyderabad,Mobile App,Beauty,Face Wash,2,200.24,0.15,340.41,259.46,80.95,Credit Card,6,Delivered
+ORD-101026,29-05-2023,CUST-1112,Consumer,East,Kolkata,Mobile App,Clothing,T-Shirt,2,493.38,0,986.76,551.86,434.9,UPI,5,Delivered
+ORD-100294,30-05-2023,CUST-1102,Consumer,South,Chennai,Mobile App,Clothing,T-Shirt,3,472.56,0.1,1275.91,911.85,364.07,UPI,2,Shipped
+ORD-100182,31-05-2023,CUST-1236,Corporate,North,Delhi,Store,Clothing,Kurta,2,910.92,0.1,1639.66,1324.21,315.45,Credit Card,2,Delivered
+ORD-100958,31-05-2023,CUST-1342,Consumer,North,Lucknow,Store,Electronics,Wireless Earbuds,1,1893.24,0,1893.24,1265.43,627.81,Cash,4,Processing
+ORD-100199,01-06-2023,CUST-1270,Consumer,South,Chennai,Store,Clothing,T-Shirt,2,531.81,0.15,904.08,758.53,145.55,UPI,3,Shipped
+ORD-100207,02-06-2023,CUST-1146,Small Business,West,Ahmedabad,Mobile App,Sports,Dumbbells,3,1442.27,0.15,3677.79,2838.25,839.54,UPI,5,Delivered
+ORD-101044,03-06-2023,CUST-1188,Small Business,South,Bengaluru,Store,Clothing,Jeans,1,1552.91,0.05,1475.26,1006.57,468.69,UPI,2,Delivered
+ORD-100341,03-06-2023,CUST-1218,Consumer,Central,Raipur,Online,Clothing,Sneakers,3,2367.8,0.2,5682.72,4538.11,1144.61,Credit Card,3,Delivered
+ORD-100569,03-06-2023,CUST-1058,Consumer,Central,Raipur,Online,Clothing,Kurta,2,918.4,0.2,1469.44,1344.31,125.13,UPI,2,Delivered
+ORD-100268,04-06-2023,CUST-1022,Consumer,South,Hyderabad,Mobile App,Electronics,Wireless Earbuds,2,1623.54,0.05,3084.73,2031.88,1052.84,UPI,5,Delivered
+ORD-100894,05-06-2023,CUST-1195,Consumer,Central,Indore,Mobile App,Electronics,Laptop,2,49788.48,0.1,89619.26,61587.46,28031.81,Net Banking,3,Delivered
+ORD-100805,06-06-2023,CUST-1337,Consumer,West,Pune,Mobile App,Electronics,Wireless Earbuds,3,1850.19,0.05,5273.04,3898.16,1374.88,Net Banking,1,Delivered
+ORD-100243,07-06-2023,CUST-1226,Corporate,East,Patna,Mobile App,Sports,Running Shoes,2,3235.02,0.1,5823.04,4482.92,1340.12,Debit Card,2,Delivered
+ORD-100372,09-06-2023,CUST-1253,Corporate,East,Patna,Online,Beauty,Hair Dryer,2,2014.16,0.1,3625.49,2902.01,723.47,Credit Card,3,Delivered
+ORD-101179,09-06-2023,CUST-1043,Consumer,West,Pune,Online,Electronics,Laptop,4,56948.65,0.1,205015.14,154927.08,50088.06,Credit Card,4,Delivered
+ORD-100213,10-06-2023,CUST-1288,Consumer,West,Surat,Store,Home & Kitchen,Bedsheet,2,935.13,0,1870.26,1221.01,649.25,UPI,5,Delivered
+ORD-100056,11-06-2023,CUST-1193,Consumer,West,Mumbai,Store,Beauty,Perfume,1,1352.23,0.15,1149.4,913.67,235.72,UPI,3,Cancelled
+ORD-100930,11-06-2023,CUST-1009,Consumer,Central,Bhopal,Online,Clothing,Kurta,1,961.28,0.15,817.09,662.07,155.02,Debit Card,5,Delivered
+ORD-100948,14-06-2023,CUST-1032,Corporate,North,Chandigarh,Store,Home & Kitchen,Cookware Set,3,2369.09,0.05,6751.91,5131.32,1620.59,Cash,3,Delivered
+ORD-100599,15-06-2023,CUST-1156,Corporate,West,Ahmedabad,Store,Sports,Yoga Mat,1,784.08,0.1,705.67,472.43,233.24,Credit Card,2,Delivered
+ORD-100035,16-06-2023,CUST-1090,Consumer,North,Delhi,Online,Electronics,Smartwatch,5,4540.03,0.2,18160.12,12879.82,5280.3,Debit Card,2,Delivered
+ORD-100464,16-06-2023,CUST-1048,Small Business,South,Chennai,Online,Clothing,Kurta,3,1028.58,0.05,2931.45,2030.71,900.74,Debit Card,2,Delivered
+ORD-101010,17-06-2023,CUST-1243,Small Business,Central,Nagpur,Online,Clothing,Jeans,1,1388.7,0,1388.7,1024.23,364.47,UPI,4,Delivered
+ORD-100452,19-06-2023,CUST-1142,Small Business,East,Bhubaneswar,Mobile App,Clothing,Jeans,1,1522.05,0,1522.05,1021.73,500.32,UPI,7,Delivered
+ORD-101189,19-06-2023,CUST-1290,Corporate,West,Pune,Mobile App,Home & Kitchen,Cookware Set,3,2618.79,0.1,7070.73,5553.35,1517.38,Debit Card,5,Delivered
+ORD-100754,21-06-2023,CUST-1337,Consumer,West,Pune,Store,Electronics,Laptop,1,55481.9,0.15,47159.62,34714.58,12445.03,UPI,4,Shipped
+ORD-101056,21-06-2023,CUST-1107,Consumer,Central,Nagpur,Store,Clothing,T-Shirt,2,503.36,0.1,906.05,615.96,290.09,UPI,7,Delivered
+ORD-100734,22-06-2023,CUST-1100,Small Business,North,Delhi,Online,Clothing,Sneakers,2,2456.24,0,4912.48,3744.97,1167.51,UPI,4,Delivered
+ORD-100468,22-06-2023,CUST-1107,Consumer,South,Hyderabad,Mobile App,Electronics,Wireless Earbuds,1,1750.5,0.1,1575.45,1214.16,361.29,Credit Card,6,Delivered
+ORD-100488,22-06-2023,CUST-1092,Consumer,East,Guwahati,Online,Clothing,Sneakers,1,2312.73,0,2312.73,1782.79,529.94,UPI,4,Delivered
+ORD-100420,26-06-2023,CUST-1240,Small Business,East,Guwahati,Mobile App,Sports,Dumbbells,4,1640.07,0.05,6232.27,3991.45,2240.81,UPI,1,Shipped
+ORD-100888,26-06-2023,CUST-1042,Consumer,Central,Indore,Online,Sports,Cricket Bat,1,2263.99,0.1,2037.59,1642.42,395.18,UPI,6,Delivered
+ORD-100538,26-06-2023,CUST-1107,Consumer,East,Kolkata,Mobile App,Clothing,Kurta,2,947.07,0.15,1610.02,1278.14,331.88,Credit Card,2,Shipped
+ORD-100252,30-06-2023,CUST-1231,Consumer,East,Guwahati,Mobile App,Electronics,Smartphone,2,18754.82,0.2,30007.71,21063.18,8944.54,UPI,2,Delivered
+ORD-100949,01-07-2023,CUST-1070,Consumer,South,Hyderabad,Online,Beauty,Hair Dryer,3,1935.52,0.15,4935.58,3423.28,1512.3,Net Banking,1,Delivered
+ORD-101104,02-07-2023,CUST-1098,Consumer,West,Ahmedabad,Store,Electronics,Laptop,1,47631.12,0,47631.12,32861.35,14769.77,Credit Card,6,Delivered
+ORD-100609,03-07-2023,CUST-1072,Consumer,Central,Nagpur,Online,Clothing,T-Shirt,4,541.49,0.15,1841.07,1446.43,394.64,UPI,3,Delivered
+ORD-100167,06-07-2023,CUST-1123,Consumer,East,Guwahati,Store,Home & Kitchen,Cookware Set,1,2207.33,0,2207.33,1343.12,864.21,UPI,3,Delivered
+ORD-101150,06-07-2023,CUST-1274,Consumer,Central,Raipur,Store,Clothing,Jeans,2,1637.04,0,3274.08,2035.16,1238.92,Cash,2,Delivered
+ORD-101029,06-07-2023,CUST-1052,Corporate,West,Surat,Online,Beauty,Hair Dryer,1,1948.66,0.1,1753.79,1307.82,445.97,UPI,4,Delivered
+ORD-101099,07-07-2023,CUST-1142,Consumer,Central,Indore,Mobile App,Electronics,Wireless Earbuds,1,1946.94,0.1,1752.25,1454.94,297.31,UPI,2,Delivered
+ORD-100071,07-07-2023,CUST-1061,Consumer,West,Pune,Online,Electronics,Smartphone,2,19026.35,0.1,34247.43,22689.03,11558.4,UPI,3,Delivered
+ORD-100132,09-07-2023,CUST-1159,Small Business,West,Surat,Online,Electronics,Smartphone,1,19365.59,0.1,17429.03,11681.66,5747.37,Cash,7,Processing
+ORD-100479,09-07-2023,CUST-1311,Consumer,South,Bengaluru,Online,Clothing,Jeans,2,1411.92,0,2823.84,2140.49,683.35,UPI,4,Delivered
+ORD-100026,09-07-2023,CUST-1011,Small Business,Central,Indore,Store,Home & Kitchen,Storage Box,2,370.2,0.05,703.38,556.31,147.07,UPI,7,Delivered
+ORD-100256,10-07-2023,CUST-1087,Corporate,South,Hyderabad,Store,Electronics,Smartwatch,1,4128.27,0.05,3921.86,3188.3,733.56,Net Banking,3,Delivered
+ORD-100403,11-07-2023,CUST-1346,Small Business,North,Jaipur,Mobile App,Clothing,Kurta,2,997.09,0,1994.18,1464.95,529.23,Credit Card,4,Delivered
+ORD-100730,13-07-2023,CUST-1294,Consumer,West,Ahmedabad,Store,Beauty,Perfume,1,1310.37,0,1310.37,1001.64,308.73,Debit Card,3,Delivered
+ORD-100920,13-07-2023,CUST-1168,Corporate,West,Pune,Mobile App,Home & Kitchen,Bedsheet,1,895.27,0.1,805.74,609.13,196.61,UPI,3,Delivered
+ORD-100811,15-07-2023,CUST-1153,Consumer,West,Pune,Store,Beauty,Moisturizer,3,365.73,0.15,932.61,763.45,169.16,Credit Card,1,Delivered
+ORD-100797,17-07-2023,CUST-1178,Consumer,South,Bengaluru,Online,Beauty,Face Wash,2,179.94,0.05,341.89,209.89,131.99,UPI,7,Delivered
+ORD-100162,17-07-2023,CUST-1117,Consumer,North,Lucknow,Store,Clothing,Kurta,4,1098.21,0.1,3953.56,3194.49,759.07,Net Banking,3,Cancelled
+ORD-101043,20-07-2023,CUST-1152,Corporate,North,Jaipur,Online,Home & Kitchen,Storage Box,1,391.59,0.1,352.43,263.41,89.02,Credit Card,3,Shipped
+ORD-100090,20-07-2023,CUST-1302,Consumer,Central,Indore,Online,Electronics,Wireless Earbuds,1,1632.12,0.15,1387.3,989.03,398.27,Cash,4,Shipped
+ORD-100057,21-07-2023,CUST-1002,Small Business,West,Surat,Store,Beauty,Perfume,1,1203.32,0.15,1022.82,705.35,317.47,Cash,4,Delivered
+ORD-100868,21-07-2023,CUST-1166,Consumer,South,Hyderabad,Mobile App,Beauty,Moisturizer,1,327.14,0.1,294.43,208.2,86.23,UPI,2,Cancelled
+ORD-100492,22-07-2023,CUST-1250,Corporate,West,Surat,Online,Home & Kitchen,Mixer Grinder,4,3141.9,0.1,11310.84,7240.15,4070.69,Net Banking,5,Processing
+ORD-100155,22-07-2023,CUST-1245,Corporate,West,Pune,Online,Sports,Dumbbells,1,1725.09,0.1,1552.58,1063.17,489.41,UPI,2,Delivered
+ORD-100615,24-07-2023,CUST-1220,Consumer,West,Surat,Online,Home & Kitchen,Cookware Set,3,2176.22,0.1,5875.79,3871.16,2004.63,UPI,2,Delivered
+ORD-100049,25-07-2023,CUST-1188,Consumer,North,Delhi,Online,Electronics,Smartwatch,1,4083.81,0,4083.81,2965.16,1118.65,Net Banking,4,Delivered
+ORD-100111,26-07-2023,CUST-1273,Consumer,North,Delhi,Online,Clothing,T-Shirt,2,509.01,0,1018.02,648.07,369.95,Net Banking,2,Processing
+ORD-100197,27-07-2023,CUST-1157,Corporate,North,Chandigarh,Store,Home & Kitchen,Cookware Set,4,2578.2,0.05,9797.16,7529.78,2267.38,UPI,2,Shipped
+ORD-100646,02-08-2023,CUST-1122,Small Business,Central,Nagpur,Online,Home & Kitchen,Cookware Set,3,2179.97,0,6539.91,4158.02,2381.89,Cash,3,Delivered
+ORD-100906,03-08-2023,CUST-1135,Corporate,North,Lucknow,Mobile App,Home & Kitchen,Storage Box,1,394.56,0.15,335.38,272.9,62.48,Cash,3,Delivered
+ORD-101177,04-08-2023,CUST-1113,Small Business,East,Bhubaneswar,Online,Beauty,Hair Dryer,4,1853.64,0.15,6302.38,4830.69,1471.68,UPI,4,Delivered
+ORD-100818,04-08-2023,CUST-1087,Consumer,North,Jaipur,Online,Home & Kitchen,Cookware Set,5,2579.55,0.2,10318.2,7819.62,2498.58,UPI,4,Delivered
+ORD-101067,04-08-2023,CUST-1184,Consumer,West,Pune,Store,Clothing,T-Shirt,2,500.27,0.2,800.43,719.93,80.5,UPI,3,Delivered
+ORD-100460,05-08-2023,CUST-1183,Consumer,East,Guwahati,Mobile App,Electronics,Smartwatch,4,4054.81,0.1,14597.32,12289.34,2307.97,Credit Card,1,Delivered
+ORD-100069,05-08-2023,CUST-1073,Consumer,West,Pune,Mobile App,Electronics,Smartphone,2,17112.09,0.2,27379.34,21117.83,6261.52,UPI,3,Shipped
+ORD-100411,05-08-2023,CUST-1118,Corporate,South,Kochi,Store,Beauty,Moisturizer,2,319.48,0.05,607.01,447.78,159.23,Credit Card,7,Delivered
+ORD-100840,06-08-2023,CUST-1085,Small Business,Central,Nagpur,Store,Electronics,Smartwatch,3,4215.21,0.05,12013.35,8095.1,3918.25,Credit Card,3,Delivered
+ORD-100352,06-08-2023,CUST-1340,Corporate,East,Kolkata,Mobile App,Beauty,Perfume,1,1259.33,0.05,1196.36,891.35,305.01,UPI,6,Delivered
+ORD-101163,06-08-2023,CUST-1215,Consumer,West,Mumbai,Online,Sports,Yoga Mat,2,845.56,0.1,1522.01,1033.31,488.7,Credit Card,3,Delivered
+ORD-100148,08-08-2023,CUST-1331,Corporate,South,Kochi,Online,Beauty,Perfume,1,1393.97,0,1393.97,807.07,586.9,Debit Card,1,Delivered
+ORD-100537,12-08-2023,CUST-1146,Consumer,West,Mumbai,Store,Beauty,Face Wash,1,185.51,0.2,148.41,109.71,38.7,UPI,7,Shipped
+ORD-100738,13-08-2023,CUST-1308,Consumer,East,Bhubaneswar,Store,Clothing,Jeans,1,1396.7,0.15,1187.2,769.04,418.15,UPI,6,Delivered
+ORD-100231,14-08-2023,CUST-1125,Consumer,South,Chennai,Store,Clothing,Jeans,4,1523.79,0,6095.16,3522.55,2572.61,Debit Card,4,Delivered
+ORD-101157,14-08-2023,CUST-1053,Consumer,South,Bengaluru,Store,Electronics,Wireless Earbuds,4,1633.45,0.1,5880.42,4877.59,1002.83,Cash,4,Delivered
+ORD-101161,14-08-2023,CUST-1016,Consumer,Central,Raipur,Online,Clothing,T-Shirt,5,487.04,0.1,2191.68,1733.83,457.85,UPI,3,Delivered
+ORD-100694,16-08-2023,CUST-1168,Consumer,South,Bengaluru,Online,Electronics,Smartphone,1,18086.38,0.1,16277.74,12132.48,4145.26,Credit Card,1,Delivered
+ORD-100817,16-08-2023,CUST-1158,Consumer,South,Chennai,Mobile App,Home & Kitchen,Mixer Grinder,1,3329.11,0.15,2829.74,2428.22,401.52,Debit Card,2,Shipped
+ORD-100717,17-08-2023,CUST-1144,Corporate,West,Surat,Mobile App,Clothing,Sneakers,1,2435.26,0.1,2191.73,1438.56,753.18,Debit Card,4,Delivered
+ORD-100227,18-08-2023,CUST-1192,Consumer,South,Chennai,Online,Beauty,Moisturizer,3,343.3,0.05,978.41,788.33,190.07,Cash,1,Delivered
+ORD-100120,19-08-2023,CUST-1323,Consumer,East,Guwahati,Online,Home & Kitchen,Cookware Set,1,2188.85,0.15,1860.52,1529.85,330.67,Net Banking,4,Delivered
+ORD-100085,19-08-2023,CUST-1211,Consumer,North,Delhi,Store,Clothing,Jeans,3,1574.47,0.15,4014.9,3160.63,854.27,UPI,1,Delivered
+ORD-100691,21-08-2023,CUST-1005,Consumer,Central,Nagpur,Mobile App,Home & Kitchen,Cookware Set,1,2300.59,0.05,2185.56,1660.44,525.12,Net Banking,2,Delivered
+ORD-100638,21-08-2023,CUST-1142,Consumer,Central,Indore,Online,Home & Kitchen,Cookware Set,1,2283.11,0.1,2054.8,1263.97,790.83,UPI,2,Shipped
+ORD-100444,23-08-2023,CUST-1258,Corporate,South,Bengaluru,Online,Clothing,Sneakers,2,2643.46,0.05,5022.57,3399.86,1622.71,Debit Card,2,Cancelled
+ORD-100763,24-08-2023,CUST-1247,Consumer,East,Guwahati,Online,Home & Kitchen,Cookware Set,2,2583.14,0.1,4649.65,3743.46,906.19,UPI,4,Delivered
+ORD-100577,24-08-2023,CUST-1111,Consumer,South,Chennai,Store,Sports,Running Shoes,1,3219.09,0,3219.09,1846.07,1373.02,Net Banking,4,Shipped
+ORD-100988,25-08-2023,CUST-1247,Consumer,South,Hyderabad,Online,Clothing,Jeans,2,1556.43,0,3112.86,2220.33,892.53,Credit Card,2,Delivered
+ORD-100647,27-08-2023,CUST-1078,Consumer,South,Chennai,Online,Electronics,Smartwatch,1,4066.5,0,4066.5,2942,1124.5,UPI,3,Delivered
+ORD-100040,30-08-2023,CUST-1260,Corporate,South,Chennai,Store,Home & Kitchen,Bedsheet,1,974.41,0,974.41,583.88,390.53,UPI,7,Delivered
+ORD-100714,31-08-2023,CUST-1245,Consumer,East,Guwahati,Online,Beauty,Hair Dryer,5,1723.77,0,8618.85,5185.68,3433.17,Debit Card,6,Delivered
+ORD-100873,01-09-2023,CUST-1186,Consumer,West,Pune,Mobile App,Home & Kitchen,Cookware Set,1,2357.36,0.1,2121.62,1721.78,399.84,UPI,5,Delivered
+ORD-101127,02-09-2023,CUST-1046,Corporate,North,Lucknow,Store,Electronics,Smartphone,1,16746.06,0.1,15071.45,12753.67,2317.78,Credit Card,4,Delivered
+ORD-100271,03-09-2023,CUST-1091,Consumer,East,Patna,Online,Home & Kitchen,Cookware Set,1,2382.71,0,2382.71,1818.92,563.79,Cash,2,Delivered
+ORD-100340,04-09-2023,CUST-1276,Consumer,West,Mumbai,Online,Electronics,Wireless Earbuds,2,1853.18,0,3706.36,2565.41,1140.95,UPI,3,Processing
+ORD-100153,04-09-2023,CUST-1195,Consumer,Central,Raipur,Mobile App,Home & Kitchen,Storage Box,5,407.42,0.05,1935.25,1512.82,422.43,UPI,6,Processing
+ORD-100644,06-09-2023,CUST-1104,Consumer,North,Jaipur,Online,Electronics,Smartwatch,1,4102.35,0.05,3897.23,2936.27,960.96,Net Banking,4,Delivered
+ORD-100598,06-09-2023,CUST-1137,Corporate,West,Mumbai,Online,Beauty,Hair Dryer,5,1827.07,0.1,8221.82,6440.61,1781.21,Net Banking,6,Delivered
+ORD-101081,07-09-2023,CUST-1318,Consumer,East,Guwahati,Online,Electronics,Smartwatch,3,4406.83,0,13220.49,9893.94,3326.55,UPI,4,Delivered
+ORD-100570,07-09-2023,CUST-1206,Consumer,Central,Nagpur,Store,Sports,Dumbbells,1,1535.41,0.1,1381.87,1020.39,361.48,Net Banking,5,Delivered
+ORD-101119,08-09-2023,CUST-1330,Consumer,Central,Nagpur,Online,Electronics,Smartwatch,2,4796.39,0,9592.78,5994.77,3598.01,Net Banking,3,Delivered
+ORD-100018,10-09-2023,CUST-1191,Consumer,South,Kochi,Store,Electronics,Wireless Earbuds,3,1896.81,0.1,5121.39,4132.43,988.96,UPI,4,Delivered
+ORD-100257,10-09-2023,CUST-1019,Corporate,Central,Nagpur,Mobile App,Home & Kitchen,Cookware Set,5,2418.02,0,12090.1,7365.96,4724.14,UPI,4,Delivered
+ORD-100191,11-09-2023,CUST-1073,Corporate,East,Guwahati,Online,Electronics,Laptop,1,48236.5,0.15,41001.03,32077.92,8923.11,Credit Card,3,Delivered
+ORD-100204,11-09-2023,CUST-1100,Consumer,South,Bengaluru,Online,Clothing,Sneakers,1,2276.46,0,2276.46,1471.28,805.18,Cash,2,Delivered
+ORD-100525,13-09-2023,CUST-1347,Corporate,South,Hyderabad,Online,Beauty,Perfume,4,1169.88,0,4679.52,3572.31,1107.21,Credit Card,3,Delivered
+ORD-100369,15-09-2023,CUST-1148,Corporate,West,Ahmedabad,Online,Clothing,Jeans,1,1567.78,0.1,1411,991.73,419.27,UPI,3,Processing
+ORD-100749,16-09-2023,CUST-1330,Small Business,Central,Nagpur,Store,Sports,Dumbbells,1,1749.09,0.05,1661.64,1126.89,534.74,Credit Card,3,Shipped
+ORD-101167,16-09-2023,CUST-1246,Consumer,South,Chennai,Store,Electronics,Laptop,2,50751.54,0,101503.08,63650.41,37852.67,Net Banking,2,Shipped
+ORD-100971,18-09-2023,CUST-1009,Consumer,North,Lucknow,Online,Sports,Dumbbells,5,1693.85,0.05,8045.79,4952.89,3092.9,Credit Card,3,Delivered
+ORD-100753,18-09-2023,CUST-1207,Consumer,West,Ahmedabad,Mobile App,Sports,Cricket Bat,3,2330.08,0.1,6291.22,4541.67,1749.55,UPI,5,Processing
+ORD-100183,20-09-2023,CUST-1146,Consumer,North,Jaipur,Online,Clothing,Jeans,1,1549.73,0.1,1394.76,1001.48,393.28,Credit Card,6,Delivered
+ORD-100305,21-09-2023,CUST-1186,Consumer,West,Mumbai,Store,Clothing,Jeans,3,1415.2,0,4245.6,2731.86,1513.74,UPI,6,Cancelled
+ORD-100424,22-09-2023,CUST-1131,Corporate,South,Bengaluru,Store,Clothing,Jeans,3,1538.1,0.05,4383.58,2934.3,1449.29,Credit Card,1,Delivered
+ORD-101132,23-09-2023,CUST-1250,Consumer,South,Kochi,Mobile App,Electronics,Wireless Earbuds,1,1724.79,0,1724.79,1283.04,441.75,Credit Card,4,Shipped
+ORD-100575,25-09-2023,CUST-1290,Consumer,East,Patna,Store,Beauty,Hair Dryer,2,1885.45,0.05,3582.36,2512.01,1070.35,UPI,3,Delivered
+ORD-101012,25-09-2023,CUST-1289,Consumer,West,Ahmedabad,Online,Home & Kitchen,Bedsheet,1,898.3,0.1,808.47,640.42,168.05,Credit Card,1,Delivered
+ORD-100318,26-09-2023,CUST-1219,Small Business,West,Pune,Store,Home & Kitchen,Cookware Set,1,2426.01,0.1,2183.41,1855.76,327.65,Credit Card,4,Delivered
+ORD-100059,27-09-2023,CUST-1019,Consumer,North,Jaipur,Online,Sports,Yoga Mat,2,783.74,0,1567.48,1144.68,422.8,UPI,1,Delivered
+ORD-100770,27-09-2023,CUST-1215,Consumer,West,Ahmedabad,Mobile App,Beauty,Face Wash,3,194.73,0,584.19,358.1,226.09,Debit Card,4,Delivered
+ORD-101130,29-09-2023,CUST-1083,Consumer,North,Delhi,Mobile App,Beauty,Perfume,2,1397.29,0,2794.58,1644.34,1150.24,Debit Card,2,Processing
+ORD-101060,02-10-2023,CUST-1317,Consumer,North,Jaipur,Store,Home & Kitchen,Mixer Grinder,1,3217.15,0.1,2895.43,2094.88,800.56,UPI,2,Delivered
+ORD-100015,04-10-2023,CUST-1225,Small Business,North,Delhi,Online,Home & Kitchen,Bedsheet,4,845.15,0,3380.6,2523.32,857.28,Cash,4,Delivered
+ORD-100706,04-10-2023,CUST-1193,Small Business,North,Jaipur,Online,Beauty,Hair Dryer,1,1967.42,0,1967.42,1337.21,630.21,UPI,2,Delivered
+ORD-100410,06-10-2023,CUST-1277,Corporate,Central,Nagpur,Online,Electronics,Laptop,3,53313.1,0.1,143945.37,92612.08,51333.29,Net Banking,4,Delivered
+ORD-100160,07-10-2023,CUST-1240,Consumer,West,Surat,Store,Home & Kitchen,Cookware Set,1,2389.68,0.1,2150.71,1611.88,538.83,Credit Card,4,Delivered
+ORD-100249,07-10-2023,CUST-1242,Consumer,South,Chennai,Online,Clothing,Sneakers,2,2442.05,0.2,3907.28,3469.41,437.87,Credit Card,5,Delivered
+ORD-100625,08-10-2023,CUST-1021,Consumer,South,Hyderabad,Mobile App,Electronics,Wireless Earbuds,4,1754.42,0.15,5965.03,5340.56,624.47,UPI,5,Delivered
+ORD-100233,11-10-2023,CUST-1044,Consumer,South,Chennai,Mobile App,Clothing,Kurta,4,976.59,0.05,3711.04,2799.61,911.43,UPI,1,Delivered
+ORD-100889,12-10-2023,CUST-1142,Small Business,South,Bengaluru,Online,Electronics,Wireless Earbuds,1,1682.35,0,1682.35,1179.38,502.97,UPI,4,Delivered
+ORD-100912,12-10-2023,CUST-1210,Consumer,East,Patna,Online,Home & Kitchen,Bedsheet,1,910.44,0.15,773.87,657.07,116.81,UPI,4,Shipped
+ORD-100379,12-10-2023,CUST-1106,Consumer,East,Patna,Online,Home & Kitchen,Cookware Set,2,2547.25,0,5094.5,2819.58,2274.92,Credit Card,7,Delivered
+ORD-100914,13-10-2023,CUST-1170,Consumer,East,Patna,Online,Home & Kitchen,Mixer Grinder,4,3417.36,0.05,12985.97,9545.16,3440.8,Net Banking,5,Delivered
+ORD-100810,16-10-2023,CUST-1238,Consumer,North,Delhi,Online,Electronics,Smartwatch,2,4442.72,0.15,7552.62,6558.52,994.1,Credit Card,2,Shipped
+ORD-100083,16-10-2023,CUST-1040,Consumer,West,Pune,Online,Sports,Running Shoes,5,3337.97,0.05,15855.36,10024.35,5831.01,Credit Card,4,Delivered
+ORD-101142,20-10-2023,CUST-1061,Consumer,East,Guwahati,Online,Home & Kitchen,Mixer Grinder,1,2902.26,0.15,2466.92,1994.01,472.91,Net Banking,6,Delivered
+ORD-100159,21-10-2023,CUST-1052,Consumer,North,Lucknow,Mobile App,Beauty,Perfume,2,1358.82,0.1,2445.88,1611.36,834.51,UPI,5,Delivered
+ORD-100782,23-10-2023,CUST-1161,Consumer,West,Pune,Store,Sports,Cricket Bat,5,2648.38,0,13241.9,8341.82,4900.08,Debit Card,1,Cancelled
+ORD-100063,23-10-2023,CUST-1048,Consumer,West,Pune,Store,Electronics,Smartphone,1,16254.4,0.2,13003.52,9877.89,3125.63,UPI,3,Delivered
+ORD-101047,23-10-2023,CUST-1256,Corporate,South,Hyderabad,Store,Electronics,Smartwatch,1,4278.19,0,4278.19,2620.39,1657.8,Credit Card,3,Delivered
+ORD-100837,29-10-2023,CUST-1131,Consumer,East,Kolkata,Online,Beauty,Moisturizer,3,356.08,0.2,854.59,752.19,102.4,UPI,2,Delivered
+ORD-100251,29-10-2023,CUST-1034,Corporate,North,Delhi,Online,Electronics,Smartwatch,2,4925.93,0,9851.86,5440.15,4411.71,Credit Card,3,Delivered
+ORD-100659,30-10-2023,CUST-1109,Consumer,South,Kochi,Mobile App,Home & Kitchen,Mixer Grinder,3,3174.53,0.15,8095.05,6135.72,1959.34,Net Banking,2,Delivered
+ORD-100297,01-11-2023,CUST-1333,Corporate,South,Kochi,Online,Electronics,Laptop,1,47528.71,0,47528.71,27456.72,20071.99,Debit Card,5,Delivered
+ORD-101115,07-11-2023,CUST-1258,Corporate,East,Patna,Online,Clothing,Kurta,1,1059.38,0.1,953.44,749.43,204.01,Net Banking,2,Delivered
+ORD-100935,09-11-2023,CUST-1051,Consumer,East,Bhubaneswar,Store,Beauty,Face Wash,4,214.09,0.05,813.54,528.42,285.13,UPI,3,Delivered
+ORD-100869,09-11-2023,CUST-1004,Small Business,West,Mumbai,Online,Electronics,Wireless Earbuds,1,1975.98,0.15,1679.58,1119.24,560.34,Credit Card,3,Processing
+ORD-100295,10-11-2023,CUST-1236,Consumer,Central,Raipur,Mobile App,Sports,Dumbbells,1,1571.4,0.1,1414.26,949.85,464.41,UPI,3,Delivered
+ORD-100703,11-11-2023,CUST-1205,Small Business,North,Delhi,Store,Electronics,Laptop,1,49202.78,0,49202.78,35041.04,14161.74,Debit Card,3,Shipped
+ORD-100038,12-11-2023,CUST-1222,Consumer,East,Bhubaneswar,Mobile App,Home & Kitchen,Mixer Grinder,2,3474.34,0.15,5906.38,4695.76,1210.61,Credit Card,3,Processing
+ORD-100762,14-11-2023,CUST-1275,Consumer,West,Pune,Online,Clothing,Jeans,2,1458.83,0.15,2480.01,1873.03,606.99,Debit Card,2,Processing
+ORD-100138,14-11-2023,CUST-1214,Small Business,Central,Nagpur,Online,Beauty,Face Wash,2,203.08,0,406.16,245.23,160.93,UPI,5,Shipped
+ORD-101126,14-11-2023,CUST-1124,Consumer,East,Patna,Online,Beauty,Face Wash,3,200.39,0,601.17,440.92,160.25,Debit Card,2,Processing
+ORD-100746,16-11-2023,CUST-1083,Small Business,North,Delhi,Online,Electronics,Smartphone,1,16494.7,0.05,15669.97,9923.69,5746.28,Cash,2,Delivered
+ORD-100757,17-11-2023,CUST-1001,Corporate,North,Delhi,Mobile App,Home & Kitchen,Mixer Grinder,1,3192.36,0.2,2553.89,1922.58,631.31,Net Banking,5,Delivered
+ORD-100283,17-11-2023,CUST-1302,Consumer,West,Mumbai,Mobile App,Home & Kitchen,Storage Box,2,413.92,0.15,703.66,586.58,117.08,Debit Card,2,Delivered
+ORD-100822,20-11-2023,CUST-1177,Consumer,South,Kochi,Online,Beauty,Perfume,2,1402.43,0.15,2384.13,1895.24,488.89,Debit Card,2,Shipped
+ORD-101140,20-11-2023,CUST-1070,Consumer,South,Hyderabad,Store,Home & Kitchen,Bedsheet,1,850.81,0.15,723.19,502.63,220.56,Debit Card,2,Delivered
+ORD-100735,22-11-2023,CUST-1009,Consumer,West,Mumbai,Online,Clothing,Kurta,1,1017.27,0.15,864.68,671.98,192.7,UPI,4,Delivered
+ORD-100904,23-11-2023,CUST-1089,Small Business,West,Surat,Mobile App,Sports,Cricket Bat,2,2449.22,0,4898.44,2835.31,2063.13,Credit Card,5,Delivered
+ORD-101196,24-11-2023,CUST-1163,Small Business,West,Pune,Store,Clothing,T-Shirt,1,505.23,0,505.23,287.18,218.05,Net Banking,3,Delivered
+ORD-100938,24-11-2023,CUST-1291,Consumer,North,Jaipur,Online,Sports,Running Shoes,2,3154.15,0.1,5677.47,4815.59,861.88,Debit Card,4,Shipped
+ORD-101182,25-11-2023,CUST-1043,Consumer,Central,Indore,Online,Clothing,T-Shirt,2,475.85,0,951.7,607.08,344.62,Net Banking,4,Delivered
+ORD-100758,25-11-2023,CUST-1151,Consumer,Central,Nagpur,Online,Electronics,Laptop,4,57178.81,0,228715.24,127815.15,100900.09,UPI,1,Delivered
+ORD-100956,26-11-2023,CUST-1214,Consumer,North,Chandigarh,Online,Clothing,Sneakers,5,2740.97,0,13704.85,10263.63,3441.22,UPI,5,Delivered
+ORD-101065,26-11-2023,CUST-1272,Corporate,North,Chandigarh,Online,Home & Kitchen,Cookware Set,2,2400.6,0,4801.2,3292.29,1508.91,Credit Card,6,Shipped
+ORD-100006,27-11-2023,CUST-1126,Consumer,Central,Nagpur,Online,Beauty,Perfume,1,1175.71,0.1,1058.14,818.87,239.27,Cash,3,Delivered
+ORD-100764,30-11-2023,CUST-1154,Consumer,West,Mumbai,Store,Beauty,Moisturizer,1,324.39,0.1,291.95,245.01,46.94,UPI,6,Delivered
+ORD-101083,01-12-2023,CUST-1222,Consumer,East,Kolkata,Online,Clothing,T-Shirt,1,541.38,0,541.38,365.37,176.01,Net Banking,3,Delivered
+ORD-100368,02-12-2023,CUST-1082,Consumer,Central,Bhopal,Online,Electronics,Laptop,1,56145.41,0.15,47723.6,39734.89,7988.71,UPI,3,Delivered
+ORD-100653,03-12-2023,CUST-1176,Consumer,South,Bengaluru,Store,Sports,Cricket Bat,1,2538.73,0.1,2284.86,1652.58,632.27,Debit Card,6,Delivered
+ORD-100210,04-12-2023,CUST-1207,Corporate,South,Bengaluru,Online,Beauty,Moisturizer,1,380.65,0,380.65,235.42,145.23,Debit Card,3,Delivered
+ORD-100065,04-12-2023,CUST-1106,Corporate,West,Mumbai,Online,Electronics,Smartwatch,4,4537.79,0.2,14520.93,10903.61,3617.32,Debit Card,5,Delivered
+ORD-100178,04-12-2023,CUST-1323,Small Business,East,Bhubaneswar,Store,Clothing,Sneakers,2,2456.74,0,4913.48,3081.42,1832.06,Net Banking,7,Delivered
+ORD-101068,05-12-2023,CUST-1320,Corporate,East,Patna,Online,Home & Kitchen,Mixer Grinder,1,3512.81,0.1,3161.53,2254.74,906.79,Credit Card,4,Shipped
+ORD-100457,05-12-2023,CUST-1147,Small Business,North,Lucknow,Store,Beauty,Perfume,1,1330.39,0.1,1197.35,905.98,291.37,UPI,6,Delivered
+ORD-101135,06-12-2023,CUST-1220,Consumer,West,Mumbai,Store,Sports,Running Shoes,1,3550.75,0,3550.75,2350.57,1200.18,UPI,3,Delivered
+ORD-100355,07-12-2023,CUST-1093,Consumer,East,Patna,Online,Electronics,Wireless Earbuds,5,1667.03,0.05,7918.39,4633.87,3284.52,Credit Card,3,Delivered
+ORD-101006,08-12-2023,CUST-1218,Consumer,South,Hyderabad,Online,Clothing,Jeans,1,1547.72,0.05,1470.33,1081.21,389.12,Credit Card,2,Delivered
+ORD-100900,08-12-2023,CUST-1201,Consumer,Central,Indore,Online,Sports,Yoga Mat,2,751.9,0.15,1278.23,1105.09,173.14,UPI,5,Delivered
+ORD-100011,10-12-2023,CUST-1104,Consumer,West,Ahmedabad,Mobile App,Electronics,Laptop,1,55294.27,0,55294.27,40362.01,14932.26,Credit Card,6,Delivered
+ORD-100640,12-12-2023,CUST-1100,Consumer,North,Delhi,Mobile App,Home & Kitchen,Storage Box,1,360.07,0,360.07,257.57,102.5,UPI,7,Delivered
+ORD-100836,12-12-2023,CUST-1264,Small Business,West,Mumbai,Mobile App,Clothing,T-Shirt,2,469.75,0.15,798.58,653.21,145.36,UPI,2,Delivered
+ORD-100185,12-12-2023,CUST-1025,Consumer,West,Mumbai,Online,Home & Kitchen,Mixer Grinder,2,2965.24,0.05,5633.96,3833.42,1800.54,Net Banking,4,Delivered
+ORD-100879,13-12-2023,CUST-1223,Corporate,East,Kolkata,Online,Beauty,Hair Dryer,1,1922.85,0.05,1826.71,1099.87,726.84,Debit Card,2,Delivered
+ORD-100478,14-12-2023,CUST-1019,Consumer,West,Pune,Store,Electronics,Smartwatch,3,4742.33,0.1,12804.29,8928.24,3876.05,UPI,3,Delivered
+ORD-100649,16-12-2023,CUST-1240,Corporate,West,Mumbai,Mobile App,Sports,Dumbbells,1,1536.16,0,1536.16,1011.93,524.23,UPI,1,Delivered
+ORD-100710,16-12-2023,CUST-1315,Consumer,North,Chandigarh,Mobile App,Clothing,T-Shirt,4,470.5,0,1882,1420.97,461.03,Cash,3,Shipped
+ORD-100848,22-12-2023,CUST-1107,Consumer,South,Bengaluru,Mobile App,Electronics,Laptop,2,48040.2,0.15,81668.34,54560.66,27107.68,Cash,7,Delivered
+ORD-100357,23-12-2023,CUST-1016,Consumer,East,Patna,Mobile App,Home & Kitchen,Bedsheet,2,985.44,0,1970.88,1186.28,784.6,Debit Card,3,Delivered
+ORD-100502,24-12-2023,CUST-1268,Corporate,North,Chandigarh,Mobile App,Beauty,Face Wash,4,208.22,0.05,791.24,478.41,312.82,Cash,3,Delivered
+ORD-100623,26-12-2023,CUST-1205,Consumer,North,Chandigarh,Mobile App,Sports,Running Shoes,2,3038.86,0.1,5469.95,3742.79,1727.16,Cash,5,Delivered
+ORD-100676,29-12-2023,CUST-1009,Consumer,East,Bhubaneswar,Store,Electronics,Wireless Earbuds,1,1871.65,0.05,1778.07,1046.84,731.23,Credit Card,6,Shipped
+ORD-100838,29-12-2023,CUST-1207,Consumer,East,Guwahati,Mobile App,Clothing,T-Shirt,1,541.24,0,541.24,397.68,143.56,Cash,2,Delivered
+ORD-101106,30-12-2023,CUST-1325,Consumer,West,Mumbai,Online,Home & Kitchen,Cookware Set,2,2491.87,0.05,4734.55,3641.56,1092.99,Net Banking,1,Delivered
+ORD-101041,31-12-2023,CUST-1137,Consumer,Central,Nagpur,Mobile App,Clothing,Sneakers,1,2320.3,0.1,2088.27,1688.67,399.6,UPI,2,Delivered
+ORD-100667,31-12-2023,CUST-1196,Consumer,East,Guwahati,Online,Sports,Running Shoes,1,3016.05,0.15,2563.64,2274.96,288.69,Credit Card,5,Delivered
+ORD-100319,05-01-2024,CUST-1007,Consumer,Central,Nagpur,Store,Sports,Running Shoes,4,3170.4,0,12681.6,8318.56,4363.04,Credit Card,2,Delivered
+ORD-100864,06-01-2024,CUST-1091,Corporate,South,Hyderabad,Mobile App,Beauty,Perfume,1,1227.9,0.1,1105.11,795.33,309.78,Debit Card,7,Delivered
+ORD-101092,07-01-2024,CUST-1243,Corporate,South,Chennai,Online,Home & Kitchen,Bedsheet,1,937.08,0.1,843.37,622.75,220.62,UPI,6,Delivered
+ORD-100505,08-01-2024,CUST-1244,Consumer,West,Surat,Mobile App,Clothing,T-Shirt,2,540.24,0.15,918.41,823.26,95.15,UPI,4,Delivered
+ORD-100534,09-01-2024,CUST-1325,Consumer,South,Chennai,Online,Beauty,Face Wash,1,179.84,0.15,152.86,104.62,48.25,UPI,5,Delivered
+ORD-101070,09-01-2024,CUST-1296,Consumer,South,Hyderabad,Online,Clothing,Kurta,1,937.91,0.05,891.01,598.76,292.25,Net Banking,6,Delivered
+ORD-101139,11-01-2024,CUST-1083,Consumer,Central,Raipur,Online,Sports,Running Shoes,5,3168.48,0.05,15050.28,11863.08,3187.2,Net Banking,5,Delivered
+ORD-100765,11-01-2024,CUST-1137,Consumer,South,Kochi,Store,Electronics,Wireless Earbuds,1,1819.38,0.1,1637.44,1018.37,619.07,UPI,3,Delivered
+ORD-101131,12-01-2024,CUST-1145,Consumer,Central,Bhopal,Store,Clothing,T-Shirt,2,534.96,0.2,855.94,712.44,143.5,UPI,3,Delivered
+ORD-100084,14-01-2024,CUST-1124,Consumer,South,Bengaluru,Online,Home & Kitchen,Bedsheet,4,877.28,0.15,2982.75,2609.85,372.9,UPI,1,Delivered
+ORD-100375,15-01-2024,CUST-1202,Consumer,South,Chennai,Online,Beauty,Hair Dryer,1,2074.29,0.15,1763.15,1360.14,403,Credit Card,1,Processing
+ORD-100072,15-01-2024,CUST-1348,Consumer,South,Bengaluru,Mobile App,Beauty,Moisturizer,2,332.26,0,664.52,390.01,274.51,Cash,5,Delivered
+ORD-100150,20-01-2024,CUST-1089,Small Business,Central,Raipur,Online,Electronics,Smartwatch,1,4159.81,0.1,3743.83,2396.43,1347.4,Credit Card,3,Delivered
+ORD-100546,20-01-2024,CUST-1152,Consumer,South,Bengaluru,Online,Beauty,Perfume,2,1413.99,0.15,2403.78,1960.86,442.92,UPI,2,Shipped
+ORD-100013,21-01-2024,CUST-1304,Consumer,Central,Nagpur,Mobile App,Electronics,Wireless Earbuds,2,1788.04,0,3576.08,2764.34,811.74,Credit Card,3,Delivered
+ORD-100876,21-01-2024,CUST-1003,Consumer,Central,Raipur,Online,Home & Kitchen,Bedsheet,2,887.93,0.1,1598.27,1204.5,393.78,Cash,3,Delivered
+ORD-100477,22-01-2024,CUST-1051,Consumer,East,Bhubaneswar,Store,Electronics,Laptop,2,47924.01,0.05,91055.62,74143.11,16912.51,UPI,1,Delivered
+ORD-100036,23-01-2024,CUST-1049,Small Business,North,Chandigarh,Online,Home & Kitchen,Bedsheet,5,903.9,0.15,3841.57,2656.08,1185.5,Debit Card,2,Delivered
+ORD-100578,24-01-2024,CUST-1152,Consumer,East,Bhubaneswar,Mobile App,Home & Kitchen,Cookware Set,2,2540.16,0.05,4826.3,3631,1195.31,UPI,3,Delivered
+ORD-101136,24-01-2024,CUST-1217,Corporate,North,Chandigarh,Online,Sports,Running Shoes,1,3561.16,0.05,3383.1,2162.6,1220.5,UPI,4,Delivered
+ORD-100523,25-01-2024,CUST-1040,Consumer,East,Patna,Mobile App,Sports,Cricket Bat,2,2440.01,0.2,3904.02,3054.38,849.64,Net Banking,4,Delivered
+ORD-101082,26-01-2024,CUST-1024,Consumer,West,Ahmedabad,Store,Home & Kitchen,Mixer Grinder,3,3266.57,0.2,7839.77,5987.87,1851.9,UPI,5,Delivered
+ORD-100799,26-01-2024,CUST-1283,Consumer,North,Chandigarh,Online,Home & Kitchen,Storage Box,3,429.73,0,1289.19,758.9,530.29,Credit Card,6,Delivered
+ORD-100081,27-01-2024,CUST-1271,Consumer,South,Bengaluru,Online,Beauty,Hair Dryer,1,1757.48,0.05,1669.61,1181.49,488.12,Credit Card,2,Shipped
+ORD-100110,28-01-2024,CUST-1127,Consumer,East,Bhubaneswar,Online,Sports,Running Shoes,1,3336.47,0.15,2836,2445.84,390.16,Cash,7,Delivered
+ORD-100970,31-01-2024,CUST-1225,Consumer,East,Patna,Store,Electronics,Smartphone,3,17426.43,0.05,49665.33,37842.41,11822.92,Debit Card,4,Delivered
+ORD-100839,31-01-2024,CUST-1244,Consumer,West,Surat,Online,Clothing,Kurta,2,945.29,0.05,1796.05,1306.82,489.23,UPI,1,Shipped
+ORD-100421,31-01-2024,CUST-1325,Consumer,West,Pune,Online,Clothing,Jeans,3,1372.86,0,4118.58,2631.09,1487.49,UPI,3,Delivered
+ORD-100432,31-01-2024,CUST-1305,Consumer,West,Pune,Store,Beauty,Perfume,2,1361.07,0.15,2313.82,1577.68,736.14,UPI,4,Delivered
+ORD-100380,01-02-2024,CUST-1266,Consumer,West,Pune,Online,Clothing,Sneakers,3,2718.27,0.15,6931.59,6080.5,851.09,UPI,3,Delivered
+ORD-100417,01-02-2024,CUST-1090,Small Business,North,Delhi,Mobile App,Home & Kitchen,Mixer Grinder,1,2887.25,0.1,2598.53,2234.39,364.14,Cash,2,Delivered
+ORD-100107,02-02-2024,CUST-1196,Consumer,North,Lucknow,Store,Home & Kitchen,Storage Box,2,411.61,0,823.22,604.19,219.03,Net Banking,3,Shipped
+ORD-100441,02-02-2024,CUST-1260,Consumer,East,Bhubaneswar,Mobile App,Home & Kitchen,Storage Box,2,436.63,0.05,829.6,639.44,190.15,Credit Card,6,Delivered
+ORD-100215,02-02-2024,CUST-1079,Consumer,East,Kolkata,Store,Electronics,Laptop,3,52084.67,0.1,140628.61,103109,37519.61,Credit Card,3,Delivered
+ORD-101147,03-02-2024,CUST-1201,Consumer,North,Chandigarh,Online,Beauty,Hair Dryer,1,1850.05,0,1850.05,1113.89,736.16,Credit Card,6,Processing
+ORD-100285,04-02-2024,CUST-1046,Corporate,North,Delhi,Online,Clothing,T-Shirt,1,492.21,0,492.21,378.71,113.5,Debit Card,2,Delivered
+ORD-100157,05-02-2024,CUST-1016,Small Business,South,Bengaluru,Store,Clothing,Sneakers,1,2337.51,0.2,1870.01,1524.39,345.62,Cash,1,Delivered
+ORD-101079,05-02-2024,CUST-1151,Consumer,Central,Indore,Store,Electronics,Smartphone,4,18496.73,0.15,62888.88,46835.45,16053.43,Credit Card,4,Delivered
+ORD-100581,05-02-2024,CUST-1250,Consumer,East,Guwahati,Online,Beauty,Face Wash,3,198.01,0.15,504.93,375.89,129.04,UPI,3,Delivered
+ORD-100217,05-02-2024,CUST-1041,Consumer,East,Guwahati,Mobile App,Clothing,T-Shirt,1,545.68,0.1,491.11,370.96,120.15,Debit Card,4,Delivered
+ORD-100054,06-02-2024,CUST-1262,Consumer,Central,Indore,Online,Beauty,Perfume,3,1258.63,0,3775.89,2121.81,1654.08,UPI,3,Delivered
+ORD-100781,06-02-2024,CUST-1226,Consumer,West,Surat,Online,Clothing,Sneakers,1,2457.92,0.05,2335.02,1391.99,943.03,Debit Card,2,Delivered
+ORD-101095,06-02-2024,CUST-1050,Consumer,South,Hyderabad,Online,Home & Kitchen,Mixer Grinder,1,2960.46,0.1,2664.41,2139.63,524.78,Net Banking,2,Delivered
+ORD-100172,07-02-2024,CUST-1134,Consumer,Central,Bhopal,Online,Beauty,Hair Dryer,1,1809.55,0.1,1628.6,1023.6,605,UPI,5,Delivered
+ORD-100198,08-02-2024,CUST-1331,Consumer,West,Ahmedabad,Store,Electronics,Smartwatch,3,4913.52,0,14740.56,8406.17,6334.39,Credit Card,2,Delivered
+ORD-100547,09-02-2024,CUST-1111,Consumer,Central,Raipur,Online,Home & Kitchen,Storage Box,1,437.47,0.05,415.6,248.66,166.94,Credit Card,3,Delivered
+ORD-101037,10-02-2024,CUST-1085,Small Business,North,Jaipur,Store,Electronics,Laptop,1,51014.35,0,51014.35,37857.75,13156.6,UPI,2,Delivered
+ORD-100096,11-02-2024,CUST-1182,Consumer,South,Hyderabad,Online,Home & Kitchen,Cookware Set,1,2604.02,0.1,2343.62,1464.79,878.83,Debit Card,4,Delivered
+ORD-100276,12-02-2024,CUST-1164,Corporate,East,Bhubaneswar,Store,Home & Kitchen,Cookware Set,2,2508.16,0.15,4263.87,3883.24,380.63,Debit Card,1,Delivered
+ORD-100396,17-02-2024,CUST-1052,Corporate,East,Patna,Online,Electronics,Smartwatch,1,4422.01,0.1,3979.81,2875.59,1104.22,UPI,3,Delivered
+ORD-101118,18-02-2024,CUST-1251,Consumer,North,Delhi,Store,Clothing,T-Shirt,5,508.53,0.1,2288.38,1658.88,629.5,UPI,3,Shipped
+ORD-100878,22-02-2024,CUST-1036,Consumer,East,Patna,Online,Home & Kitchen,Storage Box,2,417.79,0.15,710.24,640.34,69.9,Net Banking,3,Delivered
+ORD-100392,22-02-2024,CUST-1106,Consumer,East,Guwahati,Online,Sports,Cricket Bat,1,2450.54,0.1,2205.49,1741.25,464.24,UPI,5,Processing
+ORD-101173,23-02-2024,CUST-1080,Consumer,South,Bengaluru,Online,Electronics,Laptop,4,50572.65,0,202290.6,117960.64,84329.96,Credit Card,7,Delivered
+ORD-100082,23-02-2024,CUST-1220,Consumer,West,Surat,Mobile App,Sports,Running Shoes,1,2996.8,0.1,2697.12,1773.5,923.62,Credit Card,7,Delivered
+ORD-100859,24-02-2024,CUST-1119,Consumer,North,Delhi,Online,Clothing,Sneakers,2,2327.2,0.1,4188.96,2806.59,1382.37,Net Banking,3,Delivered
+ORD-100804,24-02-2024,CUST-1310,Corporate,South,Bengaluru,Mobile App,Beauty,Hair Dryer,3,1988.92,0,5966.76,3829.7,2137.06,Credit Card,5,Delivered
+ORD-100785,26-02-2024,CUST-1070,Small Business,West,Surat,Online,Clothing,Jeans,1,1600.43,0.1,1440.39,1134.21,306.17,Credit Card,1,Shipped
+ORD-100700,29-02-2024,CUST-1180,Consumer,East,Guwahati,Mobile App,Home & Kitchen,Storage Box,2,428.33,0,856.66,584.25,272.41,UPI,7,Delivered
+ORD-100913,04-03-2024,CUST-1112,Consumer,West,Ahmedabad,Store,Electronics,Laptop,1,50544.68,0.05,48017.45,28948.92,19068.52,Credit Card,2,Delivered
+ORD-100354,07-03-2024,CUST-1295,Consumer,South,Kochi,Online,Clothing,Kurta,1,1092.99,0,1092.99,668.64,424.35,UPI,3,Delivered
+ORD-101143,07-03-2024,CUST-1259,Consumer,Central,Nagpur,Online,Beauty,Perfume,3,1187.61,0.15,3028.41,2001.33,1027.08,Debit Card,5,Delivered
+ORD-100588,10-03-2024,CUST-1268,Consumer,West,Pune,Online,Beauty,Hair Dryer,1,1932.9,0.1,1739.61,1181.52,558.09,UPI,3,Delivered
+ORD-100596,10-03-2024,CUST-1308,Consumer,South,Hyderabad,Mobile App,Home & Kitchen,Cookware Set,2,2207.97,0.15,3753.55,2804.45,949.1,Debit Card,3,Delivered
+ORD-100907,10-03-2024,CUST-1094,Consumer,West,Pune,Mobile App,Sports,Running Shoes,5,3001.96,0,15009.8,10490.75,4519.05,Cash,2,Processing
+ORD-100229,13-03-2024,CUST-1267,Corporate,East,Guwahati,Mobile App,Beauty,Face Wash,1,184.69,0.05,175.46,123.59,51.87,Debit Card,3,Delivered
+ORD-100572,13-03-2024,CUST-1020,Consumer,Central,Nagpur,Online,Electronics,Laptop,1,47231.59,0.05,44870.01,28630.55,16239.46,Credit Card,5,Delivered
+ORD-100992,17-03-2024,CUST-1042,Consumer,West,Mumbai,Online,Sports,Yoga Mat,2,731.05,0.15,1242.78,1053.52,189.26,Cash,4,Cancelled
+ORD-100141,17-03-2024,CUST-1208,Consumer,West,Surat,Online,Clothing,Jeans,1,1415.59,0.05,1344.81,863.03,481.78,Debit Card,6,Delivered
+ORD-100362,17-03-2024,CUST-1066,Corporate,West,Ahmedabad,Online,Electronics,Smartwatch,3,4104.01,0.05,11696.43,9392.65,2303.78,Debit Card,6,Delivered
+ORD-100937,18-03-2024,CUST-1065,Consumer,West,Surat,Online,Electronics,Wireless Earbuds,4,1804.58,0.05,6857.4,4733.09,2124.32,UPI,2,Delivered
+ORD-100302,19-03-2024,CUST-1279,Consumer,North,Lucknow,Store,Electronics,Smartwatch,1,4570.4,0.1,4113.36,3290.48,822.88,UPI,4,Processing
+ORD-100422,20-03-2024,CUST-1059,Small Business,West,Pune,Store,Electronics,Wireless Earbuds,1,1654.04,0.15,1405.93,1140.27,265.67,Cash,1,Shipped
+ORD-100462,20-03-2024,CUST-1249,Consumer,Central,Bhopal,Mobile App,Beauty,Perfume,2,1324.83,0,2649.66,1909.28,740.38,Cash,6,Delivered
+ORD-100597,22-03-2024,CUST-1112,Small Business,North,Chandigarh,Store,Electronics,Wireless Earbuds,5,1923.69,0,9618.45,7291.35,2327.1,UPI,4,Delivered
+ORD-100563,24-03-2024,CUST-1316,Consumer,East,Kolkata,Online,Home & Kitchen,Storage Box,2,416.67,0,833.34,571.89,261.45,Debit Card,2,Delivered
+ORD-100527,25-03-2024,CUST-1060,Small Business,Central,Indore,Online,Home & Kitchen,Bedsheet,1,983.91,0,983.91,707.1,276.81,UPI,2,Delivered
+ORD-100947,27-03-2024,CUST-1077,Consumer,East,Bhubaneswar,Online,Clothing,Jeans,1,1581.26,0.05,1502.2,989.2,513,UPI,2,Delivered
+ORD-100192,28-03-2024,CUST-1276,Consumer,West,Ahmedabad,Online,Sports,Cricket Bat,1,2441.99,0.05,2319.89,1840.89,479.01,Debit Card,4,Delivered
+ORD-100236,28-03-2024,CUST-1246,Consumer,South,Chennai,Online,Beauty,Perfume,1,1388.37,0.05,1318.95,898.27,420.68,Debit Card,4,Shipped
+ORD-100350,28-03-2024,CUST-1046,Corporate,South,Chennai,Online,Sports,Running Shoes,1,3376.77,0.1,3039.09,2151.32,887.77,Debit Card,2,Delivered
+ORD-101198,29-03-2024,CUST-1095,Consumer,North,Jaipur,Store,Electronics,Wireless Earbuds,2,1892.27,0.05,3595.31,2447.29,1148.03,Credit Card,3,Processing
+ORD-100425,30-03-2024,CUST-1226,Consumer,Central,Bhopal,Mobile App,Clothing,T-Shirt,1,485.29,0,485.29,377.34,107.95,UPI,4,Delivered
+ORD-101014,30-03-2024,CUST-1184,Corporate,South,Kochi,Mobile App,Clothing,Sneakers,4,2511.24,0,10044.96,6830.41,3214.55,Credit Card,2,Delivered
+ORD-100061,31-03-2024,CUST-1219,Consumer,Central,Indore,Online,Clothing,Jeans,1,1640.11,0,1640.11,1054.31,585.8,Debit Card,2,Delivered
+ORD-100473,31-03-2024,CUST-1004,Consumer,West,Pune,Online,Beauty,Perfume,4,1400.86,0.1,5043.1,3782.47,1260.62,Debit Card,3,Delivered
+ORD-100401,01-04-2024,CUST-1140,Small Business,West,Mumbai,Mobile App,Clothing,Sneakers,1,2653.33,0.05,2520.66,1847.54,673.12,UPI,3,Shipped
+ORD-100558,01-04-2024,CUST-1333,Consumer,Central,Indore,Online,Beauty,Hair Dryer,1,1973.15,0.05,1874.49,1341.9,532.6,Net Banking,4,Delivered
+ORD-100016,04-04-2024,CUST-1054,Consumer,North,Jaipur,Store,Home & Kitchen,Cookware Set,1,2512.33,0.15,2135.48,1918.74,216.74,Debit Card,4,Shipped
+ORD-100221,04-04-2024,CUST-1079,Consumer,East,Guwahati,Online,Beauty,Perfume,1,1299.52,0.1,1169.57,887.78,281.79,Cash,1,Delivered
+ORD-100518,05-04-2024,CUST-1014,Consumer,South,Bengaluru,Online,Clothing,T-Shirt,3,544.59,0.1,1470.39,1248.61,221.78,UPI,5,Delivered
+ORD-100168,08-04-2024,CUST-1039,Consumer,East,Guwahati,Online,Sports,Cricket Bat,1,2465.4,0.1,2218.86,1401.68,817.18,UPI,3,Shipped
+ORD-101073,10-04-2024,CUST-1340,Small Business,North,Jaipur,Online,Electronics,Laptop,2,55212.84,0.1,99383.11,73599.53,25783.58,Net Banking,4,Delivered
+ORD-100005,11-04-2024,CUST-1167,Consumer,East,Bhubaneswar,Online,Sports,Cricket Bat,1,2693.75,0,2693.75,1710.83,982.92,Debit Card,4,Delivered
+ORD-100721,12-04-2024,CUST-1333,Consumer,East,Kolkata,Store,Beauty,Face Wash,1,214.47,0.05,203.75,150.91,52.84,UPI,4,Delivered
+ORD-100950,13-04-2024,CUST-1144,Consumer,South,Chennai,Online,Sports,Yoga Mat,1,836.37,0.05,794.55,526.75,267.8,Credit Card,3,Delivered
+ORD-100223,14-04-2024,CUST-1189,Corporate,West,Pune,Online,Clothing,Kurta,3,1096.06,0.15,2794.95,2263.31,531.64,UPI,4,Delivered
+ORD-100288,15-04-2024,CUST-1164,Consumer,East,Guwahati,Store,Sports,Yoga Mat,4,751.96,0.1,2707.06,1808.64,898.41,Credit Card,3,Delivered
+ORD-100969,15-04-2024,CUST-1257,Consumer,South,Chennai,Mobile App,Clothing,Jeans,1,1520.95,0.2,1216.76,938.31,278.45,UPI,5,Delivered
+ORD-100496,15-04-2024,CUST-1187,Consumer,West,Ahmedabad,Online,Clothing,T-Shirt,2,486.42,0.2,778.27,540.03,238.24,Credit Card,3,Shipped
+ORD-100181,17-04-2024,CUST-1037,Corporate,East,Kolkata,Online,Beauty,Hair Dryer,1,1928.76,0.15,1639.45,1417.56,221.89,Credit Card,2,Delivered
+ORD-100664,18-04-2024,CUST-1322,Consumer,West,Ahmedabad,Online,Home & Kitchen,Cookware Set,1,2286.18,0,2286.18,1627.8,658.38,Debit Card,4,Delivered
+ORD-100353,18-04-2024,CUST-1145,Consumer,East,Bhubaneswar,Store,Sports,Cricket Bat,2,2660.88,0.1,4789.58,4112.96,676.62,UPI,4,Delivered
+ORD-100021,19-04-2024,CUST-1053,Consumer,West,Mumbai,Mobile App,Sports,Yoga Mat,2,853.69,0.1,1536.64,1025.17,511.47,UPI,4,Delivered
+ORD-100877,19-04-2024,CUST-1345,Corporate,North,Jaipur,Mobile App,Home & Kitchen,Mixer Grinder,4,3377.49,0,13509.96,7971.71,5538.25,Credit Card,2,Shipped
+ORD-100550,20-04-2024,CUST-1346,Consumer,East,Bhubaneswar,Online,Electronics,Wireless Earbuds,3,1796.56,0,5389.68,3627.84,1761.84,Debit Card,2,Delivered
+ORD-100901,20-04-2024,CUST-1244,Consumer,Central,Raipur,Mobile App,Sports,Cricket Bat,1,2529.82,0.05,2403.33,1807.49,595.84,Cash,3,Delivered
+ORD-100472,20-04-2024,CUST-1202,Consumer,West,Pune,Mobile App,Sports,Cricket Bat,1,2348.13,0,2348.13,1630.23,717.9,UPI,3,Delivered
+ORD-100244,21-04-2024,CUST-1143,Corporate,East,Patna,Online,Sports,Running Shoes,2,3111.06,0.1,5599.91,4744.01,855.9,Credit Card,2,Delivered
+ORD-101125,21-04-2024,CUST-1217,Corporate,Central,Raipur,Online,Clothing,T-Shirt,1,512.94,0,512.94,363.59,149.35,Net Banking,1,Shipped
+ORD-100802,22-04-2024,CUST-1274,Consumer,East,Kolkata,Store,Beauty,Perfume,1,1196.09,0.1,1076.48,715.3,361.18,Debit Card,4,Delivered
+ORD-101042,26-04-2024,CUST-1070,Consumer,North,Lucknow,Store,Home & Kitchen,Cookware Set,2,2566.36,0.05,4876.08,3443.29,1432.79,Net Banking,4,Cancelled
+ORD-100680,29-04-2024,CUST-1280,Consumer,North,Chandigarh,Online,Clothing,Kurta,3,1007.83,0,3023.49,1837.46,1186.03,UPI,6,Delivered
+ORD-100119,29-04-2024,CUST-1184,Consumer,East,Patna,Online,Beauty,Perfume,5,1413.05,0.1,6358.73,4208.44,2150.29,Net Banking,1,Delivered
+ORD-100334,02-05-2024,CUST-1104,Consumer,Central,Nagpur,Online,Electronics,Smartphone,1,16529.13,0.1,14876.22,12481.66,2394.56,UPI,3,Processing
+ORD-100565,02-05-2024,CUST-1280,Corporate,North,Jaipur,Mobile App,Sports,Dumbbells,3,1754.77,0.1,4737.88,3232.03,1505.85,Cash,5,Delivered
+ORD-101074,03-05-2024,CUST-1293,Consumer,West,Surat,Online,Beauty,Face Wash,3,193.58,0.1,522.67,387.93,134.74,Credit Card,4,Delivered
+ORD-100175,03-05-2024,CUST-1009,Consumer,East,Kolkata,Mobile App,Electronics,Laptop,2,47445.23,0,94890.46,64714.26,30176.2,UPI,7,Delivered
+ORD-100269,04-05-2024,CUST-1057,Corporate,East,Kolkata,Store,Beauty,Hair Dryer,3,1729.07,0,5187.21,3531.8,1655.41,UPI,6,Delivered
+ORD-100946,05-05-2024,CUST-1175,Consumer,East,Kolkata,Store,Electronics,Smartphone,1,18814.63,0.1,16933.17,13386.78,3546.39,UPI,5,Delivered
+ORD-100450,06-05-2024,CUST-1319,Small Business,North,Jaipur,Mobile App,Clothing,T-Shirt,3,526.1,0.15,1341.56,1160.56,181,Credit Card,3,Delivered
+ORD-100073,07-05-2024,CUST-1319,Consumer,North,Delhi,Mobile App,Electronics,Wireless Earbuds,1,1952.84,0.05,1855.2,1322.61,532.58,Cash,3,Delivered
+ORD-101113,07-05-2024,CUST-1164,Consumer,South,Bengaluru,Mobile App,Beauty,Moisturizer,2,316.93,0.1,570.47,471.38,99.09,UPI,6,Delivered
+ORD-100989,08-05-2024,CUST-1138,Consumer,Central,Indore,Mobile App,Clothing,T-Shirt,4,493.69,0,1974.76,1107.83,866.93,Debit Card,4,Delivered
+ORD-101108,11-05-2024,CUST-1036,Consumer,South,Kochi,Online,Electronics,Wireless Earbuds,2,1630.65,0.05,3098.24,2099.41,998.83,Cash,5,Cancelled
+ORD-100250,11-05-2024,CUST-1145,Consumer,Central,Raipur,Mobile App,Sports,Cricket Bat,1,2328.29,0,2328.29,1721.12,607.17,UPI,3,Delivered
+ORD-100370,11-05-2024,CUST-1311,Corporate,North,Lucknow,Store,Clothing,T-Shirt,1,483.59,0.15,411.05,293.37,117.68,UPI,5,Delivered
+ORD-100382,13-05-2024,CUST-1048,Consumer,Central,Indore,Online,Sports,Running Shoes,1,3177.91,0.15,2701.22,1785.91,915.31,UPI,4,Processing
+ORD-100458,14-05-2024,CUST-1104,Consumer,South,Hyderabad,Online,Beauty,Hair Dryer,1,1814.4,0.2,1451.52,1311.23,140.29,Credit Card,4,Delivered
+ORD-100921,16-05-2024,CUST-1021,Consumer,North,Chandigarh,Online,Sports,Cricket Bat,1,2260.27,0,2260.27,1536.79,723.48,Debit Card,6,Delivered
+ORD-100515,16-05-2024,CUST-1214,Consumer,North,Delhi,Store,Electronics,Smartphone,2,18734.09,0.1,33721.36,28948.23,4773.13,Debit Card,4,Delivered
+ORD-100793,17-05-2024,CUST-1288,Consumer,Central,Bhopal,Store,Electronics,Smartwatch,3,4113.03,0.15,10488.23,8494.55,1993.68,Credit Card,1,Delivered
+ORD-100105,17-05-2024,CUST-1184,Consumer,North,Chandigarh,Online,Clothing,Jeans,3,1481.54,0.2,3555.7,2849.06,706.64,UPI,1,Delivered
+ORD-100095,17-05-2024,CUST-1166,Consumer,South,Chennai,Online,Clothing,T-Shirt,2,495.93,0.05,942.27,658.25,284.02,Credit Card,5,Delivered
+ORD-100727,18-05-2024,CUST-1306,Consumer,North,Lucknow,Mobile App,Sports,Yoga Mat,3,802.63,0.1,2167.1,1378.15,788.95,Debit Card,4,Delivered
+ORD-100480,19-05-2024,CUST-1190,Small Business,South,Chennai,Online,Beauty,Moisturizer,4,351.08,0.1,1263.89,1040.97,222.92,UPI,2,Delivered
+ORD-101166,20-05-2024,CUST-1031,Corporate,East,Kolkata,Store,Electronics,Laptop,2,54258.74,0.1,97665.73,82271.95,15393.78,UPI,7,Delivered
+ORD-100046,23-05-2024,CUST-1109,Consumer,South,Chennai,Mobile App,Electronics,Smartwatch,2,4442.95,0.1,7997.31,5943.25,2054.06,Net Banking,5,Processing
+ORD-100205,24-05-2024,CUST-1283,Consumer,South,Kochi,Store,Beauty,Face Wash,2,216.07,0.05,410.53,249.52,161.01,Debit Card,2,Delivered
+ORD-100459,25-05-2024,CUST-1165,Consumer,West,Pune,Store,Home & Kitchen,Bedsheet,1,867.84,0.05,824.45,533.09,291.35,UPI,1,Delivered
+ORD-100023,25-05-2024,CUST-1204,Consumer,Central,Nagpur,Online,Beauty,Moisturizer,1,325.17,0.15,276.39,240.45,35.94,UPI,1,Delivered
+ORD-100545,25-05-2024,CUST-1044,Corporate,North,Lucknow,Mobile App,Home & Kitchen,Storage Box,1,412.1,0.05,391.5,310.93,80.57,Credit Card,1,Delivered
+ORD-100284,26-05-2024,CUST-1082,Corporate,South,Chennai,Online,Home & Kitchen,Mixer Grinder,1,3400.22,0.1,3060.2,2353.65,706.55,Debit Card,1,Shipped
+ORD-100331,27-05-2024,CUST-1286,Consumer,East,Kolkata,Store,Beauty,Hair Dryer,2,1755.94,0.05,3336.29,2214.81,1121.47,UPI,2,Delivered
+ORD-100767,27-05-2024,CUST-1104,Consumer,East,Kolkata,Store,Electronics,Laptop,4,54907.93,0.1,197668.55,143779.9,53888.65,UPI,4,Delivered
+ORD-100963,28-05-2024,CUST-1233,Consumer,South,Kochi,Mobile App,Electronics,Smartwatch,2,4793.9,0.2,7670.24,6099.52,1570.72,Credit Card,1,Shipped
+ORD-100365,30-05-2024,CUST-1088,Consumer,East,Bhubaneswar,Online,Clothing,Kurta,1,1020.07,0,1020.07,718.89,301.18,UPI,4,Delivered
+ORD-100708,30-05-2024,CUST-1273,Corporate,East,Patna,Store,Sports,Cricket Bat,1,2394.41,0.1,2154.97,1814.1,340.87,UPI,3,Delivered
+ORD-100813,31-05-2024,CUST-1032,Small Business,South,Bengaluru,Mobile App,Electronics,Smartwatch,2,4763.62,0.05,9050.88,6612.7,2438.18,UPI,1,Delivered
+ORD-100246,01-06-2024,CUST-1076,Consumer,North,Lucknow,Online,Clothing,T-Shirt,2,497.92,0,995.84,603.27,392.57,UPI,2,Delivered
+ORD-100549,01-06-2024,CUST-1235,Corporate,Central,Indore,Mobile App,Beauty,Moisturizer,2,315.47,0.1,567.85,422.94,144.91,UPI,2,Delivered
+ORD-100077,04-06-2024,CUST-1247,Consumer,North,Chandigarh,Online,Clothing,Jeans,2,1523.63,0,3047.26,1824.5,1222.76,UPI,2,Delivered
+ORD-101190,04-06-2024,CUST-1069,Consumer,South,Hyderabad,Store,Electronics,Smartwatch,2,4845.57,0.1,8722.03,6703.73,2018.29,Cash,5,Cancelled
+ORD-100986,04-06-2024,CUST-1212,Corporate,North,Jaipur,Mobile App,Home & Kitchen,Bedsheet,1,854.68,0.15,726.48,601.77,124.71,Cash,1,Delivered
+ORD-100359,05-06-2024,CUST-1193,Consumer,North,Delhi,Online,Home & Kitchen,Cookware Set,3,2624.32,0.05,7479.31,5226.15,2253.16,Credit Card,4,Delivered
+ORD-100639,07-06-2024,CUST-1246,Consumer,North,Jaipur,Store,Beauty,Face Wash,2,193.6,0.05,367.84,269.63,98.21,Cash,5,Delivered
+ORD-101059,07-06-2024,CUST-1136,Small Business,North,Lucknow,Mobile App,Sports,Dumbbells,1,1547.01,0.1,1392.31,1180.07,212.24,Net Banking,2,Shipped
+ORD-100124,08-06-2024,CUST-1237,Consumer,North,Lucknow,Online,Sports,Dumbbells,2,1740.56,0,3481.12,2117.93,1363.19,UPI,2,Delivered
+ORD-100277,08-06-2024,CUST-1069,Corporate,East,Bhubaneswar,Store,Home & Kitchen,Bedsheet,3,944.27,0.1,2549.53,1696.61,852.92,Cash,5,Processing
+ORD-100985,09-06-2024,CUST-1314,Consumer,Central,Raipur,Online,Beauty,Perfume,2,1339.13,0.1,2410.43,1614.11,796.33,Credit Card,3,Delivered
+ORD-100669,09-06-2024,CUST-1094,Consumer,East,Kolkata,Online,Clothing,Jeans,2,1486.3,0.1,2675.34,1730.59,944.75,Debit Card,3,Delivered
+ORD-100663,09-06-2024,CUST-1313,Consumer,West,Ahmedabad,Store,Clothing,Jeans,1,1439.82,0.05,1367.83,968.16,399.67,UPI,4,Delivered
+ORD-100739,15-06-2024,CUST-1069,Corporate,North,Chandigarh,Online,Home & Kitchen,Storage Box,1,383.03,0,383.03,214,169.03,Debit Card,4,Delivered
+ORD-100635,17-06-2024,CUST-1296,Consumer,East,Patna,Online,Electronics,Smartphone,3,17176.89,0,51530.67,36416.83,15113.84,Credit Card,3,Delivered
+ORD-100874,20-06-2024,CUST-1275,Consumer,South,Bengaluru,Online,Home & Kitchen,Storage Box,1,368.82,0.1,331.94,232.11,99.83,UPI,1,Delivered
+ORD-100687,20-06-2024,CUST-1214,Small Business,North,Lucknow,Mobile App,Home & Kitchen,Cookware Set,2,2550.73,0.15,4336.24,3731.07,605.17,UPI,4,Delivered
+ORD-100274,21-06-2024,CUST-1007,Consumer,South,Hyderabad,Online,Clothing,Kurta,3,1024.19,0,3072.57,1769.34,1303.23,Credit Card,2,Processing
+ORD-100510,23-06-2024,CUST-1082,Consumer,South,Hyderabad,Mobile App,Electronics,Wireless Earbuds,1,1684.31,0.05,1600.09,1088.47,511.62,Net Banking,4,Processing
+ORD-100122,24-06-2024,CUST-1294,Corporate,East,Kolkata,Mobile App,Electronics,Smartphone,2,19307.29,0.15,32822.39,22777.54,10044.85,UPI,3,Delivered
+ORD-100602,25-06-2024,CUST-1213,Small Business,South,Chennai,Mobile App,Beauty,Perfume,2,1396.84,0.15,2374.63,1707.42,667.2,UPI,3,Delivered
+ORD-100715,26-06-2024,CUST-1162,Corporate,North,Delhi,Online,Electronics,Smartwatch,1,4199.17,0.2,3359.34,2402.5,956.84,Debit Card,5,Delivered
+ORD-101117,29-06-2024,CUST-1226,Consumer,East,Kolkata,Online,Clothing,Jeans,1,1445.67,0.1,1301.1,866.89,434.21,Debit Card,1,Processing
+ORD-100642,29-06-2024,CUST-1127,Consumer,Central,Bhopal,Online,Sports,Dumbbells,1,1622.65,0.15,1379.25,1072.11,307.14,Cash,3,Delivered
+ORD-100613,29-06-2024,CUST-1116,Consumer,West,Pune,Store,Sports,Running Shoes,1,3429.78,0.1,3086.8,2035.49,1051.32,Net Banking,4,Delivered
+ORD-100240,30-06-2024,CUST-1169,Consumer,South,Chennai,Online,Electronics,Smartphone,3,17663.1,0.15,45040.9,37049.96,7990.94,UPI,4,Processing
+ORD-100718,01-07-2024,CUST-1264,Consumer,South,Hyderabad,Store,Electronics,Smartwatch,3,4180.6,0.1,11287.62,8034.37,3253.25,UPI,5,Shipped
+ORD-100806,03-07-2024,CUST-1013,Consumer,North,Lucknow,Store,Electronics,Laptop,1,48125.18,0.1,43312.66,35965.4,7347.26,Debit Card,2,Delivered
+ORD-100832,03-07-2024,CUST-1161,Consumer,North,Chandigarh,Store,Beauty,Moisturizer,2,352.75,0.05,670.23,420.72,249.5,Credit Card,2,Delivered
+ORD-100356,04-07-2024,CUST-1080,Small Business,East,Kolkata,Online,Electronics,Laptop,1,52620.02,0.05,49989.02,33163.25,16825.77,UPI,1,Shipped
+ORD-100177,04-07-2024,CUST-1334,Consumer,West,Pune,Store,Clothing,T-Shirt,1,518.03,0.1,466.23,290.51,175.71,UPI,3,Delivered
+ORD-100987,05-07-2024,CUST-1221,Corporate,West,Pune,Store,Sports,Dumbbells,3,1454.53,0.05,4145.41,2673.99,1471.42,Cash,2,Delivered
+ORD-100800,07-07-2024,CUST-1227,Consumer,East,Kolkata,Store,Clothing,Kurta,1,975.45,0.1,877.9,552.15,325.75,Credit Card,4,Delivered
+ORD-100127,10-07-2024,CUST-1008,Consumer,East,Patna,Online,Clothing,Kurta,2,1078.47,0.1,1941.25,1224.24,717.01,Credit Card,3,Delivered
+ORD-100742,12-07-2024,CUST-1341,Consumer,West,Surat,Mobile App,Electronics,Smartwatch,1,4907.71,0.1,4416.94,2746.66,1670.28,Credit Card,1,Delivered
+ORD-100333,13-07-2024,CUST-1290,Consumer,Central,Nagpur,Store,Clothing,Jeans,3,1542.24,0.1,4164.05,3467.12,696.93,Debit Card,4,Delivered
+ORD-100903,14-07-2024,CUST-1134,Consumer,North,Chandigarh,Mobile App,Clothing,Sneakers,1,2673.7,0.1,2406.33,1708.87,697.46,UPI,3,Delivered
+ORD-100228,16-07-2024,CUST-1135,Corporate,South,Hyderabad,Online,Clothing,Sneakers,2,2676.2,0.05,5084.78,4014.4,1070.38,Credit Card,1,Delivered
+ORD-100030,16-07-2024,CUST-1280,Corporate,Central,Indore,Store,Electronics,Smartphone,3,18157.7,0,54473.1,38580.59,15892.51,Net Banking,3,Delivered
+ORD-101158,17-07-2024,CUST-1049,Consumer,East,Kolkata,Online,Electronics,Smartwatch,5,4382.78,0.1,19722.51,14522.99,5199.52,UPI,2,Processing
+ORD-100142,17-07-2024,CUST-1275,Consumer,North,Chandigarh,Online,Clothing,Jeans,3,1364.48,0.1,3684.1,2667.63,1016.46,UPI,3,Processing
+ORD-100116,17-07-2024,CUST-1227,Consumer,North,Jaipur,Online,Beauty,Hair Dryer,1,1734.23,0,1734.23,1283.64,450.59,UPI,1,Delivered
+ORD-100042,18-07-2024,CUST-1171,Consumer,West,Surat,Mobile App,Beauty,Moisturizer,2,372.41,0.15,633.1,474.23,158.87,UPI,2,Delivered
+ORD-100262,19-07-2024,CUST-1194,Consumer,North,Delhi,Store,Home & Kitchen,Cookware Set,1,2327.06,0.15,1978,1797.24,180.76,UPI,6,Delivered
+ORD-100052,19-07-2024,CUST-1010,Consumer,North,Delhi,Online,Electronics,Laptop,3,47014.98,0.05,133992.69,94365.72,39626.98,Net Banking,7,Delivered
+ORD-100863,20-07-2024,CUST-1178,Consumer,North,Lucknow,Mobile App,Home & Kitchen,Mixer Grinder,1,2957.53,0,2957.53,1972.11,985.42,Credit Card,1,Delivered
+ORD-100436,22-07-2024,CUST-1341,Corporate,South,Kochi,Online,Electronics,Smartphone,3,17822.54,0.15,45447.48,41159.22,4288.26,Cash,4,Delivered
+ORD-100263,23-07-2024,CUST-1178,Consumer,South,Chennai,Mobile App,Electronics,Smartwatch,3,4175.07,0.1,11272.69,7026.9,4245.79,Credit Card,3,Delivered
+ORD-100296,23-07-2024,CUST-1062,Consumer,East,Bhubaneswar,Store,Beauty,Perfume,1,1239.69,0.15,1053.74,789.7,264.04,Debit Card,1,Processing
+ORD-100729,27-07-2024,CUST-1058,Corporate,South,Kochi,Mobile App,Home & Kitchen,Storage Box,3,374.76,0,1124.28,785.34,338.94,Net Banking,3,Delivered
+ORD-100776,27-07-2024,CUST-1251,Consumer,West,Mumbai,Store,Beauty,Face Wash,4,200.2,0.15,680.68,507.68,173,UPI,4,Delivered
+ORD-100293,28-07-2024,CUST-1143,Consumer,North,Delhi,Mobile App,Electronics,Wireless Earbuds,1,1644.22,0.05,1562.01,1249.29,312.72,Debit Card,2,Delivered
+ORD-100872,28-07-2024,CUST-1026,Consumer,South,Bengaluru,Store,Clothing,Kurta,3,996.29,0,2988.87,1842.83,1146.04,Debit Card,7,Shipped
+ORD-100787,28-07-2024,CUST-1015,Consumer,North,Lucknow,Online,Home & Kitchen,Mixer Grinder,2,3335.71,0.15,5670.71,4381,1289.71,Credit Card,4,Delivered
+ORD-101137,30-07-2024,CUST-1349,Consumer,South,Hyderabad,Store,Electronics,Smartwatch,3,4229.31,0,12687.93,7101.03,5586.9,UPI,7,Delivered
+ORD-100125,31-07-2024,CUST-1090,Corporate,West,Surat,Store,Electronics,Laptop,2,54484.21,0,108968.42,76441.9,32526.52,Credit Card,2,Delivered
+ORD-100586,31-07-2024,CUST-1074,Small Business,North,Chandigarh,Online,Beauty,Face Wash,3,182.81,0.1,493.59,422.72,70.87,Credit Card,3,Delivered
+ORD-100941,01-08-2024,CUST-1028,Small Business,North,Lucknow,Online,Electronics,Laptop,2,47169.74,0.2,75471.58,70821.26,4650.33,Cash,2,Delivered
+ORD-100798,01-08-2024,CUST-1172,Corporate,West,Mumbai,Online,Clothing,T-Shirt,1,472.73,0.1,425.46,289.49,135.97,Debit Card,5,Delivered
+ORD-101183,02-08-2024,CUST-1322,Consumer,North,Delhi,Mobile App,Sports,Yoga Mat,2,728.08,0.1,1310.54,1056.98,253.56,Net Banking,6,Delivered
+ORD-100337,03-08-2024,CUST-1057,Consumer,South,Bengaluru,Online,Home & Kitchen,Bedsheet,1,878.13,0.05,834.22,511.57,322.65,Debit Card,3,Cancelled
+ORD-101146,07-08-2024,CUST-1304,Corporate,Central,Bhopal,Mobile App,Home & Kitchen,Storage Box,1,429.98,0.1,386.98,270.98,116.01,Credit Card,4,Delivered
+ORD-100202,09-08-2024,CUST-1089,Consumer,North,Jaipur,Online,Sports,Cricket Bat,1,2456.95,0,2456.95,1575.53,881.42,Credit Card,1,Delivered
+ORD-101005,10-08-2024,CUST-1182,Small Business,South,Bengaluru,Online,Home & Kitchen,Bedsheet,2,842.53,0.05,1600.81,1115.16,485.65,Debit Card,2,Delivered
+ORD-100447,10-08-2024,CUST-1348,Corporate,South,Chennai,Mobile App,Electronics,Smartwatch,2,4183.29,0.1,7529.92,4617.7,2912.23,Debit Card,2,Delivered
+ORD-100766,10-08-2024,CUST-1191,Consumer,East,Kolkata,Mobile App,Electronics,Smartphone,2,18522.49,0.05,35192.73,22893.35,12299.39,Debit Card,2,Delivered
+ORD-100918,12-08-2024,CUST-1312,Corporate,South,Hyderabad,Online,Beauty,Face Wash,1,189.17,0.2,151.34,141.57,9.77,Net Banking,6,Delivered
+ORD-100080,15-08-2024,CUST-1144,Consumer,West,Surat,Store,Home & Kitchen,Bedsheet,1,894.37,0.1,804.93,621.17,183.76,Credit Card,4,Shipped
+ORD-100978,15-08-2024,CUST-1112,Consumer,North,Delhi,Online,Electronics,Wireless Earbuds,3,1638.69,0.15,4178.66,3764.51,414.15,UPI,5,Delivered
+ORD-101090,16-08-2024,CUST-1139,Corporate,North,Chandigarh,Store,Electronics,Smartphone,3,17012.63,0.1,45934.1,29573.58,16360.52,Net Banking,4,Delivered
+ORD-100699,17-08-2024,CUST-1027,Small Business,Central,Raipur,Online,Clothing,T-Shirt,2,503.41,0.1,906.14,717.22,188.91,Credit Card,4,Delivered
+ORD-100415,18-08-2024,CUST-1056,Consumer,East,Bhubaneswar,Mobile App,Electronics,Laptop,4,49535.58,0,198142.32,130192.64,67949.68,UPI,6,Processing
+ORD-100812,20-08-2024,CUST-1128,Small Business,East,Patna,Mobile App,Home & Kitchen,Bedsheet,1,971.46,0.15,825.74,604.52,221.23,Debit Card,6,Delivered
+ORD-100037,23-08-2024,CUST-1161,Small Business,South,Hyderabad,Store,Electronics,Smartphone,1,16730.29,0,16730.29,11629.43,5100.86,UPI,1,Delivered
+ORD-100778,23-08-2024,CUST-1330,Consumer,East,Kolkata,Online,Home & Kitchen,Storage Box,3,430.6,0.05,1227.21,715.75,511.46,Credit Card,5,Cancelled
+ORD-100633,26-08-2024,CUST-1044,Consumer,West,Pune,Mobile App,Beauty,Perfume,2,1410.98,0.15,2398.67,1972.3,426.36,UPI,3,Delivered
+ORD-100853,26-08-2024,CUST-1175,Small Business,Central,Nagpur,Mobile App,Electronics,Smartwatch,3,4151.35,0.15,10585.94,7407.23,3178.71,UPI,2,Delivered
+ORD-100389,27-08-2024,CUST-1031,Corporate,North,Jaipur,Online,Clothing,Kurta,2,1079.07,0.2,1726.51,1377.37,349.14,UPI,3,Delivered
+ORD-100253,29-08-2024,CUST-1141,Corporate,East,Guwahati,Mobile App,Electronics,Smartphone,2,18381.23,0.05,34924.34,20448.55,14475.79,Credit Card,4,Delivered
+ORD-100166,31-08-2024,CUST-1188,Consumer,Central,Indore,Store,Electronics,Smartphone,1,18090.93,0,18090.93,13562.39,4528.54,UPI,2,Delivered
+ORD-101011,01-09-2024,CUST-1103,Consumer,Central,Bhopal,Store,Beauty,Perfume,1,1193.58,0.05,1133.9,896.73,237.17,Net Banking,3,Delivered
+ORD-100994,01-09-2024,CUST-1031,Small Business,Central,Indore,Online,Home & Kitchen,Mixer Grinder,1,3367.61,0,3367.61,2159.49,1208.12,UPI,2,Delivered
+ORD-100303,04-09-2024,CUST-1106,Corporate,North,Jaipur,Store,Beauty,Face Wash,2,198.44,0.1,357.19,301.97,55.22,Credit Card,6,Delivered
+ORD-100102,04-09-2024,CUST-1072,Consumer,East,Bhubaneswar,Online,Electronics,Smartwatch,1,4200.74,0,4200.74,3250.56,950.18,Cash,2,Delivered
+ORD-100701,04-09-2024,CUST-1314,Consumer,East,Guwahati,Mobile App,Sports,Cricket Bat,2,2301.36,0.1,4142.45,3312.71,829.74,Cash,3,Delivered
+ORD-101096,06-09-2024,CUST-1224,Consumer,West,Ahmedabad,Online,Beauty,Hair Dryer,4,1980.4,0.05,7525.52,4884.42,2641.1,Debit Card,4,Delivered
+ORD-100783,07-09-2024,CUST-1251,Consumer,North,Delhi,Online,Clothing,Kurta,1,1007.7,0.15,856.55,758.97,97.57,Credit Card,3,Shipped
+ORD-100394,08-09-2024,CUST-1084,Consumer,Central,Nagpur,Store,Beauty,Perfume,1,1364.66,0.1,1228.19,890.79,337.4,Debit Card,3,Delivered
+ORD-101098,11-09-2024,CUST-1159,Consumer,North,Jaipur,Online,Beauty,Hair Dryer,1,1939.28,0,1939.28,1070.88,868.4,Debit Card,3,Cancelled
+ORD-100697,14-09-2024,CUST-1279,Consumer,North,Delhi,Online,Beauty,Hair Dryer,1,1941.6,0,1941.6,1303.95,637.65,UPI,3,Delivered
+ORD-101034,14-09-2024,CUST-1085,Consumer,West,Ahmedabad,Store,Home & Kitchen,Cookware Set,1,2401.62,0.1,2161.46,1415.38,746.08,Debit Card,3,Delivered
+ORD-100582,15-09-2024,CUST-1276,Consumer,West,Surat,Online,Clothing,Jeans,1,1471.78,0.1,1324.6,993.45,331.15,UPI,4,Processing
+ORD-100186,15-09-2024,CUST-1241,Consumer,East,Guwahati,Online,Electronics,Laptop,2,56591.33,0,113182.66,74528.45,38654.21,UPI,1,Delivered
+ORD-100707,15-09-2024,CUST-1107,Corporate,South,Bengaluru,Online,Sports,Cricket Bat,1,2582.06,0.15,2194.75,1572.41,622.35,UPI,3,Processing
+ORD-100657,16-09-2024,CUST-1258,Small Business,North,Delhi,Store,Beauty,Face Wash,4,205.13,0.1,738.47,452.29,286.17,UPI,7,Processing
+ORD-100265,17-09-2024,CUST-1051,Consumer,Central,Bhopal,Online,Clothing,Kurta,1,1067.69,0.1,960.92,640.66,320.26,UPI,4,Delivered
+ORD-100826,18-09-2024,CUST-1235,Consumer,North,Lucknow,Online,Clothing,Kurta,1,1084.44,0.15,921.77,652.5,269.27,Net Banking,2,Processing
+ORD-100201,19-09-2024,CUST-1079,Consumer,East,Kolkata,Online,Electronics,Smartwatch,1,4175.33,0,4175.33,2819.1,1356.23,Credit Card,1,Delivered
+ORD-100134,19-09-2024,CUST-1271,Consumer,Central,Raipur,Store,Electronics,Smartwatch,3,4438.17,0.05,12648.78,10125.21,2523.58,UPI,3,Delivered
+ORD-101084,20-09-2024,CUST-1233,Consumer,West,Surat,Store,Home & Kitchen,Bedsheet,4,918.61,0.15,3123.27,2345.36,777.91,UPI,1,Delivered
+ORD-100980,23-09-2024,CUST-1138,Consumer,West,Pune,Mobile App,Beauty,Perfume,2,1279.3,0.15,2174.81,1590.82,583.99,Cash,2,Delivered
+ORD-100133,24-09-2024,CUST-1221,Consumer,South,Chennai,Online,Sports,Dumbbells,1,1530.47,0,1530.47,952.58,577.89,Cash,4,Delivered
+ORD-100442,25-09-2024,CUST-1321,Corporate,North,Lucknow,Online,Electronics,Wireless Earbuds,1,1660.63,0.1,1494.57,1226.76,267.81,UPI,3,Delivered
+ORD-100330,25-09-2024,CUST-1163,Corporate,North,Chandigarh,Mobile App,Beauty,Face Wash,4,203.41,0,813.64,614.8,198.84,Credit Card,4,Delivered
+ORD-100455,25-09-2024,CUST-1207,Corporate,South,Chennai,Online,Beauty,Face Wash,1,205.81,0,205.81,147.59,58.22,UPI,6,Cancelled
+ORD-100630,25-09-2024,CUST-1281,Corporate,North,Chandigarh,Mobile App,Sports,Dumbbells,1,1486.05,0.1,1337.44,823.29,514.16,Credit Card,2,Delivered
+ORD-101019,25-09-2024,CUST-1297,Consumer,North,Lucknow,Mobile App,Beauty,Hair Dryer,1,1782.38,0,1782.38,1056.99,725.39,UPI,4,Delivered
+ORD-101185,26-09-2024,CUST-1205,Small Business,West,Surat,Online,Home & Kitchen,Mixer Grinder,3,3430.41,0.05,9776.67,6429.18,3347.49,Net Banking,3,Delivered
+ORD-100320,27-09-2024,CUST-1066,Consumer,West,Ahmedabad,Store,Clothing,Jeans,1,1432.48,0,1432.48,951.78,480.7,UPI,5,Delivered
+ORD-100660,30-09-2024,CUST-1020,Consumer,North,Jaipur,Mobile App,Beauty,Perfume,2,1228.84,0,2457.68,1721.31,736.37,Net Banking,6,Shipped
+ORD-100218,01-10-2024,CUST-1203,Consumer,East,Patna,Store,Clothing,Jeans,1,1382.04,0.15,1174.73,869.13,305.61,UPI,3,Delivered
+ORD-100880,01-10-2024,CUST-1320,Small Business,South,Kochi,Online,Sports,Running Shoes,3,3623.57,0.05,10327.17,7006.6,3320.57,UPI,1,Delivered
+ORD-100180,02-10-2024,CUST-1051,Corporate,West,Surat,Store,Beauty,Perfume,1,1347.66,0.2,1078.13,967.56,110.57,UPI,3,Delivered
+ORD-100147,03-10-2024,CUST-1095,Consumer,North,Jaipur,Store,Electronics,Laptop,2,55362.04,0.1,99651.67,80749.84,18901.84,UPI,3,Delivered
+ORD-100103,04-10-2024,CUST-1101,Consumer,East,Kolkata,Mobile App,Clothing,Jeans,1,1596.92,0.05,1517.07,1008.22,508.86,Debit Card,1,Delivered
+ORD-100637,06-10-2024,CUST-1321,Corporate,South,Hyderabad,Online,Electronics,Wireless Earbuds,2,1826.33,0.15,3104.76,2551.13,553.64,UPI,2,Delivered
+ORD-100129,07-10-2024,CUST-1059,Consumer,Central,Raipur,Mobile App,Home & Kitchen,Cookware Set,2,2415.15,0,4830.3,3185.04,1645.26,Credit Card,2,Delivered
+ORD-100724,07-10-2024,CUST-1163,Corporate,Central,Bhopal,Store,Electronics,Laptop,1,54874.47,0.1,49387.02,38313.58,11073.44,Credit Card,3,Shipped
+ORD-101008,07-10-2024,CUST-1287,Consumer,North,Chandigarh,Online,Home & Kitchen,Bedsheet,2,902.75,0.1,1624.95,1017.98,606.97,UPI,2,Delivered
+ORD-100032,08-10-2024,CUST-1134,Consumer,East,Kolkata,Online,Home & Kitchen,Cookware Set,3,2436.17,0,7308.51,4662.78,2645.73,UPI,2,Delivered
+ORD-100078,09-10-2024,CUST-1141,Small Business,Central,Bhopal,Store,Home & Kitchen,Bedsheet,2,883.86,0.05,1679.33,1192.16,487.17,Credit Card,3,Delivered
+ORD-100137,10-10-2024,CUST-1025,Corporate,West,Pune,Store,Home & Kitchen,Bedsheet,1,898.44,0.15,763.67,654.56,109.12,Debit Card,2,Delivered
+ORD-100469,14-10-2024,CUST-1084,Consumer,South,Bengaluru,Online,Home & Kitchen,Bedsheet,3,978.85,0.05,2789.72,1993.8,795.92,Cash,3,Delivered
+ORD-100286,15-10-2024,CUST-1243,Consumer,North,Lucknow,Online,Clothing,Sneakers,1,2628.44,0.1,2365.6,1996.85,368.74,Debit Card,5,Delivered
+ORD-100745,15-10-2024,CUST-1145,Corporate,North,Delhi,Online,Sports,Running Shoes,5,3197.63,0.1,14389.34,12239.62,2149.71,Cash,3,Shipped
+ORD-100495,17-10-2024,CUST-1324,Consumer,South,Kochi,Store,Electronics,Smartphone,3,18390.86,0.2,44138.06,35085.86,9052.2,Credit Card,2,Shipped
+ORD-100317,17-10-2024,CUST-1093,Consumer,South,Bengaluru,Mobile App,Sports,Cricket Bat,2,2656.25,0.2,4250,3549.33,700.67,Credit Card,3,Delivered
+ORD-100321,18-10-2024,CUST-1182,Consumer,North,Jaipur,Mobile App,Clothing,Kurta,2,940.05,0.1,1692.09,1056.66,635.43,Credit Card,5,Delivered
+ORD-100445,19-10-2024,CUST-1264,Consumer,North,Jaipur,Online,Clothing,T-Shirt,1,531.9,0.1,478.71,408.24,70.47,Debit Card,3,Delivered
+ORD-100239,20-10-2024,CUST-1258,Consumer,North,Delhi,Online,Home & Kitchen,Cookware Set,2,2207.8,0,4415.6,3407.29,1008.31,Cash,5,Delivered
+ORD-100169,21-10-2024,CUST-1090,Consumer,East,Bhubaneswar,Store,Sports,Running Shoes,3,3151.91,0.2,7564.58,5471.08,2093.5,UPI,7,Delivered
+ORD-101069,22-10-2024,CUST-1349,Consumer,North,Delhi,Online,Home & Kitchen,Cookware Set,1,2573.96,0,2573.96,1646.9,927.06,Net Banking,2,Delivered
+ORD-100866,22-10-2024,CUST-1276,Corporate,North,Lucknow,Online,Clothing,Jeans,1,1375.58,0.15,1169.24,1026.48,142.76,Credit Card,1,Delivered
+ORD-100705,23-10-2024,CUST-1068,Consumer,East,Patna,Online,Home & Kitchen,Mixer Grinder,1,2928.01,0.15,2488.81,2150.96,337.85,UPI,3,Shipped
+ORD-100892,23-10-2024,CUST-1006,Corporate,West,Pune,Mobile App,Clothing,T-Shirt,1,547.31,0.1,492.58,346.24,146.34,Credit Card,7,Processing
+ORD-100408,24-10-2024,CUST-1231,Corporate,West,Surat,Store,Electronics,Laptop,1,48789.28,0.1,43910.35,37024.2,6886.16,Net Banking,3,Delivered
+ORD-100885,25-10-2024,CUST-1284,Consumer,West,Surat,Online,Beauty,Face Wash,2,184.71,0.15,314.01,218.56,95.45,UPI,1,Delivered
+ORD-101035,25-10-2024,CUST-1157,Small Business,North,Delhi,Store,Sports,Running Shoes,3,3129.66,0,9388.98,7291.96,2097.02,UPI,5,Shipped
+ORD-100140,25-10-2024,CUST-1072,Small Business,West,Ahmedabad,Online,Beauty,Hair Dryer,1,2078.95,0.1,1871.05,1275.03,596.02,Credit Card,4,Delivered
+ORD-100790,26-10-2024,CUST-1150,Consumer,North,Delhi,Online,Home & Kitchen,Bedsheet,1,817.11,0.15,694.54,576.96,117.58,Cash,7,Shipped
+ORD-100668,27-10-2024,CUST-1140,Consumer,South,Bengaluru,Store,Clothing,Sneakers,1,2363.61,0,2363.61,1790.01,573.6,UPI,3,Delivered
+ORD-100893,27-10-2024,CUST-1101,Corporate,East,Kolkata,Online,Beauty,Perfume,1,1266.48,0,1266.48,822.02,444.46,Credit Card,4,Processing
+ORD-100991,27-10-2024,CUST-1050,Consumer,North,Delhi,Mobile App,Electronics,Laptop,4,50514.44,0.1,181851.98,145654.6,36197.39,Net Banking,1,Delivered
+ORD-100626,28-10-2024,CUST-1083,Consumer,West,Ahmedabad,Online,Electronics,Smartphone,1,16989.46,0.1,15290.51,12402.47,2888.04,Credit Card,3,Delivered
+ORD-100504,29-10-2024,CUST-1114,Consumer,North,Chandigarh,Store,Electronics,Smartwatch,1,4868.31,0,4868.31,2732.61,2135.7,Credit Card,4,Delivered
+ORD-100911,31-10-2024,CUST-1286,Consumer,South,Bengaluru,Mobile App,Sports,Cricket Bat,5,2329.54,0,11647.7,7921.3,3726.4,Debit Card,5,Shipped
+ORD-100628,02-11-2024,CUST-1003,Small Business,South,Chennai,Store,Clothing,T-Shirt,3,545.63,0.05,1555.05,1048.38,506.66,UPI,5,Delivered
+ORD-100487,02-11-2024,CUST-1271,Consumer,South,Chennai,Store,Clothing,Kurta,3,1005.69,0,3017.07,1976.47,1040.6,Cash,1,Delivered
+ORD-100571,04-11-2024,CUST-1068,Consumer,South,Hyderabad,Store,Beauty,Moisturizer,3,316.81,0.1,855.39,582.32,273.07,Credit Card,2,Delivered
+ORD-101028,06-11-2024,CUST-1011,Small Business,East,Bhubaneswar,Online,Clothing,T-Shirt,1,515.06,0.1,463.55,307.77,155.79,Debit Card,5,Delivered
+ORD-100507,06-11-2024,CUST-1211,Consumer,South,Kochi,Online,Beauty,Moisturizer,3,348.63,0,1045.89,788.3,257.59,Debit Card,4,Delivered
+ORD-100400,06-11-2024,CUST-1141,Consumer,Central,Nagpur,Store,Sports,Cricket Bat,1,2622.78,0.1,2360.5,1935.25,425.25,UPI,5,Cancelled
+ORD-100555,07-11-2024,CUST-1103,Consumer,Central,Bhopal,Online,Clothing,Jeans,3,1524.01,0,4572.03,3203.83,1368.2,Cash,3,Delivered
+ORD-100298,12-11-2024,CUST-1026,Consumer,East,Patna,Mobile App,Electronics,Wireless Earbuds,3,1800.01,0,5400.03,3693.16,1706.87,UPI,7,Delivered
+ORD-100126,12-11-2024,CUST-1345,Corporate,South,Hyderabad,Store,Clothing,Jeans,1,1639.82,0.05,1557.83,1032.97,524.86,UPI,2,Delivered
+ORD-100634,12-11-2024,CUST-1331,Consumer,West,Mumbai,Store,Electronics,Wireless Earbuds,2,1953.1,0,3906.2,3020.65,885.55,Debit Card,4,Cancelled
+ORD-100846,13-11-2024,CUST-1313,Consumer,East,Kolkata,Online,Home & Kitchen,Mixer Grinder,1,2952.59,0,2952.59,1694.9,1257.69,UPI,1,Delivered
+ORD-100099,14-11-2024,CUST-1318,Consumer,North,Chandigarh,Store,Electronics,Smartwatch,1,4257.72,0.15,3619.06,2945.29,673.77,Net Banking,6,Delivered
+ORD-100139,14-11-2024,CUST-1346,Small Business,Central,Nagpur,Mobile App,Sports,Dumbbells,4,1507.44,0.05,5728.27,3329.8,2398.47,UPI,1,Delivered
+ORD-100561,15-11-2024,CUST-1078,Consumer,North,Chandigarh,Store,Home & Kitchen,Storage Box,1,431.92,0.15,367.13,312.6,54.53,Credit Card,3,Cancelled
+ORD-100486,15-11-2024,CUST-1243,Consumer,South,Kochi,Online,Home & Kitchen,Mixer Grinder,1,3139.89,0.15,2668.91,1891.33,777.58,Cash,5,Delivered
+ORD-100281,15-11-2024,CUST-1080,Small Business,South,Chennai,Online,Home & Kitchen,Cookware Set,1,2324.35,0.1,2091.91,1327.23,764.69,Credit Card,5,Processing
+ORD-100264,16-11-2024,CUST-1119,Consumer,East,Guwahati,Store,Home & Kitchen,Storage Box,5,378.38,0.1,1702.71,1352.1,350.61,Net Banking,3,Delivered
+ORD-100028,17-11-2024,CUST-1310,Small Business,West,Mumbai,Online,Sports,Yoga Mat,1,850.48,0.15,722.91,509.23,213.68,Debit Card,5,Delivered
+ORD-101087,18-11-2024,CUST-1138,Consumer,North,Lucknow,Online,Beauty,Face Wash,1,216.72,0.2,173.38,130.44,42.94,UPI,4,Delivered
+ORD-100220,18-11-2024,CUST-1042,Consumer,South,Bengaluru,Mobile App,Home & Kitchen,Cookware Set,3,2422.41,0.15,6177.15,4922.96,1254.19,UPI,6,Delivered
+ORD-101171,19-11-2024,CUST-1032,Consumer,South,Kochi,Online,Electronics,Wireless Earbuds,3,1747.44,0.2,4193.86,3407.17,786.69,UPI,5,Delivered
+ORD-100543,19-11-2024,CUST-1156,Consumer,South,Bengaluru,Store,Clothing,Jeans,1,1530.84,0.1,1377.76,850.58,527.17,Net Banking,2,Delivered
+ORD-100898,19-11-2024,CUST-1061,Small Business,South,Hyderabad,Store,Clothing,Jeans,1,1589.04,0.1,1430.14,1045.04,385.1,Credit Card,5,Delivered
+ORD-100374,20-11-2024,CUST-1037,Small Business,East,Kolkata,Store,Electronics,Laptop,1,47729.13,0.05,45342.67,28783.96,16558.72,UPI,4,Delivered
+ORD-100751,20-11-2024,CUST-1259,Small Business,North,Jaipur,Mobile App,Beauty,Moisturizer,2,377.07,0.1,678.73,485.98,192.74,Credit Card,2,Delivered
+ORD-101174,20-11-2024,CUST-1283,Consumer,West,Surat,Store,Home & Kitchen,Storage Box,1,406.61,0.1,365.95,260.38,105.57,Cash,4,Delivered
+ORD-100377,21-11-2024,CUST-1105,Consumer,West,Ahmedabad,Mobile App,Sports,Yoga Mat,1,808.25,0.05,767.84,460.61,307.23,Credit Card,7,Delivered
+ORD-100702,22-11-2024,CUST-1027,Corporate,North,Lucknow,Online,Electronics,Laptop,2,51667.05,0,103334.1,72270.57,31063.53,Credit Card,3,Delivered
+ORD-101023,23-11-2024,CUST-1152,Consumer,Central,Bhopal,Online,Clothing,Sneakers,1,2563.14,0.1,2306.83,1991.53,315.3,UPI,2,Delivered
+ORD-101129,27-11-2024,CUST-1046,Consumer,North,Delhi,Online,Sports,Running Shoes,1,3170.45,0.1,2853.4,1879.76,973.65,Net Banking,2,Delivered
+ORD-100343,27-11-2024,CUST-1233,Small Business,Central,Bhopal,Online,Electronics,Smartwatch,1,4183.93,0.15,3556.34,2731.1,825.24,UPI,3,Shipped
+ORD-100509,28-11-2024,CUST-1297,Consumer,North,Jaipur,Store,Electronics,Wireless Earbuds,2,1921.1,0.15,3265.87,2958.15,307.72,Credit Card,1,Delivered
+ORD-100144,29-11-2024,CUST-1239,Corporate,East,Bhubaneswar,Online,Clothing,Jeans,1,1442.61,0,1442.61,830.31,612.3,Credit Card,2,Delivered
+ORD-100670,29-11-2024,CUST-1291,Corporate,Central,Bhopal,Mobile App,Home & Kitchen,Storage Box,1,391.89,0.1,352.7,238.11,114.59,UPI,4,Delivered
+ORD-100418,29-11-2024,CUST-1060,Consumer,West,Ahmedabad,Store,Sports,Dumbbells,2,1462.49,0.15,2486.23,1800.26,685.97,UPI,3,Delivered
+ORD-100961,30-11-2024,CUST-1132,Consumer,South,Chennai,Online,Sports,Cricket Bat,1,2709.11,0.15,2302.74,1774.7,528.04,Debit Card,4,Delivered
+ORD-100024,30-11-2024,CUST-1320,Consumer,Central,Indore,Online,Beauty,Moisturizer,2,318.48,0.15,541.42,350.89,190.53,UPI,6,Delivered
+ORD-100254,30-11-2024,CUST-1312,Small Business,South,Kochi,Online,Clothing,Jeans,2,1621.58,0.15,2756.69,2147.31,609.38,Credit Card,6,Processing
+ORD-101018,02-12-2024,CUST-1219,Consumer,South,Hyderabad,Store,Clothing,Kurta,4,1007.15,0.1,3625.74,2424.48,1201.26,UPI,6,Delivered
+ORD-100053,03-12-2024,CUST-1194,Corporate,West,Mumbai,Store,Electronics,Wireless Earbuds,1,1804.99,0.1,1624.49,1146.05,478.44,Credit Card,3,Processing
+ORD-100336,04-12-2024,CUST-1246,Consumer,North,Chandigarh,Mobile App,Sports,Dumbbells,4,1460.09,0.1,5256.32,4005.9,1250.43,UPI,5,Shipped
+ORD-101144,05-12-2024,CUST-1062,Consumer,South,Kochi,Store,Sports,Cricket Bat,2,2549.13,0.1,4588.43,2849.76,1738.67,Debit Card,3,Delivered
+ORD-100968,07-12-2024,CUST-1154,Consumer,East,Bhubaneswar,Store,Electronics,Wireless Earbuds,3,1841.58,0,5524.74,3829.37,1695.37,UPI,3,Delivered
+ORD-100965,09-12-2024,CUST-1235,Consumer,West,Pune,Online,Beauty,Moisturizer,1,329.59,0.1,296.63,189.19,107.44,UPI,4,Delivered
+ORD-100526,09-12-2024,CUST-1068,Consumer,Central,Indore,Online,Electronics,Smartwatch,3,4858.75,0.2,11661,10925.19,735.81,UPI,7,Shipped
+ORD-100551,09-12-2024,CUST-1309,Consumer,East,Kolkata,Online,Beauty,Hair Dryer,1,1959.33,0.1,1763.4,1290.23,473.17,Net Banking,2,Delivered
+ORD-101153,10-12-2024,CUST-1126,Consumer,South,Bengaluru,Online,Sports,Running Shoes,1,3274.31,0.1,2946.88,2056.29,890.59,Credit Card,4,Delivered
+ORD-100887,10-12-2024,CUST-1105,Consumer,North,Chandigarh,Store,Home & Kitchen,Mixer Grinder,3,3410.26,0.1,9207.7,6347.11,2860.59,UPI,3,Delivered
+ORD-101072,10-12-2024,CUST-1093,Small Business,Central,Bhopal,Online,Home & Kitchen,Storage Box,1,422.2,0,422.2,238.87,183.33,UPI,3,Delivered
+ORD-100136,10-12-2024,CUST-1270,Corporate,West,Surat,Online,Electronics,Smartphone,3,17157.34,0.2,41177.62,28614.69,12562.93,Net Banking,2,Delivered
+ORD-101078,11-12-2024,CUST-1122,Consumer,West,Mumbai,Mobile App,Clothing,Kurta,1,975.99,0.15,829.59,633.69,195.9,Credit Card,4,Delivered
+ORD-100833,12-12-2024,CUST-1036,Consumer,East,Patna,Online,Clothing,T-Shirt,1,523,0.15,444.55,329.18,115.37,UPI,6,Delivered
+ORD-101046,13-12-2024,CUST-1099,Consumer,North,Chandigarh,Online,Electronics,Wireless Earbuds,1,1925.15,0.1,1732.63,1471.2,261.44,UPI,4,Delivered
+ORD-100556,14-12-2024,CUST-1170,Consumer,West,Pune,Online,Clothing,T-Shirt,3,473.24,0.15,1206.76,787.06,419.7,UPI,2,Processing
+ORD-100466,14-12-2024,CUST-1070,Corporate,East,Kolkata,Store,Home & Kitchen,Bedsheet,1,980.74,0.1,882.67,750.08,132.59,UPI,1,Delivered
+ORD-100682,14-12-2024,CUST-1122,Small Business,Central,Raipur,Online,Electronics,Laptop,3,51196.69,0.15,130551.56,93440.12,37111.44,Cash,1,Delivered
+ORD-100979,14-12-2024,CUST-1287,Consumer,South,Chennai,Online,Sports,Dumbbells,4,1442.82,0.2,4617.02,3802.77,814.26,UPI,3,Delivered
+ORD-100732,15-12-2024,CUST-1108,Consumer,East,Guwahati,Mobile App,Clothing,Sneakers,2,2518.09,0.15,4280.75,3342.99,937.77,UPI,3,Delivered
+ORD-100562,17-12-2024,CUST-1268,Consumer,East,Kolkata,Store,Beauty,Hair Dryer,1,2014.84,0,2014.84,1493.11,521.73,Credit Card,3,Delivered
+ORD-100426,18-12-2024,CUST-1302,Consumer,West,Ahmedabad,Store,Clothing,T-Shirt,1,530.28,0.1,477.25,372.34,104.91,UPI,2,Delivered
+ORD-100658,19-12-2024,CUST-1328,Consumer,Central,Bhopal,Online,Clothing,Jeans,3,1504.76,0.2,3611.42,2494.87,1116.55,UPI,4,Delivered
+ORD-100064,20-12-2024,CUST-1248,Consumer,South,Kochi,Store,Electronics,Laptop,1,48410.22,0.2,38728.18,34826.46,3901.71,Debit Card,1,Delivered
+ORD-100984,21-12-2024,CUST-1221,Corporate,Central,Raipur,Online,Home & Kitchen,Storage Box,1,383.81,0.05,364.62,238.09,126.53,Debit Card,2,Delivered
+ORD-101111,22-12-2024,CUST-1038,Consumer,East,Guwahati,Mobile App,Home & Kitchen,Bedsheet,1,896.96,0.1,807.26,682.75,124.51,Credit Card,7,Delivered
+ORD-100909,23-12-2024,CUST-1163,Small Business,Central,Indore,Store,Electronics,Smartwatch,3,4119.01,0.05,11739.18,9353.63,2385.55,UPI,3,Delivered
+ORD-100737,24-12-2024,CUST-1288,Consumer,Central,Nagpur,Store,Clothing,Jeans,3,1443.55,0.1,3897.58,2865.31,1032.27,Debit Card,6,Delivered
+ORD-100772,25-12-2024,CUST-1194,Consumer,West,Surat,Mobile App,Clothing,Sneakers,4,2474.07,0.1,8906.65,6505.84,2400.81,Debit Card,5,Delivered
+ORD-100100,26-12-2024,CUST-1223,Small Business,Central,Bhopal,Store,Clothing,Kurta,1,1059.47,0.2,847.58,590.03,257.55,Cash,4,Delivered
+ORD-100662,26-12-2024,CUST-1039,Consumer,West,Mumbai,Online,Beauty,Moisturizer,2,364.09,0.05,691.77,527.33,164.44,Cash,4,Shipped
+ORD-100290,27-12-2024,CUST-1103,Consumer,South,Kochi,Online,Sports,Yoga Mat,1,739.01,0.05,702.06,445.45,256.61,UPI,4,Delivered
+ORD-101089,27-12-2024,CUST-1133,Consumer,South,Kochi,Online,Clothing,Jeans,1,1469.06,0.1,1322.15,973.97,348.18,Credit Card,7,Delivered
+ORD-101170,27-12-2024,CUST-1292,Small Business,North,Chandigarh,Mobile App,Electronics,Smartphone,2,16334.04,0.05,31034.68,23192.84,7841.83,UPI,4,Processing
+ORD-100385,27-12-2024,CUST-1326,Consumer,West,Ahmedabad,Online,Electronics,Smartphone,3,18052.03,0.05,51448.29,40217.05,11231.23,Net Banking,3,Processing
+ORD-100397,29-12-2024,CUST-1176,Corporate,North,Lucknow,Mobile App,Sports,Dumbbells,1,1590.23,0.15,1351.7,889.36,462.34,UPI,2,Delivered
+ORD-100416,29-12-2024,CUST-1023,Consumer,North,Lucknow,Store,Clothing,T-Shirt,1,489.68,0.05,465.2,358.82,106.37,UPI,6,Delivered
+ORD-100055,30-12-2024,CUST-1339,Corporate,North,Lucknow,Online,Home & Kitchen,Mixer Grinder,4,3197.61,0.05,12150.92,7514.36,4636.56,Cash,3,Delivered
+ORD-100152,30-12-2024,CUST-1314,Consumer,East,Bhubaneswar,Online,Electronics,Laptop,2,47521.7,0,95043.4,65409.8,29633.6,Debit Card,5,Delivered
+ORD-101009,31-12-2024,CUST-1277,Corporate,West,Ahmedabad,Online,Clothing,T-Shirt,4,509.66,0.15,1732.84,1128.48,604.36,Credit Card,4,Delivered
+ORD-100511,01-01-2025,CUST-1009,Consumer,West,Pune,Online,Clothing,T-Shirt,3,534.71,0.1,1443.72,930.58,513.14,Cash,3,Delivered
+ORD-100519,01-01-2025,CUST-1308,Small Business,South,Hyderabad,Online,Home & Kitchen,Cookware Set,2,2325.16,0.2,3720.26,3383.83,336.43,UPI,2,Delivered
+ORD-100443,02-01-2025,CUST-1199,Consumer,South,Bengaluru,Online,Home & Kitchen,Storage Box,4,422.09,0.1,1519.52,1035.01,484.51,Cash,4,Delivered
+ORD-100427,04-01-2025,CUST-1292,Corporate,East,Patna,Online,Electronics,Wireless Earbuds,1,1637.92,0.05,1556.02,1147.32,408.7,Credit Card,2,Delivered
+ORD-100952,04-01-2025,CUST-1071,Consumer,West,Surat,Store,Electronics,Smartwatch,1,4243.75,0.05,4031.56,2569.32,1462.24,Debit Card,3,Shipped
+ORD-100499,05-01-2025,CUST-1083,Consumer,Central,Raipur,Online,Clothing,Sneakers,1,2316.13,0,2316.13,1736.42,579.71,Net Banking,2,Delivered
+ORD-100983,05-01-2025,CUST-1213,Consumer,West,Ahmedabad,Online,Beauty,Face Wash,1,211.82,0.15,180.05,155.03,25.02,UPI,7,Delivered
+ORD-101188,07-01-2025,CUST-1211,Consumer,South,Kochi,Store,Electronics,Wireless Earbuds,1,1869.51,0,1869.51,1167.82,701.69,Debit Card,1,Delivered
+ORD-100591,07-01-2025,CUST-1259,Consumer,West,Ahmedabad,Online,Beauty,Moisturizer,1,325.9,0.15,277.01,188.97,88.05,Debit Card,5,Delivered
+ORD-100678,08-01-2025,CUST-1001,Corporate,North,Lucknow,Store,Home & Kitchen,Bedsheet,5,825.04,0.15,3506.42,2724.51,781.91,Net Banking,1,Delivered
+ORD-100404,08-01-2025,CUST-1328,Consumer,Central,Bhopal,Store,Beauty,Hair Dryer,1,1837.4,0.05,1745.53,1112.96,632.57,UPI,2,Delivered
+ORD-101116,08-01-2025,CUST-1158,Consumer,West,Pune,Online,Beauty,Moisturizer,1,351.24,0.05,333.68,203.21,130.46,UPI,6,Delivered
+ORD-100514,09-01-2025,CUST-1157,Consumer,East,Patna,Online,Sports,Running Shoes,3,3330.93,0,9992.79,6225.2,3767.59,Cash,6,Delivered
+ORD-100325,10-01-2025,CUST-1050,Consumer,Central,Indore,Online,Beauty,Perfume,2,1263.06,0,2526.12,1898.29,627.83,Net Banking,5,Delivered
+ORD-100115,12-01-2025,CUST-1171,Consumer,Central,Nagpur,Online,Home & Kitchen,Storage Box,4,414.61,0.1,1492.6,988.37,504.23,Credit Card,5,Shipped
+ORD-101031,13-01-2025,CUST-1089,Consumer,West,Pune,Store,Clothing,T-Shirt,2,522.36,0.1,940.25,807.49,132.76,UPI,4,Delivered
+ORD-100966,15-01-2025,CUST-1029,Corporate,North,Delhi,Online,Home & Kitchen,Mixer Grinder,2,3167.67,0,6335.34,3486.5,2848.84,UPI,4,Shipped
+ORD-100698,17-01-2025,CUST-1311,Corporate,East,Patna,Online,Clothing,Sneakers,3,2608.56,0.15,6651.83,5455.28,1196.55,Debit Card,2,Delivered
+ORD-100019,17-01-2025,CUST-1061,Consumer,Central,Raipur,Mobile App,Clothing,Jeans,1,1513.73,0.1,1362.36,1033.45,328.9,Debit Card,1,Delivered
+ORD-101128,17-01-2025,CUST-1202,Consumer,South,Chennai,Mobile App,Clothing,T-Shirt,2,473.42,0,946.84,696.88,249.96,Net Banking,3,Processing
+ORD-100121,18-01-2025,CUST-1132,Consumer,South,Kochi,Store,Clothing,T-Shirt,2,490.14,0.05,931.27,738.6,192.67,UPI,5,Delivered
+ORD-100225,19-01-2025,CUST-1044,Consumer,Central,Indore,Store,Electronics,Smartwatch,2,4406.2,0.1,7931.16,6479.66,1451.5,Debit Card,6,Delivered
+ORD-100675,19-01-2025,CUST-1036,Corporate,South,Hyderabad,Store,Beauty,Moisturizer,1,315.28,0.05,299.52,193.25,106.26,UPI,3,Delivered
+ORD-101039,20-01-2025,CUST-1114,Consumer,North,Chandigarh,Mobile App,Sports,Cricket Bat,1,2715.14,0.1,2443.63,2076.69,366.94,UPI,2,Delivered
+ORD-100446,20-01-2025,CUST-1268,Consumer,West,Mumbai,Mobile App,Electronics,Smartwatch,3,4711.97,0.1,12722.32,8143.4,4578.92,UPI,2,Delivered
+ORD-100164,21-01-2025,CUST-1273,Consumer,Central,Nagpur,Online,Sports,Dumbbells,3,1588.36,0,4765.08,2802.78,1962.3,Net Banking,4,Shipped
+ORD-100520,21-01-2025,CUST-1005,Consumer,South,Kochi,Mobile App,Clothing,Sneakers,1,2363.09,0,2363.09,1370.54,992.55,UPI,2,Delivered
+ORD-101165,22-01-2025,CUST-1259,Consumer,South,Bengaluru,Store,Sports,Yoga Mat,3,809.73,0.05,2307.73,1459.42,848.31,Cash,4,Processing
+ORD-100470,23-01-2025,CUST-1163,Consumer,East,Patna,Store,Clothing,T-Shirt,4,532.79,0.1,1918.04,1373.67,544.37,Cash,3,Delivered
+ORD-100383,23-01-2025,CUST-1130,Consumer,North,Jaipur,Store,Sports,Yoga Mat,3,846.96,0.2,2032.7,1847.61,185.1,UPI,2,Cancelled
+ORD-100827,24-01-2025,CUST-1066,Consumer,West,Ahmedabad,Online,Clothing,Kurta,2,1069.91,0.2,1711.86,1393.2,318.65,UPI,4,Delivered
+ORD-101036,27-01-2025,CUST-1143,Consumer,South,Chennai,Mobile App,Sports,Dumbbells,2,1603.82,0.1,2886.88,1821.4,1065.47,Credit Card,7,Delivered
+ORD-101120,28-01-2025,CUST-1276,Consumer,North,Jaipur,Mobile App,Home & Kitchen,Mixer Grinder,1,3185.32,0.15,2707.52,1767.9,939.62,UPI,6,Delivered
+ORD-100936,28-01-2025,CUST-1086,Small Business,West,Mumbai,Online,Electronics,Wireless Earbuds,1,1921.73,0.05,1825.64,1308.94,516.71,UPI,2,Delivered
+ORD-100603,28-01-2025,CUST-1091,Corporate,West,Ahmedabad,Online,Clothing,T-Shirt,3,502.95,0,1508.85,1012.59,496.26,UPI,4,Delivered
+ORD-100712,28-01-2025,CUST-1349,Consumer,Central,Raipur,Online,Clothing,Kurta,1,948.11,0.1,853.3,543.09,310.21,Debit Card,2,Delivered
+ORD-100273,28-01-2025,CUST-1156,Consumer,West,Pune,Store,Home & Kitchen,Cookware Set,1,2639.54,0,2639.54,1514.41,1125.13,UPI,2,Processing
+ORD-100399,30-01-2025,CUST-1167,Consumer,South,Bengaluru,Store,Clothing,Kurta,3,919.33,0.1,2482.19,1674.67,807.52,UPI,5,Delivered
+ORD-100619,30-01-2025,CUST-1040,Consumer,West,Surat,Online,Electronics,Wireless Earbuds,1,1771.61,0,1771.61,1182.5,589.11,UPI,3,Delivered
+ORD-100940,30-01-2025,CUST-1338,Consumer,West,Pune,Online,Electronics,Wireless Earbuds,3,1974.3,0.15,5034.47,4013.62,1020.85,Net Banking,2,Shipped
+ORD-100361,31-01-2025,CUST-1154,Consumer,North,Delhi,Online,Clothing,Jeans,1,1455.89,0.1,1310.3,988.3,322,UPI,3,Shipped
+ORD-100884,01-02-2025,CUST-1212,Consumer,South,Hyderabad,Online,Home & Kitchen,Storage Box,5,403.78,0.1,1817.01,1165.37,651.64,Debit Card,2,Delivered
+ORD-100580,01-02-2025,CUST-1209,Consumer,North,Lucknow,Store,Sports,Running Shoes,1,3603.67,0.05,3423.49,2480.22,943.26,Credit Card,6,Delivered
+ORD-100070,02-02-2025,CUST-1230,Consumer,South,Hyderabad,Online,Sports,Yoga Mat,2,844.92,0.1,1520.86,1174.37,346.49,Debit Card,4,Processing
+ORD-100590,02-02-2025,CUST-1232,Consumer,North,Jaipur,Store,Beauty,Face Wash,1,196.93,0,196.93,120.48,76.45,Cash,3,Delivered
+ORD-100493,02-02-2025,CUST-1042,Consumer,North,Lucknow,Online,Sports,Yoga Mat,2,837.72,0.15,1424.12,1114.02,310.1,UPI,5,Delivered
+ORD-100170,02-02-2025,CUST-1155,Consumer,South,Kochi,Mobile App,Home & Kitchen,Bedsheet,5,810.99,0.15,3446.71,2369.32,1077.39,UPI,7,Delivered
+ORD-100158,05-02-2025,CUST-1163,Consumer,Central,Indore,Online,Clothing,T-Shirt,2,534.88,0.1,962.78,759.28,203.5,Credit Card,4,Delivered
+ORD-100583,05-02-2025,CUST-1188,Consumer,East,Bhubaneswar,Online,Home & Kitchen,Mixer Grinder,1,3236.43,0,3236.43,2474.77,761.66,Credit Card,3,Delivered
+ORD-100106,05-02-2025,CUST-1040,Consumer,North,Delhi,Online,Sports,Yoga Mat,3,769.26,0.1,2077,1715.2,361.8,Credit Card,5,Delivered
+ORD-100363,07-02-2025,CUST-1319,Consumer,West,Ahmedabad,Online,Clothing,T-Shirt,1,474.04,0.05,450.34,280.04,170.29,Net Banking,3,Delivered
+ORD-100917,07-02-2025,CUST-1334,Consumer,West,Pune,Online,Beauty,Moisturizer,2,331.79,0.05,630.4,394.16,236.24,UPI,3,Cancelled
+ORD-100010,08-02-2025,CUST-1021,Small Business,Central,Bhopal,Store,Beauty,Perfume,3,1261.64,0.15,3217.18,2698.92,518.26,UPI,1,Delivered
+ORD-100574,09-02-2025,CUST-1062,Consumer,North,Delhi,Store,Beauty,Perfume,1,1387.27,0.2,1109.82,856.36,253.45,Net Banking,5,Shipped
+ORD-100552,09-02-2025,CUST-1221,Corporate,South,Bengaluru,Online,Home & Kitchen,Storage Box,1,391.3,0,391.3,260.82,130.48,Credit Card,2,Cancelled
+ORD-101159,10-02-2025,CUST-1061,Consumer,East,Kolkata,Store,Clothing,T-Shirt,3,459.55,0.15,1171.85,887.69,284.16,UPI,3,Delivered
+ORD-100309,12-02-2025,CUST-1149,Corporate,North,Delhi,Online,Home & Kitchen,Storage Box,2,362.68,0.1,652.82,450.49,202.34,Net Banking,4,Delivered
+ORD-100957,13-02-2025,CUST-1056,Consumer,South,Hyderabad,Store,Sports,Yoga Mat,1,827.53,0.1,744.78,560.38,184.39,Debit Card,6,Processing
+ORD-100047,14-02-2025,CUST-1147,Consumer,West,Surat,Online,Clothing,Sneakers,3,2693.37,0.1,7272.1,4824.04,2448.06,Debit Card,2,Delivered
+ORD-100388,14-02-2025,CUST-1138,Consumer,East,Bhubaneswar,Mobile App,Electronics,Smartwatch,2,4683.76,0,9367.52,5173.21,4194.31,UPI,3,Shipped
+ORD-100041,15-02-2025,CUST-1094,Consumer,North,Lucknow,Store,Clothing,Sneakers,5,2627.6,0,13138,8666.97,4471.03,UPI,3,Delivered
+ORD-100760,15-02-2025,CUST-1214,Consumer,South,Hyderabad,Online,Clothing,T-Shirt,1,511.75,0,511.75,341.52,170.23,UPI,3,Shipped
+ORD-101076,16-02-2025,CUST-1064,Small Business,West,Surat,Store,Clothing,Sneakers,1,2360.25,0.2,1888.2,1818.51,69.69,Debit Card,2,Delivered
+ORD-100929,16-02-2025,CUST-1010,Corporate,South,Kochi,Mobile App,Clothing,Kurta,1,1031.98,0.15,877.18,653.13,224.06,Credit Card,2,Delivered
+ORD-100857,17-02-2025,CUST-1277,Small Business,North,Chandigarh,Online,Sports,Running Shoes,1,3570.68,0.15,3035.08,2016.37,1018.71,Credit Card,4,Delivered
+ORD-100091,18-02-2025,CUST-1256,Small Business,Central,Indore,Mobile App,Clothing,T-Shirt,1,515.64,0,515.64,372.31,143.33,Net Banking,4,Processing
+ORD-101180,19-02-2025,CUST-1155,Consumer,North,Delhi,Mobile App,Home & Kitchen,Storage Box,2,407.66,0.05,774.55,527.42,247.14,Credit Card,4,Delivered
+ORD-100500,22-02-2025,CUST-1218,Consumer,East,Kolkata,Online,Electronics,Wireless Earbuds,2,1751.33,0.15,2977.26,2244.67,732.59,Debit Card,2,Delivered
+ORD-100610,23-02-2025,CUST-1329,Corporate,South,Kochi,Mobile App,Home & Kitchen,Bedsheet,4,859.43,0,3437.72,1979.49,1458.23,Debit Card,2,Delivered
+ORD-100759,23-02-2025,CUST-1173,Corporate,West,Surat,Online,Sports,Cricket Bat,1,2449.74,0.15,2082.28,1863,219.27,Debit Card,2,Delivered
+ORD-100270,23-02-2025,CUST-1075,Consumer,South,Hyderabad,Online,Clothing,Kurta,2,933.9,0.1,1681.02,1334.22,346.8,Net Banking,1,Delivered
+ORD-100338,28-02-2025,CUST-1278,Corporate,North,Lucknow,Online,Beauty,Moisturizer,3,375.61,0.05,1070.49,641.33,429.15,Credit Card,3,Delivered
+ORD-100327,01-03-2025,CUST-1146,Consumer,West,Ahmedabad,Store,Clothing,T-Shirt,4,455.26,0.1,1638.94,1087.32,551.62,UPI,1,Shipped
+ORD-100068,02-03-2025,CUST-1338,Corporate,North,Lucknow,Mobile App,Clothing,Jeans,2,1531,0.1,2755.8,1741.25,1014.55,Net Banking,3,Delivered
+ORD-100367,02-03-2025,CUST-1188,Consumer,West,Mumbai,Online,Home & Kitchen,Cookware Set,4,2193.27,0.1,7895.77,6055.43,1840.34,Debit Card,1,Delivered
+ORD-100828,04-03-2025,CUST-1096,Consumer,Central,Raipur,Online,Clothing,T-Shirt,4,470.73,0,1882.92,1162.27,720.65,Debit Card,5,Delivered
+ORD-100643,04-03-2025,CUST-1296,Corporate,West,Ahmedabad,Online,Sports,Running Shoes,5,3449.69,0.1,15523.6,10816.01,4707.6,Debit Card,6,Delivered
+ORD-101024,04-03-2025,CUST-1218,Small Business,West,Surat,Online,Electronics,Wireless Earbuds,4,1911.42,0.15,6498.83,5010.95,1487.87,Net Banking,3,Shipped
+ORD-100109,05-03-2025,CUST-1200,Consumer,South,Kochi,Online,Electronics,Smartphone,3,17966.75,0.05,51205.24,40842.05,10363.19,Cash,6,Delivered
+ORD-100454,05-03-2025,CUST-1095,Consumer,South,Kochi,Store,Electronics,Wireless Earbuds,4,1824.94,0.15,6204.8,5371.35,833.44,UPI,4,Delivered
+ORD-100542,05-03-2025,CUST-1043,Consumer,West,Surat,Store,Electronics,Laptop,1,54183.3,0.1,48764.97,31593.3,17171.67,UPI,7,Delivered
+ORD-100130,06-03-2025,CUST-1100,Corporate,North,Chandigarh,Mobile App,Electronics,Smartwatch,1,4511.07,0.15,3834.41,2526.78,1307.63,UPI,1,Delivered
+ORD-100606,07-03-2025,CUST-1293,Corporate,East,Guwahati,Online,Beauty,Moisturizer,4,338.83,0.1,1219.79,1056.99,162.8,UPI,2,Delivered
+ORD-100530,08-03-2025,CUST-1286,Corporate,East,Guwahati,Store,Clothing,T-Shirt,1,544.5,0.1,490.05,382.34,107.71,UPI,4,Shipped
+ORD-100232,08-03-2025,CUST-1253,Consumer,West,Surat,Online,Home & Kitchen,Bedsheet,1,940,0.15,799,572.67,226.33,UPI,1,Delivered
+ORD-100594,08-03-2025,CUST-1326,Corporate,South,Bengaluru,Mobile App,Beauty,Face Wash,2,200.53,0.1,360.95,308.1,52.86,UPI,4,Delivered
+ORD-100771,08-03-2025,CUST-1117,Consumer,North,Jaipur,Online,Beauty,Moisturizer,1,327.53,0.15,278.4,250.73,27.67,Credit Card,3,Delivered
+ORD-100928,10-03-2025,CUST-1090,Consumer,North,Jaipur,Mobile App,Beauty,Moisturizer,1,351.92,0,351.92,246.18,105.74,Debit Card,5,Delivered
+ORD-100784,10-03-2025,CUST-1228,Corporate,North,Delhi,Store,Clothing,Sneakers,1,2438.1,0.15,2072.38,1789.56,282.82,Cash,5,Delivered
+ORD-100214,11-03-2025,CUST-1097,Consumer,West,Surat,Online,Beauty,Moisturizer,1,316.88,0.05,301.04,243.93,57.1,Credit Card,7,Processing
+ORD-100332,12-03-2025,CUST-1112,Consumer,South,Chennai,Store,Clothing,Sneakers,1,2432.39,0,2432.39,1689.26,743.13,UPI,7,Delivered
+ORD-100360,12-03-2025,CUST-1093,Consumer,East,Kolkata,Mobile App,Home & Kitchen,Storage Box,1,379.74,0,379.74,233.77,145.97,Credit Card,1,Delivered
+ORD-100655,14-03-2025,CUST-1068,Corporate,South,Bengaluru,Mobile App,Electronics,Smartwatch,2,4478.96,0.15,7614.23,4993.01,2621.22,Debit Card,3,Processing
+ORD-100995,15-03-2025,CUST-1192,Consumer,Central,Indore,Store,Electronics,Wireless Earbuds,2,1631.12,0,3262.24,1994.99,1267.25,UPI,5,Delivered
+ORD-100097,15-03-2025,CUST-1112,Consumer,West,Pune,Online,Electronics,Smartwatch,1,4571.75,0.1,4114.57,3512.07,602.51,Credit Card,1,Delivered
+ORD-101101,15-03-2025,CUST-1016,Consumer,South,Bengaluru,Mobile App,Home & Kitchen,Mixer Grinder,1,3518.85,0.2,2815.08,2713.74,101.34,Credit Card,4,Delivered
+ORD-100972,15-03-2025,CUST-1302,Consumer,East,Guwahati,Online,Clothing,Jeans,1,1391.93,0.15,1183.14,893.28,289.86,Debit Card,6,Delivered
+ORD-100592,16-03-2025,CUST-1334,Corporate,East,Patna,Online,Home & Kitchen,Mixer Grinder,1,3065.07,0.05,2911.82,2053.7,858.12,UPI,2,Delivered
+ORD-100012,16-03-2025,CUST-1310,Consumer,East,Kolkata,Mobile App,Electronics,Wireless Earbuds,2,1815.49,0,3630.98,2802.12,828.86,UPI,4,Shipped
+ORD-100677,16-03-2025,CUST-1191,Small Business,West,Surat,Online,Electronics,Smartwatch,1,4513.03,0.1,4061.73,3443.57,618.16,UPI,1,Shipped
+ORD-100815,16-03-2025,CUST-1161,Consumer,West,Ahmedabad,Online,Electronics,Smartwatch,2,4245.02,0,8490.04,4669.83,3820.21,Credit Card,5,Delivered
+ORD-101154,17-03-2025,CUST-1300,Consumer,East,Kolkata,Mobile App,Home & Kitchen,Cookware Set,1,2594,0,2594,1600.56,993.44,Credit Card,2,Delivered
+ORD-101030,17-03-2025,CUST-1336,Consumer,West,Ahmedabad,Store,Electronics,Smartphone,1,17143.67,0.05,16286.49,9910.24,6376.24,UPI,5,Delivered
+ORD-100686,22-03-2025,CUST-1097,Consumer,West,Mumbai,Online,Electronics,Smartphone,1,17446.23,0.05,16573.92,12837.95,3735.97,UPI,3,Delivered
+ORD-100945,24-03-2025,CUST-1179,Corporate,West,Ahmedabad,Online,Home & Kitchen,Storage Box,2,380.37,0.05,722.7,531.97,190.73,UPI,6,Delivered
+ORD-100858,24-03-2025,CUST-1218,Small Business,South,Kochi,Online,Clothing,Sneakers,1,2256.98,0.15,1918.43,1697.53,220.9,Debit Card,2,Delivered
+ORD-101122,24-03-2025,CUST-1119,Corporate,North,Delhi,Store,Sports,Dumbbells,2,1744.05,0,3488.1,2404.65,1083.45,Cash,3,Shipped
+ORD-100816,25-03-2025,CUST-1004,Consumer,South,Bengaluru,Mobile App,Home & Kitchen,Bedsheet,1,820.67,0.15,697.57,496.82,200.75,Debit Card,1,Delivered
+ORD-100964,25-03-2025,CUST-1182,Consumer,South,Chennai,Store,Beauty,Moisturizer,2,316.92,0.15,538.76,494.15,44.62,Debit Card,4,Shipped
+ORD-100489,25-03-2025,CUST-1263,Consumer,North,Lucknow,Online,Home & Kitchen,Bedsheet,1,887.04,0.05,842.69,679.25,163.44,Credit Card,1,Delivered
+ORD-100835,25-03-2025,CUST-1021,Consumer,North,Jaipur,Mobile App,Electronics,Smartphone,2,19087.43,0.15,32448.63,27669.11,4779.52,UPI,2,Processing
+ORD-100238,26-03-2025,CUST-1005,Consumer,South,Chennai,Online,Beauty,Moisturizer,1,320.78,0.05,304.74,184.79,119.95,UPI,6,Delivered
+ORD-100196,26-03-2025,CUST-1075,Small Business,North,Jaipur,Online,Home & Kitchen,Mixer Grinder,1,3308.39,0,3308.39,2004.96,1303.43,Net Banking,3,Delivered
+ORD-100216,26-03-2025,CUST-1006,Consumer,East,Bhubaneswar,Online,Beauty,Moisturizer,2,370.52,0,741.04,464.63,276.41,Credit Card,4,Shipped
+ORD-100060,26-03-2025,CUST-1029,Consumer,North,Jaipur,Mobile App,Sports,Running Shoes,2,3386.28,0,6772.56,4376.54,2396.02,Net Banking,4,Delivered
+ORD-101148,27-03-2025,CUST-1336,Consumer,North,Lucknow,Mobile App,Home & Kitchen,Storage Box,2,379.28,0.05,720.63,529.9,190.73,Cash,3,Delivered
+ORD-101062,27-03-2025,CUST-1165,Small Business,South,Kochi,Store,Home & Kitchen,Cookware Set,5,2558.36,0.1,11512.62,9200.88,2311.74,Credit Card,5,Delivered
+ORD-101022,29-03-2025,CUST-1267,Corporate,South,Kochi,Mobile App,Beauty,Moisturizer,1,330.76,0,330.76,211.98,118.78,Debit Card,3,Delivered
+ORD-101013,31-03-2025,CUST-1179,Small Business,South,Kochi,Online,Electronics,Smartwatch,3,4780.75,0.15,12190.91,10008.38,2182.53,UPI,2,Processing
+ORD-100794,31-03-2025,CUST-1337,Consumer,East,Bhubaneswar,Mobile App,Electronics,Smartwatch,4,4337.68,0.05,16483.18,11992.02,4491.17,Credit Card,5,Shipped
+ORD-100211,01-04-2025,CUST-1219,Corporate,West,Mumbai,Online,Electronics,Laptop,3,47244.49,0.15,120473.45,81821.59,38651.86,Credit Card,7,Delivered
+ORD-100953,02-04-2025,CUST-1324,Consumer,South,Chennai,Store,Electronics,Wireless Earbuds,4,1654,0.05,6285.2,4717.6,1567.6,Debit Card,2,Processing
+ORD-100548,02-04-2025,CUST-1334,Corporate,East,Patna,Online,Home & Kitchen,Storage Box,2,419.8,0.1,755.64,641.67,113.97,UPI,4,Delivered
+ORD-100711,02-04-2025,CUST-1346,Corporate,South,Bengaluru,Store,Home & Kitchen,Mixer Grinder,2,2995.72,0.1,5392.3,3673.77,1718.53,Credit Card,4,Delivered
+ORD-100315,02-04-2025,CUST-1178,Consumer,South,Hyderabad,Online,Clothing,Jeans,3,1378.85,0,4136.55,2525.03,1611.52,Cash,3,Delivered
+ORD-100529,03-04-2025,CUST-1143,Consumer,West,Surat,Store,Electronics,Smartphone,1,17798.81,0.15,15128.99,12573.27,2555.72,Cash,7,Delivered
+ORD-100481,03-04-2025,CUST-1115,Consumer,North,Delhi,Online,Home & Kitchen,Mixer Grinder,1,3320.53,0.1,2988.48,2540.99,447.48,UPI,7,Processing
+ORD-101162,04-04-2025,CUST-1121,Small Business,North,Chandigarh,Online,Electronics,Smartphone,2,17969.37,0.15,30547.93,27604.41,2943.52,UPI,2,Delivered
+ORD-100861,04-04-2025,CUST-1294,Corporate,Central,Indore,Store,Beauty,Moisturizer,1,382.36,0.05,363.24,223.53,139.71,Credit Card,2,Delivered
+ORD-100395,05-04-2025,CUST-1206,Small Business,East,Guwahati,Mobile App,Sports,Cricket Bat,1,2733.39,0.2,2186.71,2050.74,135.97,Credit Card,2,Delivered
+ORD-100541,06-04-2025,CUST-1028,Consumer,North,Chandigarh,Store,Sports,Cricket Bat,2,2528.41,0.1,4551.14,2987.67,1563.46,Credit Card,1,Delivered
+ORD-101088,06-04-2025,CUST-1176,Consumer,North,Jaipur,Online,Clothing,Kurta,2,1072.42,0.1,1930.36,1637.28,293.08,Credit Card,2,Delivered
+ORD-100278,07-04-2025,CUST-1218,Corporate,North,Jaipur,Store,Clothing,Sneakers,2,2282.11,0.2,3651.38,2888.3,763.07,Debit Card,4,Delivered
+ORD-100845,07-04-2025,CUST-1017,Corporate,South,Chennai,Online,Sports,Running Shoes,1,3013.67,0,3013.67,2076.97,936.7,Net Banking,6,Delivered
+ORD-100474,08-04-2025,CUST-1318,Consumer,North,Chandigarh,Store,Home & Kitchen,Bedsheet,1,957.01,0,957.01,613.1,343.91,Cash,3,Delivered
+ORD-100925,10-04-2025,CUST-1310,Corporate,West,Pune,Online,Home & Kitchen,Cookware Set,2,2368.43,0.05,4500.02,3522.28,977.74,UPI,2,Delivered
+ORD-100651,10-04-2025,CUST-1134,Corporate,South,Bengaluru,Online,Clothing,Kurta,3,1050.29,0.1,2835.78,1902.58,933.2,UPI,5,Delivered
+ORD-100323,10-04-2025,CUST-1235,Small Business,Central,Bhopal,Mobile App,Beauty,Hair Dryer,1,1723.55,0.1,1551.19,1157.29,393.91,Cash,2,Delivered
+ORD-100031,11-04-2025,CUST-1346,Consumer,North,Lucknow,Online,Beauty,Moisturizer,2,355.64,0,711.28,467.13,244.15,Debit Card,1,Delivered
+ORD-100934,12-04-2025,CUST-1285,Consumer,Central,Raipur,Online,Electronics,Smartwatch,1,4815.17,0.2,3852.14,3314.21,537.93,UPI,3,Delivered
+ORD-100289,13-04-2025,CUST-1216,Consumer,West,Surat,Online,Beauty,Hair Dryer,1,1748.85,0.05,1661.41,1281.88,379.53,UPI,3,Delivered
+ORD-100154,15-04-2025,CUST-1317,Consumer,North,Delhi,Online,Clothing,Kurta,2,902.35,0.1,1624.23,1126.88,497.35,UPI,5,Shipped
+ORD-100736,15-04-2025,CUST-1092,Consumer,North,Lucknow,Mobile App,Electronics,Laptop,4,57009.52,0.05,216636.18,139086.78,77549.4,Net Banking,2,Delivered
+ORD-100997,17-04-2025,CUST-1216,Consumer,North,Chandigarh,Store,Sports,Yoga Mat,2,772.93,0,1545.86,1054.21,491.65,Credit Card,1,Delivered
+ORD-100299,17-04-2025,CUST-1046,Consumer,South,Bengaluru,Online,Sports,Running Shoes,1,3367.82,0.1,3031.04,2175.61,855.43,Credit Card,4,Delivered
+ORD-100636,17-04-2025,CUST-1288,Consumer,Central,Raipur,Online,Sports,Yoga Mat,2,868.97,0.1,1564.15,1263.02,301.13,Debit Card,4,Delivered
+ORD-100034,20-04-2025,CUST-1079,Consumer,South,Chennai,Store,Clothing,Jeans,1,1618.76,0.1,1456.88,1239.32,217.57,Credit Card,3,Cancelled
+ORD-100709,22-04-2025,CUST-1155,Corporate,South,Bengaluru,Mobile App,Home & Kitchen,Storage Box,1,383.39,0.1,345.05,285.6,59.45,UPI,3,Delivered
+ORD-100823,23-04-2025,CUST-1253,Consumer,North,Delhi,Online,Clothing,Kurta,1,1071.05,0.05,1017.5,814.98,202.52,Credit Card,5,Delivered
+ORD-100748,24-04-2025,CUST-1110,Corporate,East,Patna,Store,Home & Kitchen,Mixer Grinder,3,3350.06,0.1,9045.16,6016.26,3028.9,Net Banking,3,Delivered
+ORD-100731,26-04-2025,CUST-1236,Consumer,South,Hyderabad,Online,Clothing,Jeans,2,1426.12,0,2852.24,2021.82,830.42,UPI,3,Delivered
+ORD-100620,27-04-2025,CUST-1196,Corporate,West,Mumbai,Online,Beauty,Perfume,1,1298.42,0.05,1233.5,786.37,447.13,UPI,6,Delivered
+ORD-100897,28-04-2025,CUST-1304,Consumer,North,Chandigarh,Mobile App,Clothing,Kurta,3,1007.55,0.2,2418.12,1769.42,648.7,Debit Card,1,Delivered
+ORD-100386,28-04-2025,CUST-1154,Consumer,South,Hyderabad,Mobile App,Beauty,Face Wash,1,199.33,0.1,179.4,155.11,24.28,Cash,4,Delivered
+ORD-101175,29-04-2025,CUST-1051,Consumer,East,Bhubaneswar,Online,Electronics,Smartwatch,2,4201.57,0.1,7562.83,5451.61,2111.22,UPI,5,Delivered
+ORD-100774,30-04-2025,CUST-1143,Consumer,West,Pune,Online,Beauty,Perfume,1,1310.82,0,1310.82,857.39,453.43,Credit Card,5,Delivered
+ORD-100428,30-04-2025,CUST-1336,Consumer,South,Bengaluru,Online,Electronics,Smartphone,2,18743.91,0.2,29990.26,23457.77,6532.48,Debit Card,1,Cancelled
+ORD-100373,01-05-2025,CUST-1168,Consumer,South,Hyderabad,Store,Clothing,T-Shirt,1,534.06,0.15,453.95,326.55,127.4,Credit Card,4,Delivered
+ORD-100585,02-05-2025,CUST-1333,Small Business,South,Hyderabad,Mobile App,Electronics,Wireless Earbuds,1,1863.41,0.1,1677.07,1333.84,343.23,Credit Card,2,Delivered
+ORD-100539,02-05-2025,CUST-1304,Consumer,West,Pune,Store,Clothing,Sneakers,1,2386.77,0.05,2267.43,1607.07,660.36,UPI,3,Delivered
+ORD-100291,03-05-2025,CUST-1099,Consumer,East,Bhubaneswar,Online,Home & Kitchen,Bedsheet,3,987.39,0,2962.17,2100.5,861.67,Cash,3,Delivered
+ORD-100977,03-05-2025,CUST-1146,Consumer,East,Bhubaneswar,Online,Clothing,Sneakers,2,2644.27,0.1,4759.69,4119.61,640.07,UPI,2,Delivered
+ORD-100266,03-05-2025,CUST-1219,Consumer,South,Kochi,Online,Home & Kitchen,Storage Box,1,416.19,0.05,395.38,301.69,93.69,Cash,4,Shipped
+ORD-100149,04-05-2025,CUST-1298,Consumer,West,Surat,Store,Home & Kitchen,Storage Box,1,359.21,0.05,341.25,209.41,131.84,Debit Card,2,Delivered
+ORD-100020,06-05-2025,CUST-1290,Consumer,North,Chandigarh,Mobile App,Beauty,Hair Dryer,2,1728.18,0,3456.36,2221.27,1235.09,Net Banking,2,Delivered
+ORD-100595,08-05-2025,CUST-1017,Consumer,South,Chennai,Online,Home & Kitchen,Bedsheet,1,820.62,0,820.62,595.84,224.78,UPI,4,Delivered
+ORD-100001,10-05-2025,CUST-1332,Consumer,Central,Raipur,Online,Home & Kitchen,Mixer Grinder,1,3116.19,0,3116.19,2014.17,1102.02,Net Banking,6,Delivered
+ORD-100339,10-05-2025,CUST-1175,Consumer,West,Ahmedabad,Store,Clothing,Jeans,2,1353.15,0.05,2570.99,1862.61,708.37,UPI,3,Delivered
+ORD-100174,13-05-2025,CUST-1111,Corporate,West,Ahmedabad,Mobile App,Clothing,Kurta,1,931.74,0,931.74,555.81,375.93,Cash,4,Delivered
+ORD-100114,13-05-2025,CUST-1208,Consumer,Central,Nagpur,Online,Home & Kitchen,Cookware Set,2,2370.33,0.15,4029.56,2782.56,1247,Debit Card,5,Delivered
+ORD-100814,14-05-2025,CUST-1281,Consumer,North,Jaipur,Online,Electronics,Smartphone,2,18778.93,0.1,33802.07,24752.76,9049.31,Cash,4,Delivered
+ORD-101058,15-05-2025,CUST-1185,Consumer,Central,Indore,Online,Electronics,Laptop,4,56497.25,0.2,180791.2,130810.83,49980.37,UPI,4,Shipped
+ORD-100412,16-05-2025,CUST-1123,Consumer,North,Chandigarh,Online,Beauty,Face Wash,2,208.15,0.05,395.49,289.21,106.27,Debit Card,3,Delivered
+ORD-100314,16-05-2025,CUST-1200,Consumer,Central,Raipur,Store,Clothing,Kurta,1,1023.44,0.2,818.75,611.51,207.24,Cash,5,Delivered
+ORD-100512,18-05-2025,CUST-1178,Consumer,Central,Indore,Online,Sports,Running Shoes,4,3042.33,0,12169.32,7892.93,4276.39,UPI,3,Delivered
+ORD-100108,20-05-2025,CUST-1072,Consumer,North,Lucknow,Store,Beauty,Moisturizer,2,354.54,0.1,638.17,495.14,143.03,UPI,7,Delivered
+ORD-100831,21-05-2025,CUST-1151,Small Business,Central,Nagpur,Online,Home & Kitchen,Bedsheet,1,892.49,0.05,847.87,521.47,326.39,Credit Card,3,Delivered
+ORD-100008,21-05-2025,CUST-1122,Consumer,West,Mumbai,Mobile App,Electronics,Smartwatch,1,4405.89,0.05,4185.6,2572.27,1613.33,UPI,2,Shipped
+ORD-100179,21-05-2025,CUST-1175,Small Business,East,Patna,Online,Home & Kitchen,Mixer Grinder,1,2994.58,0.15,2545.39,2113.68,431.71,UPI,2,Delivered
+ORD-100413,22-05-2025,CUST-1238,Corporate,West,Pune,Online,Sports,Cricket Bat,4,2438.2,0.1,8777.52,5581.22,3196.3,Credit Card,7,Delivered
+ORD-100769,22-05-2025,CUST-1012,Corporate,West,Surat,Store,Clothing,Kurta,2,1047.55,0.15,1780.84,1562.28,218.55,UPI,3,Delivered
+ORD-100883,25-05-2025,CUST-1278,Consumer,North,Chandigarh,Online,Electronics,Smartphone,2,18892,0.05,35894.8,22609.82,13284.98,Debit Card,3,Delivered
+ORD-100463,25-05-2025,CUST-1269,Consumer,West,Ahmedabad,Store,Home & Kitchen,Cookware Set,1,2583.22,0.15,2195.74,1537.48,658.25,Debit Card,1,Delivered
+ORD-100704,26-05-2025,CUST-1084,Consumer,North,Lucknow,Online,Clothing,Sneakers,1,2384.82,0.05,2265.58,1669.72,595.85,Cash,2,Delivered
+ORD-100310,26-05-2025,CUST-1204,Consumer,South,Hyderabad,Store,Beauty,Hair Dryer,1,1964.46,0.1,1768.01,1234.74,533.28,Net Banking,5,Delivered
+ORD-100531,26-05-2025,CUST-1271,Consumer,East,Bhubaneswar,Store,Beauty,Perfume,1,1193.96,0.15,1014.87,681.68,333.19,UPI,1,Delivered
+ORD-100209,27-05-2025,CUST-1099,Consumer,Central,Indore,Online,Clothing,T-Shirt,1,502.75,0,502.75,326.02,176.73,Net Banking,2,Shipped
+ORD-100234,28-05-2025,CUST-1039,Consumer,East,Kolkata,Online,Home & Kitchen,Cookware Set,2,2200.99,0.2,3521.58,2945.55,576.03,UPI,2,Delivered
+ORD-100066,28-05-2025,CUST-1073,Consumer,East,Patna,Mobile App,Beauty,Moisturizer,1,366.34,0.15,311.39,238.06,73.33,UPI,5,Delivered
+ORD-100726,30-05-2025,CUST-1265,Consumer,East,Bhubaneswar,Mobile App,Electronics,Laptop,1,48064.88,0.05,45661.64,29259.42,16402.21,Debit Card,5,Delivered
+ORD-100188,30-05-2025,CUST-1048,Consumer,East,Kolkata,Store,Clothing,Sneakers,3,2441.39,0.05,6957.96,5029,1928.96,Debit Card,3,Delivered
+ORD-100564,30-05-2025,CUST-1228,Consumer,South,Chennai,Mobile App,Electronics,Smartphone,2,16516.82,0.15,28078.59,21126.05,6952.55,Net Banking,5,Delivered
+ORD-100524,01-06-2025,CUST-1301,Small Business,West,Surat,Store,Clothing,Kurta,2,1091.72,0,2183.44,1212.22,971.22,Debit Card,3,Delivered
+ORD-101086,01-06-2025,CUST-1088,Consumer,North,Delhi,Online,Electronics,Smartwatch,1,4653.65,0,4653.65,3028.72,1624.93,Cash,2,Delivered
+ORD-100671,01-06-2025,CUST-1085,Consumer,Central,Raipur,Online,Home & Kitchen,Storage Box,2,413.36,0,826.72,542.34,284.38,Debit Card,4,Delivered
+ORD-100161,02-06-2025,CUST-1220,Small Business,West,Surat,Mobile App,Home & Kitchen,Bedsheet,4,903.17,0.05,3432.05,2318.65,1113.4,Credit Card,3,Delivered
+ORD-100312,02-06-2025,CUST-1255,Corporate,South,Bengaluru,Store,Home & Kitchen,Bedsheet,1,916.86,0.05,871.02,705.31,165.71,UPI,3,Delivered
+ORD-101160,03-06-2025,CUST-1173,Consumer,East,Patna,Online,Clothing,T-Shirt,1,536.86,0,536.86,401.65,135.21,Cash,7,Delivered
+ORD-100430,03-06-2025,CUST-1195,Consumer,West,Mumbai,Online,Sports,Dumbbells,2,1534.42,0.05,2915.4,1898.44,1016.96,Debit Card,1,Delivered
+ORD-100491,04-06-2025,CUST-1246,Small Business,West,Pune,Online,Beauty,Face Wash,2,205.4,0.2,328.64,294.88,33.76,Credit Card,2,Cancelled
+ORD-100850,06-06-2025,CUST-1274,Consumer,West,Ahmedabad,Mobile App,Clothing,Jeans,2,1615.69,0,3231.38,2507.01,724.37,UPI,3,Delivered
+ORD-100435,09-06-2025,CUST-1001,Small Business,North,Jaipur,Online,Clothing,Kurta,4,1039.56,0,4158.24,2462.44,1695.8,UPI,2,Delivered
+ORD-100113,10-06-2025,CUST-1116,Consumer,South,Hyderabad,Store,Clothing,Jeans,3,1400.28,0,4200.84,2508,1692.84,Debit Card,4,Delivered
+ORD-101181,11-06-2025,CUST-1017,Consumer,South,Kochi,Mobile App,Clothing,Jeans,4,1648.1,0.05,6262.78,4498.23,1764.55,Net Banking,7,Delivered
+ORD-101114,12-06-2025,CUST-1033,Consumer,South,Kochi,Online,Beauty,Perfume,4,1384.51,0.1,4984.24,3087.42,1896.82,UPI,6,Delivered
+ORD-100475,13-06-2025,CUST-1307,Corporate,West,Ahmedabad,Mobile App,Home & Kitchen,Storage Box,4,437.52,0.05,1662.58,1129.77,532.81,Credit Card,4,Delivered
+ORD-100371,14-06-2025,CUST-1295,Consumer,North,Delhi,Store,Home & Kitchen,Cookware Set,3,2521.13,0,7563.39,5059.24,2504.15,UPI,1,Shipped
+ORD-100335,15-06-2025,CUST-1258,Consumer,West,Mumbai,Mobile App,Home & Kitchen,Cookware Set,1,2217.83,0.15,1885.16,1299.69,585.46,UPI,3,Processing
+ORD-100190,15-06-2025,CUST-1095,Consumer,South,Bengaluru,Store,Clothing,Sneakers,3,2691.88,0.15,6864.29,4476.79,2387.5,UPI,4,Delivered
+ORD-100043,16-06-2025,CUST-1248,Small Business,North,Jaipur,Mobile App,Beauty,Moisturizer,1,316.14,0.1,284.53,222.04,62.48,Credit Card,6,Delivered
+ORD-100755,16-06-2025,CUST-1201,Consumer,Central,Nagpur,Store,Beauty,Perfume,1,1315.02,0.1,1183.52,835.87,347.65,Net Banking,7,Shipped
+ORD-100713,17-06-2025,CUST-1241,Consumer,West,Ahmedabad,Online,Beauty,Hair Dryer,1,1817.45,0.1,1635.7,1398.53,237.18,Credit Card,2,Delivered
+ORD-100607,18-06-2025,CUST-1242,Consumer,North,Delhi,Online,Clothing,Kurta,1,975,0.1,877.5,546.24,331.26,Credit Card,4,Delivered
+ORD-100624,18-06-2025,CUST-1221,Consumer,South,Bengaluru,Online,Home & Kitchen,Cookware Set,1,2340.67,0.1,2106.6,1708.57,398.03,UPI,7,Delivered
+ORD-100622,18-06-2025,CUST-1163,Corporate,North,Lucknow,Online,Clothing,Jeans,2,1406.2,0.05,2671.78,1593.07,1078.71,UPI,6,Cancelled
+ORD-100750,20-06-2025,CUST-1149,Consumer,South,Kochi,Online,Sports,Running Shoes,2,3547.48,0.15,6030.72,4765.15,1265.56,Debit Card,6,Delivered
+ORD-100279,21-06-2025,CUST-1208,Consumer,Central,Nagpur,Online,Clothing,Jeans,2,1379.84,0,2759.68,1606.49,1153.19,Debit Card,6,Shipped
+ORD-100974,23-06-2025,CUST-1216,Consumer,Central,Raipur,Online,Electronics,Wireless Earbuds,2,1957.82,0.1,3524.08,2481.56,1042.51,Credit Card,4,Delivered
+ORD-101015,24-06-2025,CUST-1287,Consumer,West,Surat,Mobile App,Home & Kitchen,Mixer Grinder,2,3321.46,0.1,5978.63,4730.43,1248.2,Net Banking,2,Cancelled
+ORD-100522,27-06-2025,CUST-1135,Small Business,South,Bengaluru,Store,Clothing,T-Shirt,2,475.18,0.2,760.29,590.4,169.89,Debit Card,5,Processing
+ORD-100951,28-06-2025,CUST-1322,Small Business,South,Kochi,Store,Sports,Yoga Mat,1,794.41,0,794.41,453.72,340.69,UPI,4,Delivered
+ORD-100761,29-06-2025,CUST-1166,Consumer,West,Ahmedabad,Store,Electronics,Laptop,2,49173.05,0.05,93428.8,75867.5,17561.3,Cash,3,Processing
+ORD-100351,30-06-2025,CUST-1113,Consumer,West,Pune,Store,Electronics,Smartphone,5,17943.17,0,89715.85,60727.6,28988.25,Debit Card,1,Delivered
+ORD-100451,01-07-2025,CUST-1259,Corporate,South,Bengaluru,Store,Home & Kitchen,Storage Box,3,436.6,0.05,1244.31,979.78,264.53,Debit Card,1,Shipped
+ORD-101197,02-07-2025,CUST-1046,Small Business,West,Mumbai,Online,Home & Kitchen,Cookware Set,1,2540.79,0.15,2159.67,1416.89,742.78,Cash,3,Delivered
+ORD-100208,02-07-2025,CUST-1184,Corporate,North,Chandigarh,Online,Sports,Running Shoes,3,3145.32,0.1,8492.36,7053.52,1438.84,Cash,3,Delivered
+ORD-100960,03-07-2025,CUST-1321,Consumer,North,Jaipur,Mobile App,Sports,Running Shoes,2,3553.53,0.05,6751.71,5173.96,1577.75,UPI,2,Delivered
+ORD-100768,06-07-2025,CUST-1112,Small Business,West,Pune,Store,Sports,Dumbbells,2,1486.54,0.15,2527.12,1681.93,845.19,UPI,5,Delivered
+ORD-100674,07-07-2025,CUST-1072,Small Business,South,Kochi,Store,Home & Kitchen,Cookware Set,2,2539.4,0,5078.8,3099.1,1979.7,Cash,3,Delivered
+ORD-100584,07-07-2025,CUST-1218,Consumer,South,Bengaluru,Mobile App,Electronics,Smartwatch,1,4819.87,0,4819.87,2735.29,2084.58,UPI,4,Delivered
+ORD-100719,08-07-2025,CUST-1286,Consumer,Central,Indore,Online,Electronics,Wireless Earbuds,1,1773.52,0.1,1596.17,1202.95,393.21,Credit Card,2,Delivered
+ORD-100402,08-07-2025,CUST-1177,Corporate,East,Kolkata,Online,Clothing,T-Shirt,1,513.58,0,513.58,392.64,120.94,Credit Card,4,Shipped
+ORD-100275,09-07-2025,CUST-1179,Consumer,Central,Bhopal,Store,Home & Kitchen,Bedsheet,1,900.26,0.1,810.23,688.19,122.04,Cash,4,Delivered
+ORD-101110,09-07-2025,CUST-1142,Small Business,West,Surat,Online,Clothing,Kurta,1,966.67,0.05,918.34,538.62,379.72,UPI,1,Cancelled
+ORD-101187,09-07-2025,CUST-1051,Corporate,West,Surat,Online,Sports,Yoga Mat,1,751.12,0.1,676.01,489.17,186.84,UPI,2,Delivered
+ORD-101134,09-07-2025,CUST-1227,Consumer,West,Pune,Online,Home & Kitchen,Mixer Grinder,2,3154.14,0.1,5677.45,3866.5,1810.95,Debit Card,5,Shipped
+ORD-101016,10-07-2025,CUST-1252,Consumer,Central,Raipur,Online,Sports,Dumbbells,3,1721.52,0.1,4648.1,3088.66,1559.45,Credit Card,5,Delivered
+ORD-100803,11-07-2025,CUST-1337,Consumer,North,Lucknow,Mobile App,Beauty,Moisturizer,1,367.75,0.1,330.98,228.53,102.45,UPI,5,Shipped
+ORD-100521,13-07-2025,CUST-1212,Consumer,South,Kochi,Online,Electronics,Wireless Earbuds,3,1966.14,0,5898.42,3854.75,2043.67,UPI,4,Delivered
+ORD-100926,13-07-2025,CUST-1259,Consumer,South,Chennai,Mobile App,Electronics,Smartphone,2,19324.67,0.15,32851.94,24244.28,8607.66,Credit Card,2,Delivered
+ORD-101133,14-07-2025,CUST-1057,Consumer,West,Surat,Online,Clothing,Sneakers,2,2314.33,0.1,4165.79,3053.52,1112.28,Cash,4,Delivered
+ORD-100259,16-07-2025,CUST-1271,Consumer,South,Kochi,Online,Home & Kitchen,Mixer Grinder,3,3403,0,10209,7718.18,2490.82,Credit Card,3,Shipped
+ORD-100517,17-07-2025,CUST-1019,Corporate,North,Delhi,Online,Home & Kitchen,Storage Box,2,382.36,0.1,688.25,588.79,99.46,UPI,1,Delivered
+ORD-100482,17-07-2025,CUST-1008,Consumer,North,Delhi,Store,Clothing,T-Shirt,3,522.12,0.1,1409.72,933.67,476.05,UPI,5,Shipped
+ORD-100176,17-07-2025,CUST-1306,Consumer,East,Guwahati,Online,Electronics,Wireless Earbuds,4,1808.96,0.1,6512.26,4529.56,1982.69,UPI,5,Delivered
+ORD-100092,18-07-2025,CUST-1291,Consumer,Central,Indore,Online,Beauty,Face Wash,3,218.81,0,656.43,367.13,289.3,Cash,3,Delivered
+ORD-100483,22-07-2025,CUST-1194,Consumer,South,Chennai,Online,Clothing,Sneakers,3,2576.36,0,7729.08,4738.1,2990.98,Credit Card,4,Processing
+ORD-101001,22-07-2025,CUST-1173,Small Business,West,Ahmedabad,Mobile App,Beauty,Face Wash,1,212.57,0,212.57,160.49,52.08,UPI,3,Shipped
+ORD-100973,22-07-2025,CUST-1203,Corporate,South,Bengaluru,Online,Electronics,Wireless Earbuds,1,1964.35,0.15,1669.7,1407.5,262.2,Cash,3,Delivered
+ORD-100440,23-07-2025,CUST-1096,Consumer,East,Bhubaneswar,Online,Sports,Yoga Mat,3,736.58,0.05,2099.25,1386.56,712.7,Cash,2,Delivered
+ORD-101093,23-07-2025,CUST-1184,Consumer,West,Surat,Online,Clothing,Kurta,3,921.97,0,2765.91,2108.13,657.78,UPI,4,Delivered
+ORD-100316,24-07-2025,CUST-1060,Consumer,North,Lucknow,Store,Home & Kitchen,Cookware Set,1,2526.31,0.15,2147.36,1613.24,534.13,UPI,4,Delivered
+ORD-101102,24-07-2025,CUST-1016,Consumer,South,Hyderabad,Store,Sports,Dumbbells,1,1460.14,0.15,1241.12,1123.04,118.08,UPI,2,Delivered
+ORD-100865,24-07-2025,CUST-1285,Corporate,North,Jaipur,Store,Clothing,Jeans,1,1447.05,0.15,1229.99,946.96,283.04,Credit Card,4,Delivered
+ORD-101164,25-07-2025,CUST-1150,Consumer,West,Pune,Online,Home & Kitchen,Cookware Set,4,2405.53,0.1,8659.91,7185.74,1474.17,Debit Card,3,Shipped
+ORD-100871,25-07-2025,CUST-1288,Consumer,South,Bengaluru,Online,Electronics,Smartwatch,2,4279.71,0,8559.42,4862.58,3696.84,Cash,4,Delivered
+ORD-101152,27-07-2025,CUST-1067,Consumer,East,Guwahati,Mobile App,Beauty,Moisturizer,1,365.11,0.05,346.85,238.8,108.06,Credit Card,4,Processing
+ORD-100881,27-07-2025,CUST-1167,Consumer,South,Hyderabad,Store,Clothing,Kurta,3,1067.92,0.15,2723.2,2134.37,588.82,Credit Card,5,Delivered
+ORD-101050,27-07-2025,CUST-1245,Corporate,South,Chennai,Mobile App,Clothing,Sneakers,1,2385.65,0.05,2266.37,1695.78,570.59,Debit Card,5,Delivered
+ORD-100976,28-07-2025,CUST-1004,Small Business,East,Kolkata,Online,Beauty,Moisturizer,3,348.19,0,1044.57,744.6,299.97,UPI,4,Delivered
+ORD-100954,01-08-2025,CUST-1217,Consumer,South,Bengaluru,Store,Home & Kitchen,Bedsheet,2,898.09,0.2,1436.94,1296.74,140.21,Net Banking,2,Delivered
+ORD-100453,03-08-2025,CUST-1209,Consumer,West,Mumbai,Online,Home & Kitchen,Cookware Set,1,2319.69,0.05,2203.71,1415.98,787.72,UPI,5,Delivered
+ORD-100728,04-08-2025,CUST-1275,Consumer,North,Lucknow,Mobile App,Sports,Cricket Bat,3,2389.34,0.1,6451.22,5110.85,1340.37,UPI,3,Delivered
+ORD-100924,04-08-2025,CUST-1245,Corporate,East,Patna,Store,Electronics,Smartwatch,2,4683.04,0.05,8897.78,6785.14,2112.63,Net Banking,1,Delivered
+ORD-100819,05-08-2025,CUST-1007,Consumer,West,Mumbai,Online,Clothing,Jeans,1,1488.77,0,1488.77,1055.04,433.73,Debit Card,5,Delivered
+ORD-100434,05-08-2025,CUST-1028,Consumer,West,Mumbai,Store,Sports,Cricket Bat,1,2292.04,0.1,2062.84,1364.07,698.77,UPI,2,Delivered
+ORD-101145,06-08-2025,CUST-1331,Consumer,South,Bengaluru,Online,Home & Kitchen,Bedsheet,2,820,0,1640,916.3,723.7,Net Banking,3,Shipped
+ORD-100809,08-08-2025,CUST-1322,Consumer,Central,Raipur,Online,Electronics,Smartwatch,5,4320.17,0.15,18360.72,14036.99,4323.73,Debit Card,2,Delivered
+ORD-101184,09-08-2025,CUST-1096,Consumer,South,Chennai,Online,Sports,Cricket Bat,1,2448.61,0.1,2203.75,1653.85,549.9,Debit Card,3,Delivered
+ORD-100908,09-08-2025,CUST-1260,Consumer,East,Kolkata,Store,Electronics,Wireless Earbuds,3,1736.35,0.2,4167.24,3713.96,453.28,UPI,4,Delivered
+ORD-100143,09-08-2025,CUST-1030,Consumer,North,Delhi,Store,Home & Kitchen,Mixer Grinder,1,3111.09,0.05,2955.54,2197.46,758.08,UPI,5,Delivered
+ORD-100449,11-08-2025,CUST-1183,Consumer,North,Delhi,Online,Sports,Yoga Mat,1,877.34,0,877.34,484.91,392.43,Credit Card,4,Processing
+ORD-100882,12-08-2025,CUST-1254,Consumer,West,Ahmedabad,Store,Beauty,Face Wash,1,198.36,0,198.36,136.61,61.75,UPI,4,Shipped
+ORD-101192,12-08-2025,CUST-1314,Consumer,Central,Indore,Online,Home & Kitchen,Bedsheet,2,878.85,0,1757.7,1032.47,725.23,Credit Card,4,Delivered
+ORD-100171,12-08-2025,CUST-1210,Consumer,Central,Nagpur,Online,Home & Kitchen,Mixer Grinder,1,3292.13,0.05,3127.52,1851.99,1275.54,Credit Card,2,Delivered
+ORD-100222,12-08-2025,CUST-1275,Consumer,East,Bhubaneswar,Mobile App,Clothing,Jeans,1,1637.37,0.05,1555.5,1084.73,470.77,Cash,6,Delivered
+ORD-100045,13-08-2025,CUST-1105,Consumer,North,Chandigarh,Mobile App,Home & Kitchen,Cookware Set,4,2581.13,0.2,8259.62,5743.83,2515.78,UPI,2,Delivered
+ORD-100014,13-08-2025,CUST-1179,Small Business,South,Bengaluru,Store,Home & Kitchen,Bedsheet,1,946.07,0.05,898.77,631.59,267.18,Credit Card,3,Delivered
+ORD-101063,14-08-2025,CUST-1279,Consumer,South,Kochi,Store,Beauty,Moisturizer,2,351.58,0.05,668,460.24,207.76,UPI,4,Cancelled
+ORD-100376,14-08-2025,CUST-1125,Corporate,East,Patna,Mobile App,Electronics,Laptop,1,48285.6,0.15,41042.76,35330.29,5712.47,Credit Card,5,Delivered
+ORD-100212,14-08-2025,CUST-1181,Consumer,West,Ahmedabad,Online,Electronics,Smartwatch,3,4891.32,0.15,12472.87,10836.92,1635.95,UPI,7,Delivered
+ORD-100348,15-08-2025,CUST-1176,Consumer,South,Hyderabad,Mobile App,Home & Kitchen,Mixer Grinder,3,3013.3,0,9039.9,5365.99,3673.91,Debit Card,2,Delivered
+ORD-101040,15-08-2025,CUST-1077,Consumer,West,Pune,Online,Sports,Running Shoes,1,3487.46,0.2,2789.97,2621.55,168.42,UPI,3,Shipped
+ORD-100027,15-08-2025,CUST-1303,Consumer,North,Lucknow,Store,Beauty,Hair Dryer,5,1748.91,0.1,7870.1,5584.07,2286.02,Debit Card,3,Delivered
+ORD-101124,15-08-2025,CUST-1232,Corporate,North,Jaipur,Online,Clothing,Kurta,5,1036.64,0.05,4924.04,3969.7,954.34,Credit Card,3,Delivered
+ORD-100029,15-08-2025,CUST-1310,Consumer,South,Kochi,Mobile App,Clothing,Sneakers,4,2311.94,0.1,8322.98,7159.21,1163.77,UPI,3,Delivered
+ORD-100842,15-08-2025,CUST-1245,Consumer,North,Delhi,Online,Beauty,Face Wash,1,206.14,0.05,195.83,150.95,44.88,Cash,4,Delivered
+ORD-100516,16-08-2025,CUST-1077,Consumer,North,Lucknow,Store,Home & Kitchen,Cookware Set,1,2241.96,0,2241.96,1529.84,712.12,Cash,3,Delivered
+ORD-100235,17-08-2025,CUST-1331,Corporate,West,Pune,Online,Beauty,Hair Dryer,1,1806.08,0.15,1535.17,1150.36,384.81,Credit Card,4,Delivered
+ORD-100101,18-08-2025,CUST-1011,Corporate,West,Mumbai,Online,Clothing,Kurta,1,978.21,0.1,880.39,738.68,141.71,UPI,1,Delivered
+ORD-100267,19-08-2025,CUST-1324,Corporate,South,Kochi,Online,Clothing,Sneakers,1,2283.11,0.05,2168.95,1395.81,773.15,Debit Card,3,Delivered
+ORD-101149,21-08-2025,CUST-1148,Consumer,East,Bhubaneswar,Online,Electronics,Laptop,2,49095.28,0.1,88371.5,73660.84,14710.66,Credit Card,2,Delivered
+ORD-100896,24-08-2025,CUST-1155,Consumer,West,Ahmedabad,Online,Sports,Cricket Bat,1,2457.78,0.05,2334.89,1722.96,611.93,Cash,4,Delivered
+ORD-100501,25-08-2025,CUST-1001,Consumer,South,Chennai,Online,Home & Kitchen,Bedsheet,2,809.61,0.2,1295.38,931.88,363.5,UPI,4,Delivered
+ORD-100867,26-08-2025,CUST-1306,Consumer,South,Kochi,Store,Electronics,Wireless Earbuds,1,1805.84,0.1,1625.26,1032.24,593.02,Cash,1,Delivered
+ORD-100390,27-08-2025,CUST-1142,Corporate,North,Jaipur,Store,Electronics,Laptop,3,53340.28,0.15,136017.71,116177.09,19840.63,Credit Card,2,Cancelled
+ORD-100497,28-08-2025,CUST-1272,Consumer,North,Jaipur,Store,Electronics,Smartwatch,1,4685.89,0.1,4217.3,3514.81,702.49,Credit Card,3,Delivered
+ORD-100503,29-08-2025,CUST-1180,Consumer,Central,Bhopal,Store,Clothing,Kurta,1,1009.25,0.05,958.79,584.29,374.5,Cash,3,Delivered
+ORD-100287,29-08-2025,CUST-1178,Consumer,North,Jaipur,Online,Beauty,Perfume,4,1410.2,0,5640.8,3105.45,2535.35,Net Banking,2,Delivered
+ORD-101200,30-08-2025,CUST-1055,Small Business,South,Bengaluru,Store,Beauty,Moisturizer,1,342.93,0.1,308.64,224.83,83.8,Cash,6,Delivered
+ORD-100135,30-08-2025,CUST-1297,Consumer,West,Ahmedabad,Mobile App,Clothing,Kurta,2,1064.63,0.1,1916.33,1512.29,404.05,Cash,3,Delivered
+ORD-101194,01-09-2025,CUST-1265,Consumer,Central,Bhopal,Store,Clothing,Sneakers,4,2366.32,0,9465.28,5220.03,4245.25,Debit Card,4,Processing
+ORD-100025,02-09-2025,CUST-1179,Consumer,East,Bhubaneswar,Store,Beauty,Hair Dryer,2,2053.65,0.2,3285.84,2658.03,627.81,Credit Card,3,Delivered
+ORD-101071,02-09-2025,CUST-1220,Small Business,North,Jaipur,Online,Electronics,Smartwatch,1,4303.39,0,4303.39,3298.67,1004.72,UPI,6,Delivered
+ORD-100405,04-09-2025,CUST-1207,Consumer,West,Surat,Online,Electronics,Smartwatch,4,4836.98,0.1,17413.13,10681.4,6731.73,UPI,5,Delivered
+ORD-101017,07-09-2025,CUST-1332,Consumer,East,Guwahati,Mobile App,Electronics,Smartphone,5,16550.12,0.15,70338.01,54648.17,15689.84,UPI,7,Delivered
+ORD-100258,07-09-2025,CUST-1196,Consumer,South,Kochi,Store,Home & Kitchen,Storage Box,1,363.55,0,363.55,204.78,158.77,Credit Card,4,Cancelled
+ORD-101080,07-09-2025,CUST-1028,Consumer,West,Mumbai,Online,Beauty,Face Wash,3,209.71,0.1,566.22,469.71,96.51,Debit Card,3,Delivered
+ORD-101109,08-09-2025,CUST-1343,Corporate,South,Bengaluru,Store,Electronics,Smartphone,1,19714.43,0.1,17742.99,11104.31,6638.68,Cash,2,Delivered
+ORD-100163,08-09-2025,CUST-1348,Small Business,West,Pune,Online,Beauty,Moisturizer,1,361.26,0.05,343.2,261.53,81.67,UPI,3,Delivered
+ORD-101105,09-09-2025,CUST-1129,Consumer,East,Kolkata,Store,Clothing,Jeans,1,1533.57,0.05,1456.89,982.46,474.43,Net Banking,3,Delivered
+ORD-100860,09-09-2025,CUST-1063,Consumer,South,Kochi,Online,Electronics,Wireless Earbuds,2,1663.34,0,3326.68,2262.21,1064.47,UPI,2,Shipped
+ORD-100611,10-09-2025,CUST-1254,Consumer,North,Delhi,Store,Electronics,Smartwatch,2,4623.9,0.05,8785.41,6597.36,2188.05,Credit Card,2,Processing
+ORD-100600,10-09-2025,CUST-1066,Corporate,West,Surat,Mobile App,Beauty,Moisturizer,2,372.05,0.05,706.89,442.46,264.44,Credit Card,1,Delivered
+ORD-101193,10-09-2025,CUST-1050,Consumer,West,Pune,Mobile App,Sports,Dumbbells,1,1600.77,0.1,1440.69,998.97,441.72,Cash,4,Delivered
+ORD-100843,11-09-2025,CUST-1061,Consumer,Central,Raipur,Online,Clothing,Sneakers,2,2381.43,0.1,4286.57,3190.84,1095.73,Debit Card,4,Delivered
+ORD-101103,12-09-2025,CUST-1084,Corporate,Central,Nagpur,Mobile App,Sports,Dumbbells,3,1496.91,0.15,3817.12,3132.73,684.39,UPI,3,Delivered
+ORD-101186,14-09-2025,CUST-1287,Corporate,Central,Indore,Store,Beauty,Moisturizer,5,356.56,0.05,1693.66,1319.5,374.16,Cash,4,Cancelled
+ORD-100922,14-09-2025,CUST-1065,Consumer,North,Lucknow,Mobile App,Home & Kitchen,Cookware Set,2,2329.62,0.15,3960.35,2815.31,1145.04,Debit Card,7,Delivered
+ORD-100905,16-09-2025,CUST-1102,Consumer,South,Kochi,Online,Clothing,Sneakers,2,2277.4,0,4554.8,2804.02,1750.78,Cash,4,Delivered
+ORD-100579,16-09-2025,CUST-1136,Consumer,North,Lucknow,Online,Sports,Yoga Mat,3,757.28,0,2271.84,1575.51,696.33,Credit Card,4,Delivered
+ORD-101091,16-09-2025,CUST-1203,Consumer,East,Kolkata,Store,Electronics,Smartwatch,1,4827.7,0,4827.7,3009.31,1818.39,UPI,4,Delivered
+ORD-100311,18-09-2025,CUST-1115,Small Business,Central,Bhopal,Online,Sports,Yoga Mat,1,743.06,0.1,668.75,507.09,161.67,UPI,3,Delivered
+ORD-100304,19-09-2025,CUST-1278,Small Business,Central,Raipur,Store,Clothing,T-Shirt,1,532.11,0.1,478.9,352.24,126.66,UPI,4,Processing
+ORD-100255,19-09-2025,CUST-1277,Consumer,South,Bengaluru,Online,Clothing,T-Shirt,2,477.3,0.05,906.87,613.94,292.93,Debit Card,4,Delivered
+ORD-100844,19-09-2025,CUST-1316,Consumer,South,Hyderabad,Store,Clothing,Kurta,1,938.23,0.1,844.41,685.38,159.03,UPI,3,Delivered
+ORD-100789,19-09-2025,CUST-1156,Consumer,North,Lucknow,Online,Clothing,Sneakers,3,2324.86,0.1,6277.12,5307.71,969.41,UPI,3,Delivered
+ORD-101094,21-09-2025,CUST-1273,Consumer,North,Chandigarh,Online,Electronics,Wireless Earbuds,3,1963.58,0,5890.74,3922.67,1968.07,UPI,3,Delivered
+ORD-101097,21-09-2025,CUST-1124,Consumer,East,Patna,Online,Electronics,Smartphone,1,16760.61,0.15,14246.52,11989.19,2257.33,UPI,7,Delivered
+ORD-100058,22-09-2025,CUST-1113,Consumer,East,Guwahati,Online,Home & Kitchen,Bedsheet,3,985.65,0.1,2661.25,1794.65,866.6,UPI,1,Delivered
+ORD-100554,23-09-2025,CUST-1216,Consumer,North,Jaipur,Mobile App,Electronics,Laptop,1,52801.35,0.05,50161.28,30059.33,20101.95,UPI,3,Delivered
+ORD-100808,23-09-2025,CUST-1093,Small Business,West,Ahmedabad,Online,Electronics,Smartphone,1,17622.27,0,17622.27,11166.08,6456.19,Debit Card,4,Delivered
+ORD-100342,23-09-2025,CUST-1135,Consumer,South,Kochi,Mobile App,Sports,Running Shoes,1,3394.83,0.1,3055.35,2510.95,544.4,Credit Card,5,Delivered
+ORD-101004,24-09-2025,CUST-1258,Consumer,Central,Bhopal,Online,Clothing,Kurta,2,1093.83,0.1,1968.89,1653.56,315.33,Cash,3,Delivered
+ORD-100301,29-09-2025,CUST-1097,Consumer,North,Delhi,Mobile App,Home & Kitchen,Cookware Set,2,2255.82,0.15,3834.89,3255.94,578.95,Credit Card,3,Delivered
+ORD-100891,29-09-2025,CUST-1218,Consumer,West,Ahmedabad,Store,Beauty,Moisturizer,2,343.37,0,686.74,523.72,163.02,UPI,2,Delivered
+ORD-100847,30-09-2025,CUST-1074,Consumer,East,Guwahati,Store,Beauty,Moisturizer,1,353.27,0.1,317.94,261.21,56.74,Credit Card,4,Delivered
+ORD-100307,30-09-2025,CUST-1139,Corporate,North,Chandigarh,Online,Clothing,Sneakers,1,2414.49,0,2414.49,1876.65,537.84,UPI,3,Delivered
+ORD-100792,03-10-2025,CUST-1086,Corporate,South,Bengaluru,Online,Electronics,Smartphone,1,19452.81,0,19452.81,11623.02,7829.79,UPI,3,Processing
+ORD-100943,03-10-2025,CUST-1141,Consumer,Central,Nagpur,Online,Home & Kitchen,Mixer Grinder,1,3219.13,0.1,2897.22,1829.36,1067.85,Debit Card,3,Delivered
+ORD-100849,04-10-2025,CUST-1192,Corporate,Central,Nagpur,Online,Sports,Running Shoes,2,3622.21,0,7244.42,4680.67,2563.75,UPI,2,Delivered
+ORD-100346,05-10-2025,CUST-1091,Consumer,Central,Raipur,Online,Home & Kitchen,Bedsheet,5,856.95,0.15,3642.04,2777.21,864.83,Credit Card,3,Delivered
+ORD-100852,05-10-2025,CUST-1025,Small Business,North,Chandigarh,Mobile App,Clothing,T-Shirt,2,450.34,0.05,855.65,590.75,264.89,UPI,7,Delivered
+ORD-100406,05-10-2025,CUST-1138,Consumer,North,Lucknow,Mobile App,Home & Kitchen,Cookware Set,1,2201.18,0,2201.18,1678.05,523.13,UPI,3,Delivered
+ORD-100919,06-10-2025,CUST-1102,Small Business,North,Jaipur,Mobile App,Clothing,Jeans,1,1409.32,0.15,1197.92,1006.1,191.82,UPI,5,Delivered
+ORD-100349,08-10-2025,CUST-1345,Consumer,West,Mumbai,Store,Sports,Cricket Bat,1,2417.21,0.1,2175.49,1386.68,788.81,Debit Card,6,Processing
+ORD-100128,09-10-2025,CUST-1283,Corporate,South,Bengaluru,Online,Beauty,Hair Dryer,2,2028.48,0,4056.96,2586.83,1470.13,UPI,4,Delivered
+ORD-100328,09-10-2025,CUST-1337,Consumer,East,Patna,Online,Home & Kitchen,Cookware Set,1,2583.56,0.1,2325.2,1618.04,707.17,Credit Card,4,Delivered
+ORD-100854,10-10-2025,CUST-1161,Small Business,Central,Nagpur,Online,Electronics,Laptop,2,48880.17,0.2,78208.27,61637.84,16570.43,Debit Card,3,Delivered
+ORD-100194,11-10-2025,CUST-1007,Consumer,South,Hyderabad,Mobile App,Sports,Running Shoes,3,3182.7,0.15,8115.88,5565.85,2550.04,Net Banking,7,Delivered
+ORD-100364,12-10-2025,CUST-1226,Consumer,East,Patna,Online,Beauty,Perfume,2,1307.7,0.1,2353.86,1658.65,695.21,Credit Card,3,Processing
+ORD-100533,12-10-2025,CUST-1245,Consumer,East,Kolkata,Online,Sports,Yoga Mat,1,764.94,0.05,726.69,572.21,154.48,UPI,2,Delivered
+ORD-100187,13-10-2025,CUST-1025,Corporate,West,Ahmedabad,Mobile App,Clothing,T-Shirt,3,506.7,0.15,1292.09,1044.76,247.32,Credit Card,5,Delivered
+ORD-100062,13-10-2025,CUST-1230,Consumer,Central,Nagpur,Online,Beauty,Moisturizer,1,359.94,0.2,287.95,247.94,40.01,Debit Card,2,Delivered
+ORD-100086,14-10-2025,CUST-1245,Consumer,Central,Bhopal,Online,Sports,Yoga Mat,1,760.37,0.1,684.33,493.96,190.38,Credit Card,6,Delivered
+ORD-100237,16-10-2025,CUST-1089,Consumer,East,Patna,Store,Electronics,Laptop,3,56849.25,0.2,136438.2,127734.53,8703.67,Credit Card,2,Delivered
+ORD-101021,16-10-2025,CUST-1342,Consumer,West,Ahmedabad,Online,Beauty,Moisturizer,2,362.66,0.15,616.52,406.09,210.43,Credit Card,4,Processing
+ORD-100601,16-10-2025,CUST-1210,Consumer,West,Ahmedabad,Online,Electronics,Laptop,1,54891.04,0.1,49401.94,37312.14,12089.8,UPI,3,Cancelled
+ORD-100398,17-10-2025,CUST-1057,Consumer,West,Ahmedabad,Mobile App,Electronics,Smartwatch,2,4650.33,0.15,7905.56,5854.7,2050.86,Debit Card,2,Delivered
+ORD-100807,17-10-2025,CUST-1014,Corporate,West,Mumbai,Store,Sports,Yoga Mat,2,824.53,0,1649.06,1067.43,581.63,Credit Card,1,Delivered
+ORD-100117,17-10-2025,CUST-1293,Small Business,East,Bhubaneswar,Store,Electronics,Laptop,1,53159.22,0.1,47843.3,33120.13,14723.17,UPI,4,Delivered
+ORD-100051,18-10-2025,CUST-1016,Corporate,West,Pune,Online,Beauty,Hair Dryer,3,1778.08,0.05,5067.53,4040.4,1027.13,Credit Card,3,Delivered
+ORD-100391,18-10-2025,CUST-1047,Corporate,East,Guwahati,Mobile App,Electronics,Laptop,2,50747.83,0.15,86271.31,71517.41,14753.9,UPI,4,Shipped
+ORD-100967,19-10-2025,CUST-1329,Small Business,Central,Bhopal,Mobile App,Electronics,Smartphone,2,18675.98,0.1,33616.76,28072.28,5544.49,UPI,2,Delivered
+ORD-100476,21-10-2025,CUST-1015,Consumer,South,Chennai,Online,Clothing,Sneakers,3,2446.41,0.1,6605.31,5523.13,1082.17,UPI,4,Delivered
+ORD-100862,21-10-2025,CUST-1232,Small Business,East,Guwahati,Online,Home & Kitchen,Storage Box,1,364.13,0.05,345.92,201.58,144.34,UPI,7,Delivered
+ORD-100050,22-10-2025,CUST-1239,Consumer,West,Surat,Mobile App,Clothing,T-Shirt,1,537.2,0,537.2,319.07,218.13,Debit Card,2,Processing
+ORD-100673,23-10-2025,CUST-1023,Consumer,West,Mumbai,Online,Home & Kitchen,Mixer Grinder,5,3328.14,0.1,14976.63,9788.92,5187.71,Cash,1,Shipped
+ORD-100104,25-10-2025,CUST-1192,Consumer,East,Guwahati,Store,Sports,Running Shoes,1,3288.8,0.05,3124.36,2235.02,889.34,UPI,2,Delivered
+ORD-100532,25-10-2025,CUST-1135,Consumer,South,Kochi,Store,Beauty,Face Wash,2,195.79,0.2,313.26,276.96,36.31,UPI,3,Delivered
+ORD-100632,25-10-2025,CUST-1204,Corporate,South,Kochi,Store,Clothing,Sneakers,2,2258.27,0.05,4290.71,3146.67,1144.04,UPI,3,Delivered
+ORD-100672,27-10-2025,CUST-1253,Consumer,Central,Nagpur,Mobile App,Electronics,Laptop,1,48460.15,0,48460.15,35442.15,13018,UPI,4,Delivered
+ORD-100933,28-10-2025,CUST-1266,Small Business,South,Hyderabad,Mobile App,Clothing,Kurta,2,1042.33,0.1,1876.19,1606.23,269.96,UPI,2,Delivered
+ORD-100506,28-10-2025,CUST-1211,Consumer,West,Surat,Store,Electronics,Smartwatch,3,4127.04,0,12381.12,8969.29,3411.83,UPI,1,Delivered
+ORD-100448,29-10-2025,CUST-1123,Consumer,West,Surat,Online,Clothing,T-Shirt,2,519.52,0.1,935.14,662.99,272.15,Net Banking,4,Delivered
+ORD-100498,01-11-2025,CUST-1028,Corporate,South,Hyderabad,Store,Sports,Dumbbells,1,1455.82,0.1,1310.24,946.76,363.48,UPI,4,Delivered
+ORD-100112,04-11-2025,CUST-1002,Corporate,West,Mumbai,Store,Home & Kitchen,Bedsheet,1,972.44,0.1,875.2,639.14,236.06,Debit Card,4,Processing
+ORD-100801,04-11-2025,CUST-1323,Consumer,East,Bhubaneswar,Online,Clothing,Kurta,1,1002.72,0.15,852.31,589.39,262.92,Net Banking,5,Delivered
+ORD-100679,04-11-2025,CUST-1087,Consumer,South,Chennai,Online,Beauty,Face Wash,1,183.4,0.05,174.23,105.03,69.2,UPI,4,Delivered
+ORD-100366,05-11-2025,CUST-1268,Consumer,Central,Raipur,Store,Home & Kitchen,Cookware Set,2,2419.6,0.15,4113.32,2852.64,1260.68,Credit Card,1,Delivered
+ORD-101077,05-11-2025,CUST-1083,Corporate,West,Surat,Store,Clothing,Jeans,1,1584.12,0.05,1504.91,1086.72,418.19,UPI,3,Delivered
+ORD-101048,06-11-2025,CUST-1140,Consumer,North,Chandigarh,Mobile App,Clothing,Jeans,2,1600.23,0,3200.46,2018.78,1181.68,UPI,2,Delivered
+ORD-101003,06-11-2025,CUST-1092,Corporate,South,Bengaluru,Store,Beauty,Perfume,5,1358.65,0.05,6453.59,4867.76,1585.82,UPI,2,Delivered
+ORD-101064,06-11-2025,CUST-1333,Consumer,South,Kochi,Store,Clothing,Jeans,2,1638.54,0.15,2785.52,2511.16,274.36,UPI,4,Delivered
+ORD-100419,08-11-2025,CUST-1167,Small Business,East,Bhubaneswar,Online,Sports,Dumbbells,4,1477.4,0.1,5318.64,3636.99,1681.65,Cash,1,Shipped
+ORD-100915,08-11-2025,CUST-1304,Consumer,East,Guwahati,Online,Clothing,Jeans,1,1525.01,0.05,1448.76,850.15,598.61,Debit Card,4,Cancelled
+ORD-101172,09-11-2025,CUST-1048,Small Business,West,Ahmedabad,Mobile App,Home & Kitchen,Bedsheet,4,855.26,0.1,3078.94,2137.07,941.86,UPI,4,Delivered
+ORD-100003,10-11-2025,CUST-1213,Corporate,North,Delhi,Online,Beauty,Moisturizer,1,314.92,0.05,299.17,194.58,104.6,Credit Card,1,Shipped
+ORD-100224,11-11-2025,CUST-1154,Consumer,West,Mumbai,Online,Clothing,Sneakers,3,2427.52,0.1,6554.3,4317.66,2236.64,Debit Card,2,Delivered
+ORD-100786,12-11-2025,CUST-1012,Consumer,North,Chandigarh,Online,Sports,Dumbbells,2,1676.9,0.05,3186.11,2193.27,992.84,Credit Card,5,Processing
+ORD-100553,12-11-2025,CUST-1080,Consumer,East,Guwahati,Online,Home & Kitchen,Storage Box,1,376.56,0.1,338.9,220.56,118.34,Debit Card,2,Delivered
+ORD-100433,14-11-2025,CUST-1311,Consumer,West,Mumbai,Store,Home & Kitchen,Bedsheet,1,929.5,0.2,743.6,548.79,194.81,UPI,1,Delivered
+ORD-100733,15-11-2025,CUST-1252,Consumer,West,Pune,Online,Clothing,Sneakers,1,2693.98,0.15,2289.88,1529.23,760.65,Debit Card,1,Delivered
+ORD-100654,15-11-2025,CUST-1306,Consumer,Central,Indore,Online,Electronics,Laptop,1,51699.55,0.15,43944.62,29916.53,14028.09,Debit Card,2,Delivered
+ORD-100088,17-11-2025,CUST-1222,Consumer,North,Chandigarh,Store,Clothing,Kurta,2,1058.19,0.05,2010.56,1501.03,509.53,Cash,4,Delivered
+ORD-100131,17-11-2025,CUST-1239,Consumer,East,Bhubaneswar,Store,Clothing,Kurta,1,920.25,0.05,874.24,593.59,280.65,UPI,3,Processing
+ORD-100856,18-11-2025,CUST-1105,Consumer,North,Lucknow,Mobile App,Clothing,Jeans,1,1424.65,0.05,1353.42,809.06,544.36,Net Banking,2,Shipped
+ORD-100219,22-11-2025,CUST-1318,Corporate,North,Lucknow,Online,Electronics,Smartwatch,1,4539.58,0,4539.58,3383.13,1156.45,UPI,3,Delivered
+ORD-100093,22-11-2025,CUST-1183,Corporate,West,Mumbai,Store,Clothing,Sneakers,1,2256.97,0,2256.97,1717.15,539.82,Credit Card,5,Delivered
+ORD-100123,25-11-2025,CUST-1091,Small Business,South,Hyderabad,Mobile App,Home & Kitchen,Storage Box,1,402.73,0.15,342.32,253.36,88.96,Credit Card,1,Delivered
+ORD-100193,26-11-2025,CUST-1214,Consumer,Central,Raipur,Online,Home & Kitchen,Cookware Set,2,2336.14,0,4672.28,2791.75,1880.53,UPI,4,Delivered
+ORD-100248,26-11-2025,CUST-1216,Consumer,South,Hyderabad,Online,Sports,Running Shoes,2,2994.44,0.05,5689.44,4642.44,1046.99,Credit Card,3,Delivered
+ORD-100683,28-11-2025,CUST-1281,Consumer,West,Ahmedabad,Online,Home & Kitchen,Cookware Set,2,2438.38,0,4876.76,3460.64,1416.12,UPI,2,Shipped
+ORD-100796,28-11-2025,CUST-1251,Small Business,North,Chandigarh,Online,Home & Kitchen,Bedsheet,1,891.08,0.15,757.42,568.12,189.3,UPI,7,Delivered
+ORD-100272,28-11-2025,CUST-1274,Consumer,West,Ahmedabad,Online,Clothing,T-Shirt,3,506.72,0.1,1368.14,996.35,371.8,Credit Card,2,Delivered
+ORD-101121,28-11-2025,CUST-1266,Consumer,Central,Indore,Store,Beauty,Hair Dryer,5,1848.18,0.1,8316.81,7016.47,1300.34,Credit Card,1,Delivered
+ORD-101053,28-11-2025,CUST-1314,Consumer,South,Hyderabad,Mobile App,Home & Kitchen,Bedsheet,1,966.54,0,966.54,670.88,295.66,UPI,2,Delivered
+ORD-100437,28-11-2025,CUST-1244,Consumer,North,Lucknow,Online,Sports,Dumbbells,1,1632.26,0.15,1387.42,1272.75,114.67,Credit Card,7,Delivered
+ORD-100716,29-11-2025,CUST-1288,Small Business,Central,Raipur,Online,Beauty,Moisturizer,3,381.98,0,1145.94,705.42,440.52,UPI,4,Cancelled
+ORD-100074,30-11-2025,CUST-1317,Consumer,North,Delhi,Store,Beauty,Face Wash,1,193.21,0.1,173.89,148.09,25.8,Credit Card,3,Delivered
+ORD-100779,01-12-2025,CUST-1089,Consumer,North,Chandigarh,Online,Electronics,Smartwatch,1,4472.83,0.1,4025.55,2606.76,1418.79,Net Banking,1,Delivered
+ORD-100439,01-12-2025,CUST-1087,Corporate,Central,Nagpur,Online,Clothing,T-Shirt,3,463.09,0.1,1250.34,766.66,483.69,Cash,3,Shipped
+ORD-100378,02-12-2025,CUST-1245,Small Business,West,Pune,Online,Home & Kitchen,Storage Box,1,381.86,0.15,324.58,289.57,35.01,UPI,3,Shipped
+ORD-101061,03-12-2025,CUST-1194,Consumer,South,Chennai,Mobile App,Sports,Dumbbells,2,1566.52,0.2,2506.43,2088.92,417.51,Cash,7,Delivered
+ORD-100245,05-12-2025,CUST-1009,Small Business,West,Pune,Online,Clothing,Sneakers,4,2272.59,0.05,8635.84,5846.78,2789.07,Net Banking,5,Delivered
+ORD-100641,05-12-2025,CUST-1081,Consumer,West,Surat,Store,Beauty,Perfume,3,1275.29,0.15,3251.99,2703.13,548.86,UPI,3,Delivered
+ORD-101169,06-12-2025,CUST-1274,Consumer,South,Chennai,Online,Clothing,Kurta,1,984.77,0.15,837.05,715.91,121.15,UPI,3,Processing
+ORD-100345,06-12-2025,CUST-1141,Consumer,South,Chennai,Online,Sports,Cricket Bat,2,2608.01,0.1,4694.42,4005.84,688.58,UPI,6,Delivered
+ORD-100094,07-12-2025,CUST-1153,Consumer,South,Chennai,Store,Sports,Dumbbells,1,1461.27,0.1,1315.14,1050.06,265.09,Net Banking,4,Processing
+ORD-100895,08-12-2025,CUST-1186,Consumer,North,Chandigarh,Mobile App,Home & Kitchen,Cookware Set,2,2262.48,0.05,4298.71,3378.09,920.62,Debit Card,2,Delivered
+ORD-100241,08-12-2025,CUST-1026,Small Business,North,Lucknow,Mobile App,Beauty,Hair Dryer,1,1946.66,0,1946.66,1237.67,708.99,Credit Card,2,Delivered
+ORD-100631,10-12-2025,CUST-1268,Consumer,Central,Raipur,Mobile App,Beauty,Moisturizer,1,337.61,0.1,303.85,230.36,73.49,UPI,2,Shipped
+ORD-100942,10-12-2025,CUST-1177,Consumer,South,Hyderabad,Store,Beauty,Moisturizer,3,347.36,0.15,885.77,632.38,253.39,Cash,4,Cancelled
+ORD-100067,12-12-2025,CUST-1063,Consumer,South,Kochi,Online,Home & Kitchen,Cookware Set,2,2203.87,0,4407.74,3313.82,1093.92,UPI,6,Processing
+ORD-100306,12-12-2025,CUST-1139,Consumer,North,Lucknow,Store,Home & Kitchen,Storage Box,2,416.15,0.05,790.68,516.43,274.26,Net Banking,4,Delivered
+ORD-100975,12-12-2025,CUST-1271,Consumer,North,Lucknow,Store,Beauty,Perfume,1,1318.42,0.05,1252.5,973.89,278.61,UPI,3,Cancelled
+ORD-100151,12-12-2025,CUST-1159,Corporate,North,Lucknow,Online,Electronics,Smartphone,3,17937.77,0.15,45741.31,37925.19,7816.12,Cash,2,Delivered
+ORD-100300,13-12-2025,CUST-1331,Corporate,East,Kolkata,Online,Electronics,Smartphone,2,16785.04,0.2,26856.06,25038.7,1817.36,UPI,4,Delivered
+ORD-100939,13-12-2025,CUST-1112,Consumer,North,Jaipur,Online,Clothing,T-Shirt,1,499.99,0.15,424.99,322.91,102.08,UPI,6,Shipped
+ORD-100576,13-12-2025,CUST-1227,Corporate,South,Hyderabad,Online,Beauty,Moisturizer,3,367.38,0.1,991.93,658.02,333.91,UPI,4,Delivered
+ORD-100648,15-12-2025,CUST-1111,Corporate,West,Surat,Mobile App,Clothing,T-Shirt,1,501.18,0.1,451.06,302.66,148.4,UPI,3,Delivered
+ORD-100471,17-12-2025,CUST-1235,Consumer,South,Hyderabad,Store,Sports,Dumbbells,1,1443.46,0.05,1371.29,1025.63,345.65,Credit Card,5,Delivered
+ORD-100324,17-12-2025,CUST-1130,Consumer,East,Patna,Store,Clothing,Sneakers,2,2582.45,0,5164.9,3886.25,1278.65,Debit Card,1,Delivered
+ORD-100329,17-12-2025,CUST-1168,Small Business,South,Kochi,Store,Electronics,Smartphone,1,16688.26,0,16688.26,11855.49,4832.77,UPI,2,Delivered
+ORD-100022,18-12-2025,CUST-1053,Corporate,North,Jaipur,Store,Sports,Dumbbells,2,1638.91,0,3277.82,2317.43,960.39,Credit Card,3,Delivered
+ORD-101156,21-12-2025,CUST-1123,Consumer,East,Guwahati,Online,Clothing,Sneakers,1,2590.2,0.05,2460.69,1799.14,661.55,Credit Card,1,Delivered
+ORD-100079,22-12-2025,CUST-1305,Consumer,East,Kolkata,Mobile App,Home & Kitchen,Storage Box,4,394.14,0.2,1261.25,1052.87,208.38,Net Banking,3,Delivered
+ORD-100902,22-12-2025,CUST-1121,Consumer,North,Delhi,Store,Sports,Cricket Bat,3,2322.39,0.15,5922.09,4286.19,1635.91,UPI,4,Delivered
+ORD-100535,24-12-2025,CUST-1282,Consumer,East,Bhubaneswar,Mobile App,Home & Kitchen,Mixer Grinder,3,3227.42,0.1,8714.03,6099.7,2614.33,Cash,3,Shipped
+ORD-100344,28-12-2025,CUST-1033,Corporate,Central,Nagpur,Store,Sports,Dumbbells,2,1584.76,0.1,2852.57,2003.32,849.25,UPI,3,Processing
+ORD-100431,28-12-2025,CUST-1011,Consumer,Central,Indore,Online,Home & Kitchen,Cookware Set,5,2429.35,0.1,10932.08,7589.85,3342.22,Debit Card,6,Delivered
+ORD-100461,29-12-2025,CUST-1028,Consumer,South,Chennai,Online,Electronics,Smartwatch,1,4357.41,0.15,3703.8,2961.69,742.11,Debit Card,2,Delivered
+ORD-100568,31-12-2025,CUST-1096,Corporate,East,Bhubaneswar,Store,Beauty,Hair Dryer,2,1919.29,0,3838.58,2726.15,1112.43,UPI,5,Delivered
+ORD-100002,31-12-2025,CUST-1028,Consumer,Central,Indore,Store,Home & Kitchen,Cookware Set,4,2447.37,0.1,8810.53,5696.89,3113.64,Debit Card,4,Delivered
